@@ -3931,6 +3931,9 @@
   <char id="004" name="Kendra" cc_theme_id="family" thumbnail_url="thumbnails/kendra.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4001" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_001.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="1001" name="William's Mom" cc_theme_id="family" thumbnail_url="thumbnails/william_mom.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
@@ -3972,9 +3975,6 @@
   </char>
   <char id="3007" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
-  </char>
-  <char id="4001" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_001.png" copyable="Y">
-    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
     <tags>family,_free,_cat:Holidays</tags>
