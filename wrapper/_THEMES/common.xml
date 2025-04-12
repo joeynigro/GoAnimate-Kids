@@ -15922,7 +15922,7 @@
 	<prop id="ball01.swf" name="Ball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10660" money="0" sharing="0"/>
 	<prop id="long_chair.swf" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10661" money="0" sharing="0"/>
 	<prop id="table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10662" money="0" sharing="0"/>
-	<prop id="cocktail_glass.swf" name="Cocktail glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10663" money="0" sharing="0"/>
+	<prop id="cocktail_glass.swf" name="Cocktail glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10663" money="0" sharing="0"/>
 	<prop id="palm_tree01.swf" name="Palm Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10664" money="0" sharing="0"/>
 	<prop id="palm_tree02.swf" name="Palm Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10665" money="0" sharing="0"/>
 	<prop id="square01.swf" name="Square" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10666" money="0" sharing="0"/>
