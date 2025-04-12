@@ -3920,16 +3920,16 @@
 	<prop id="living_room_sofa.swf" name="Sofa" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9797" money="0" sharing="0"/>
 
   <char id="001" name="William" cc_theme_id="family" thumbnail_url="thumbnails/william.png" copyable="Y">
-    <tags>family,_free,_cat:Main Characters</tags>
+    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="002" name="Allison" cc_theme_id="family" thumbnail_url="thumbnails/allison.png" copyable="Y">
-    <tags>family,_free,_cat:Main Characters</tags>
+    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="003" name="Lucas" cc_theme_id="family" thumbnail_url="thumbnails/lucas.png" copyable="Y">
-    <tags>family,_free,_cat:Main Characters</tags>
+    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="004" name="Kendra" cc_theme_id="family" thumbnail_url="thumbnails/kendra.png" copyable="Y">
-    <tags>family,_free,_cat:Main Characters</tags>
+    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="1001" name="William's Mom" cc_theme_id="family" thumbnail_url="thumbnails/william_mom.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
