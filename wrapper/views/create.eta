@@ -59,14 +59,14 @@
 					Chibi Peepz
 				</a>
 			</div>
-			<div class="theme" data-has-cc>
-				<a href="#" onclick="redirect('animal', 'cc2')">
+			<div class="theme">
+				<a href="#" onclick="redirect('animal')">
 					<img src="/pages/img/themes/animal.jpg" alt="Lil' Petz World">
 					Lil' Petz World
 				</a>
 			</div>
-			<div class="theme" data-has-cc>
-				<a href="#" onclick="redirect('space', 'cc2')">
+			<div class="theme">
+				<a href="#" onclick="redirect('space')">
 					<img src="/pages/img/themes/space.jpg" alt="Space Peepz">
 					Space Peepz
 				</a>
