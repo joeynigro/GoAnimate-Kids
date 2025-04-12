@@ -1534,7 +1534,7 @@
 			<rotation>0</rotation>
 		</prop>
 	</compositebg>
-	<compositebg id="cbg_camp_int" name="Military Camp interior" enable="Y" default="N" thumb="camp_interior.jpg" display_order="35" is_premium="N" money="0" sharing="0" aid="9706">
+	<compositebg id="cbg_camp_int" name="Military Camp interior" enable="N" default="N" thumb="camp_interior.jpg" display_order="35" is_premium="N" money="0" sharing="0" aid="9706">
 		<bg id="cbg_camp_int_BG2" index="0">
 			<file>custom.camp_int_bg.swf</file>
 		</bg>
@@ -2543,7 +2543,7 @@
 			<rotation>0</rotation>
 		</prop>
 	</compositebg>
-	<compositebg id="cbg_bar" name="Bar" enable="Y" default="N" thumb="bar.jpg" display_order="53" is_premium="N" money="0" sharing="0" aid="9813">
+	<compositebg id="cbg_bar" name="Bar" enable="N" default="N" thumb="bar.jpg" display_order="53" is_premium="N" money="0" sharing="0" aid="9813">
 		<bg id="cbg_bar_BG2" index="0">
 			<file>custom.bar_bg.swf</file>
 		</bg>

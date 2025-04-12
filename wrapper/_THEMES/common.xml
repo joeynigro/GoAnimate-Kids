@@ -7337,7 +7337,7 @@
 		<color r="ccColorA">3355443</color>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_vkrm" name="VIP Karaoke room" enable="Y" default="N" thumb="vip_karaoke_room.jpg" display_order="409" is_premium="N" money="0" sharing="0" aid="10787">
+	<compositebg id="cbg_vkrm" name="VIP Karaoke room" enable="N" default="N" thumb="vip_karaoke_room.jpg" display_order="409" is_premium="N" money="0" sharing="0" aid="10787">
 	<bg id="cbg_vkrm_cbg_bar01_BG25" index="0">
 		<file>common.ncc_floor.swf</file>
 		<color r="colorA">3342387</color>
@@ -17443,7 +17443,7 @@
 		<state id="msp_sniper_rooftop02_ncc_sniper_rooftop02.swf" name="front" enable="Y"/>
 		<state id="msp_sniper_rooftop02_ncc_sniper_rooftop03.swf" name="full" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_sniper_rooftop04" name="Outdoor advertising" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sniper_rooftop04_ncc_sniper_rooftop04.swf" enable="Y" is_premium="N" aid="12240" money="0" sharing="0">
+	<prop id="msp_sniper_rooftop04" name="Outdoor advertising" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sniper_rooftop04_ncc_sniper_rooftop04.swf" enable="N" is_premium="N" aid="12240" money="0" sharing="0">
 		<state id="msp_sniper_rooftop04_ncc_sniper_rooftop04.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_sniper_rooftop04_ncc_sniper_rooftop05.swf" name="side" enable="Y"/>
 	</prop>
