@@ -3934,6 +3934,12 @@
   <char id="4001" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_001.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4003" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_002.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4004" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_003.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="1001" name="William's Mom" cc_theme_id="family" thumbnail_url="thumbnails/william_mom.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
