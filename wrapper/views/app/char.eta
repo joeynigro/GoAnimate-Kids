@@ -24,7 +24,5 @@
 		<main>
 			<%~ it.extra.object(it.extra.attrs, it.extra.params) %>
 		</main>
-
-		<%~ includeFile("../includes/footer", { env: it.env }) %>
 	</body>
 </html>
