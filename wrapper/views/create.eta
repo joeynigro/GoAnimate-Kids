@@ -72,8 +72,6 @@
 				</a>
 			</div>
 		</main>
-
-		<%~ includeFile("./includes/footer", { env: it.env }) %>
 	</body>
 
 	<script>
