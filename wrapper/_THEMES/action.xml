@@ -186,4 +186,13 @@
 		<state id="msp_vending_drink_vending_drink.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_vending_drink_ncc_vending_drink_side.swf" name="side" enable="Y"/>
 	</prop>
+  <char id="5004" name="Halloween - Skeleton" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/skeleton.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5003" name="Halloween - Mummy" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/mummy.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5001" name="Christmss - Santa Claus" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/santa.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
 </theme>
