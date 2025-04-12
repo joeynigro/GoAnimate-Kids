@@ -3970,6 +3970,9 @@
   <char id="3001" name="Builder" cc_theme_id="family" thumbnail_url="thumbnails/builder.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
+  <char id="3007" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="4001" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_001.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
