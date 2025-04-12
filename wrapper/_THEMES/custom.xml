@@ -3988,5 +3988,8 @@
   <char id="5007" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_female.png" copyable="Y">
     <tags>family,_free,_cat:Holidays</tags>
   </char>
+  <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
 </theme>
 <!--If you see this, Blukas/GoTube says hi and you should give him credit if you modify this ;)-->
