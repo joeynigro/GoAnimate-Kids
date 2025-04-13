@@ -170,7 +170,7 @@
 	<background id="ncc_revolu_bg.swf" name="Independence hall" enable="N" default="N" is_premium="N" aid="11995" money="0" sharing="0"/>
 	<background id="ncc_revolu_map.swf" name="US Revolutionary War map" enable="Y" default="N" is_premium="N" aid="11996" money="0" sharing="0"/>
 	<background id="ncc_usmap.swf" name="US map" enable="Y" default="N" is_premium="Y" aid="11997" money="0" sharing="0"/>
-	<background id="ncc_warland.swf" name="Battlefield" enable="Y" default="N" is_premium="Y" aid="11998" money="0" sharing="0"/>
+	<background id="ncc_warland.swf" name="Battlefield" enable="N" default="N" is_premium="Y" aid="11998" money="0" sharing="0"/>
 	<background id="wall25.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11999" money="0" sharing="0"/>
 	<background id="wall26.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="12000" money="0" sharing="0"/>
 	<background id="ncc_lift_bg.swf" name="Lift inside" enable="Y" default="N" is_premium="N" aid="12001" money="0" sharing="0"/>
@@ -2836,15 +2836,6 @@
 		<rotation>0</rotation>
 		<color r="ccColorB">13421772</color>
 	</prop>
-	<prop id="PROP292" index="12">
-		<file>common.battles01.swf</file>
-		<x>343.1</x>
-		<y>215.3</y>
-		<xscale>0.82</xscale>
-		<yscale>0.82</yscale>
-		<face>1</face>
-		<rotation>0</rotation>
-	</prop>
 	<prop id="PROP293" index="11">
 		<file>common.cafe_table.swf</file>
 		<x>307</x>
@@ -2937,7 +2928,7 @@
 		<color r="ccColorA">5186840</color>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_toilet" name="Toilet" enable="Y" default="N" thumb="ncc_toilet.jpg" display_order="108" is_premium="Y" money="0" sharing="0" aid="11779">
+	<compositebg id="cbg_ncc_toilet" name="Toilet" enable="N" default="N" thumb="ncc_toilet.jpg" display_order="108" is_premium="Y" money="0" sharing="0" aid="11779">
 	<bg id="cbg_ncc_toilet_BG7" index="0">
 		<file>common.wall16.swf</file>
 	</bg>
@@ -5533,7 +5524,7 @@
 		<rotation>0.9</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="ncc_sniper01" name="Rooftop" enable="Y" default="N" thumb="ncc_sniper01.jpg" display_order="211" is_premium="Y" money="0" sharing="0" aid="12328">
+	<compositebg id="ncc_sniper01" name="Rooftop" enable="N" default="N" thumb="ncc_sniper01.jpg" display_order="211" is_premium="Y" money="0" sharing="0" aid="12328">
 	<bg id="ncc_sniper01_BG7" index="0">
 		<file>common.wall30.swf</file>
 		<color r="ccColorA">3354167</color>
@@ -5651,7 +5642,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="ncc_sniper02" name="Rooftop" enable="Y" default="N" thumb="ncc_sniper02.jpg" display_order="212" is_premium="Y" money="0" sharing="0" aid="12329">
+	<compositebg id="ncc_sniper02" name="Rooftop" enable="N" default="N" thumb="ncc_sniper02.jpg" display_order="212" is_premium="Y" money="0" sharing="0" aid="12329">
 	<bg id="ncc_sniper02_BG58" index="0">
 		<file>common.wall30.swf</file>
 		<color r="ccColorA">6724044</color>
@@ -6565,7 +6556,7 @@
 		<color r="ccColorA">13382400</color>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_bar01" name="Bar" enable="Y" default="N" thumb="bar01.jpg" display_order="402" is_premium="N" money="0" sharing="0" aid="10682">
+	<compositebg id="cbg_bar01" name="Bar" enable="N" default="N" thumb="bar01.jpg" display_order="402" is_premium="N" money="0" sharing="0" aid="10682">
 	<bg id="cbg_bar01_BG25" index="0">
 		<file>common.ncc_floor.swf</file>
 		<color r="colorA">3342336</color>
@@ -7139,7 +7130,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_krm" name="Karaoke room" enable="Y" default="N" thumb="karaoke_room.jpg" display_order="408" is_premium="N" money="0" sharing="0" aid="10788">
+	<compositebg id="cbg_krm" name="Karaoke room" enable="N" default="N" thumb="karaoke_room.jpg" display_order="408" is_premium="N" money="0" sharing="0" aid="10788">
 	<bg id="cbg_krm_BG58" index="0">
 		<file>common.ncc_interior_right02.swf</file>
 		<color r="floor">2237013</color>
@@ -7346,7 +7337,7 @@
 		<color r="ccColorA">3355443</color>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_vkrm" name="VIP Karaoke room" enable="Y" default="N" thumb="vip_karaoke_room.jpg" display_order="409" is_premium="N" money="0" sharing="0" aid="10787">
+	<compositebg id="cbg_vkrm" name="VIP Karaoke room" enable="N" default="N" thumb="vip_karaoke_room.jpg" display_order="409" is_premium="N" money="0" sharing="0" aid="10787">
 	<bg id="cbg_vkrm_cbg_bar01_BG25" index="0">
 		<file>common.ncc_floor.swf</file>
 		<color r="colorA">3342387</color>
@@ -7952,15 +7943,6 @@
 		<rotation>0</rotation>
 		<color r="ccColorB">26214</color>
 		<color r="ccColorA">39219</color>
-	</prop>
-	<prop id="cbg_ncc_hospital_PROP19" index="9">
-		<file>common.msp_ncc_bottle.msp_ncc_bottle_ncc_hpbottle01.swf</file>
-		<x>459</x>
-		<y>158.8</y>
-		<xscale>1</xscale>
-		<yscale>1</yscale>
-		<face>1</face>
-		<rotation>0</rotation>
 	</prop>
 	<prop id="cbg_ncc_hospital_PROP20" index="10">
 		<file>common.ncc_hpbox.swf</file>
@@ -8741,7 +8723,7 @@
 		<color r="ccColorA">16777215</color>
 	</prop>
 </compositebg>
-	<compositebg id="ncc_game01" name="Bar fight" enable="Y" default="N" thumb="ncc_game01.jpg" display_order="425" is_premium="Y" money="0" sharing="0" aid="12327">
+	<compositebg id="ncc_game01" name="Bar fight" enable="N" default="N" thumb="ncc_game01.jpg" display_order="425" is_premium="Y" money="0" sharing="0" aid="12327">
 	<bg id="ncc_game01_cbg_bar01_BG25" index="0">
 		<file>common.ncc_floor.swf</file>
 		<color r="colorA">3932208</color>
@@ -9438,7 +9420,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_bossrm" name="Boss room" enable="Y" default="N" thumb="ncc_boss_office.jpg" display_order="455" is_premium="Y" money="0" sharing="0" aid="11857">
+	<compositebg id="cbg_ncc_bossrm" name="Boss room" enable="N" default="N" thumb="ncc_boss_office.jpg" display_order="455" is_premium="Y" money="0" sharing="0" aid="11857">
 	<bg id="cbg_ncc_bossrm_BG7" index="0">
 		<file>common.ncc_corridor.swf</file>
 		<color r="ccColorA">4456449</color>
@@ -11351,15 +11333,6 @@
 		<face>1</face>
 		<rotation>0</rotation>
 	</prop>
-	<prop id="PROP456" index="10">
-		<file>common.cocktail_glass.swf</file>
-		<x>280</x>
-		<y>257.7</y>
-		<xscale>1</xscale>
-		<yscale>1</yscale>
-		<face>1</face>
-		<rotation>0</rotation>
-	</prop>
 	<prop id="PROP457" index="9">
 		<file>common.wood_chair.swf</file>
 		<x>271.8</x>
@@ -12193,7 +12166,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_battlefield" name="Battlefield" enable="Y" default="N" thumb="ncc_battlefield.jpg" display_order="512" is_premium="Y" money="0" sharing="0" aid="11670">
+	<compositebg id="cbg_ncc_battlefield" name="Battlefield" enable="N" default="N" thumb="ncc_battlefield.jpg" display_order="512" is_premium="Y" money="0" sharing="0" aid="11670">
 	<bg id="cbg_ncc_battlefield_BG49" index="0">
 		<file>common.ncc_soil.swf</file>
 		<color r="ccColorA">10667212</color>
@@ -13562,7 +13535,7 @@
 		<rotation>0.1</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_graveyard" name="Graveyard" enable="Y" default="N" thumb="ncc_graveyard.jpg" display_order="601" is_premium="Y" money="0" sharing="0" aid="11320">
+	<compositebg id="cbg_ncc_graveyard" name="Graveyard" enable="N" default="N" thumb="ncc_graveyard.jpg" display_order="601" is_premium="Y" money="0" sharing="0" aid="11320">
 	<bg id="cbg_ncc_graveyard_BG7" index="0">
 		<file>common.ncc_gradient.swf</file>
 		<color r="colorA">3623305</color>
@@ -13807,7 +13780,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_spookylab" name="Spooky lab" enable="Y" default="N" thumb="ncc_spookylab.jpg" display_order="603" is_premium="Y" money="0" sharing="0" aid="11321">
+	<compositebg id="cbg_ncc_spookylab" name="Spooky lab" enable="N" default="N" thumb="ncc_spookylab.jpg" display_order="603" is_premium="Y" money="0" sharing="0" aid="11321">
 	<bg id="cbg_ncc_spookylab_BG7" index="0">
 		<file>common.nccha_stone.swf</file>
 	</bg>
@@ -15486,18 +15459,18 @@
 	<prop id="guitar.swf" name="Guitar" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3213" money="0" sharing="0"/>
 	<prop id="saxophone.swf" name="Saxophone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3214" money="0" sharing="0" handstyle="flat"/>
 	<prop id="glass1.swf" name="Glass" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3215" money="0" sharing="0"/>
-	<prop id="prop01.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3216" money="0" sharing="0" handstyle="stick"/>
+	<prop id="prop01.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3216" money="0" sharing="0" handstyle="stick"/>
 	<prop id="prop02.swf" name="Gun" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3217" money="0" sharing="0" handstyle="stick"/>
-	<prop id="wine1.swf" name="Wine" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3218" money="0" sharing="0" handstyle="flat"/>
-	<prop id="prop03.swf" name="Chainsaw" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3219" money="0" sharing="0" handstyle="flat"/>
+	<prop id="wine1.swf" name="Wine" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3218" money="0" sharing="0" handstyle="flat"/>
+	<prop id="prop03.swf" name="Chainsaw" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3219" money="0" sharing="0" handstyle="flat"/>
 	<prop id="baseballbat.swf" name="Baseball bat" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3220" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ak47.swf" name="AK 47" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3221" money="0" sharing="0" handstyle="stick"/>
 	<prop id="cake.swf" name="Cake" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3222" money="0" sharing="0"/>
 	<prop id="cigar.swf" name="Cigarette" holdable="1" placeable="0" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3223" money="0" sharing="0"/>
 	<prop id="coke1.swf" name="Coke" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3224" money="0" sharing="0" handstyle="flat"/>
-	<prop id="grenade.swf" name="Grenade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3225" money="0" sharing="0" handstyle="flat"/>
-	<prop id="pipe.swf" name="Pipe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3226" money="0" sharing="0" handstyle="stick"/>
-	<prop id="spinbat.swf" name="Spin Bat" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3227" money="0" sharing="0" handstyle="stick"/>
+	<prop id="grenade.swf" name="Grenade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3225" money="0" sharing="0" handstyle="flat"/>
+	<prop id="pipe.swf" name="Pipe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3226" money="0" sharing="0" handstyle="stick"/>
+	<prop id="spinbat.swf" name="Spin Bat" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3227" money="0" sharing="0" handstyle="stick"/>
 	<prop id="wincard1.swf" name="Winning Poke" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3228" money="0" sharing="0"/>
 	<prop id="foldedchair.swf" name="Folding chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3229" money="0" sharing="0"/>
 	<prop id="secretfolder.swf" name="Secret Folder" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3230" money="0" sharing="0" handstyle="flat"/>
@@ -15572,7 +15545,7 @@
 	<prop id="office_carpet.swf" name="Office Carpet" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3300" money="0" sharing="0"/>
 	<prop id="office_desk.swf" name="Office Desk" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3301" money="0" sharing="0"/>
 	<prop id="office_dog.swf" name="Office Dog" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3302" money="0" sharing="0"/>
-	<prop id="pumping_shit.swf" name="Pumping Poop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3303" money="0" sharing="0"/>
+	<prop id="pumping_shit.swf" name="Pumping Poop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3303" money="0" sharing="0"/>
 	<prop id="table01.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3304" money="0" sharing="0"/>
 	<prop id="table02.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3305" money="0" sharing="0"/>
 	<prop id="toilet room.swf" name="Toilet Room" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3306" money="0" sharing="0"/>
@@ -15596,7 +15569,7 @@
 	<prop id="court_hammer.swf" name="Court Hammer" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3324" money="0" sharing="0"/>
 	<prop id="cloud.swf" name="Cloud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3325" money="0" sharing="0"/>
 	<prop id="cloud_rain.swf" name="Cloud - raining" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3326" money="0" sharing="0"/>
-	<prop id="baton.swf" name="Baton" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3327" money="0" sharing="0" handstyle="stick"/>
+	<prop id="baton.swf" name="Baton" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3327" money="0" sharing="0" handstyle="stick"/>
 	<prop id="book.swf" name="Book" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3328" money="0" sharing="0"/>
 	<prop id="briefcase.swf" name="Briefcase" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3329" money="0" sharing="0"/>
 	<prop id="calculator.swf" name="Calculator" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3330" money="0" sharing="0" handstyle="flat"/>
@@ -15611,8 +15584,8 @@
 	<prop id="handcuff.swf" name="Handcuff" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3339" money="0" sharing="0"/>
 	<prop id="hat.swf" name="Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="3340" money="0" sharing="0"/>
 	<prop id="headphone.swf" name="Headphone" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="3341" money="0" sharing="0"/>
-	<prop id="katana.swf" name="Katana" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3342" money="0" sharing="0" handstyle="stick"/>
-	<prop id="katana_in_sheath.swf" name="Katana In Sheath" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3343" money="0" sharing="0" handstyle="stick"/>
+	<prop id="katana.swf" name="Katana" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3342" money="0" sharing="0" handstyle="stick"/>
+	<prop id="katana_in_sheath.swf" name="Katana In Sheath" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3343" money="0" sharing="0" handstyle="stick"/>
 	<prop id="macbook.swf" name="Opened Macbook" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3344" money="0" sharing="0"/>
 	<prop id="macbook2.swf" name="Macbook" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3345" money="0" sharing="0"/>
 	<prop id="microphone.swf" name="Microphone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3346" money="0" sharing="0" handstyle="stick"/>
@@ -15623,7 +15596,7 @@
 	<prop id="road_block.swf" name="Road Block" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3351" money="0" sharing="0"/>
 	<prop id="saw.swf" name="Saw" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3352" money="0" sharing="0"/>
 	<prop id="screwdriver.swf" name="Screw Driver" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3353" money="0" sharing="0" handstyle="stick"/>
-	<prop id="shuriken.swf" name="Shuriken" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3354" money="0" sharing="0" handstyle="flat"/>
+	<prop id="shuriken.swf" name="Shuriken" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="3354" money="0" sharing="0" handstyle="flat"/>
 	<prop id="spanner.swf" name="Spanner" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3355" money="0" sharing="0" handstyle="stick"/>
 	<prop id="stethoscope.swf" name="Stethoscope" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="3356" money="0" sharing="0"/>
 	<prop id="timothy.swf" name="Timothy" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="3357" money="0" sharing="0" handstyle="stick"/>
@@ -15914,11 +15887,11 @@
 	</prop>
 	<prop id="crowd_control.swf" name="Crowd control belt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10632" money="0" sharing="0"/>
 	<prop id="bar_stool.swf" name="High bar stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10633" money="0" sharing="0"/>
-	<prop id="bar_bg01.swf" name="Bar shelves" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10634" money="0" sharing="0"/>
-	<prop id="bar_bg02.swf" name="Bar shelves" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10635" money="0" sharing="0"/>
+	<prop id="bar_bg01.swf" name="Bar shelves" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10634" money="0" sharing="0"/>
+	<prop id="bar_bg02.swf" name="Bar shelves" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10635" money="0" sharing="0"/>
 	<prop id="glasses_03.swf" name="Glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10636" money="0" sharing="0"/>
-	<prop id="battles01.swf" name="Bottle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10637" money="0" sharing="0"/>
-	<prop id="battles02.swf" name="Bottle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10638" money="0" sharing="0"/>
+	<prop id="battles01.swf" name="Bottle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10637" money="0" sharing="0"/>
+	<prop id="battles02.swf" name="Bottle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10638" money="0" sharing="0"/>
 	<prop id="msp_door01" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_door01_door01_front_close.swf" enable="Y" is_premium="N" aid="10639" money="0" sharing="0">
 		<state id="msp_door01_door01_front_close.swf" name="front closed" enable="Y" default="Y"/>
 		<state id="msp_door01_door01_front_open.swf" name="front opened" enable="Y"/>
@@ -15949,7 +15922,7 @@
 	<prop id="ball01.swf" name="Ball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10660" money="0" sharing="0"/>
 	<prop id="long_chair.swf" name="Long chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10661" money="0" sharing="0"/>
 	<prop id="table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10662" money="0" sharing="0"/>
-	<prop id="cocktail_glass.swf" name="Cocktail glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10663" money="0" sharing="0"/>
+	<prop id="cocktail_glass.swf" name="Cocktail glass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10663" money="0" sharing="0"/>
 	<prop id="palm_tree01.swf" name="Palm Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10664" money="0" sharing="0"/>
 	<prop id="palm_tree02.swf" name="Palm Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10665" money="0" sharing="0"/>
 	<prop id="square01.swf" name="Square" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10666" money="0" sharing="0"/>
@@ -16164,11 +16137,11 @@
 	<prop id="ncc_soccer_ball.swf" name="Soccer ball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10922" money="0" sharing="0"/>
 	<prop id="ncc_rubbish_bin.swf" name="Rubbish bin" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10923" money="0" sharing="0"/>
 	<prop id="ncc_03drinks.swf" name="Soda cup" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10924" money="0" sharing="0" handstyle="flat"/>
-	<prop id="msp_ncc_bomb" name="Bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_bomb_ncc_bomb_on.swf" enable="Y" is_premium="N" aid="10925" money="0" sharing="0">
+	<prop id="msp_ncc_bomb" name="Bomb" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_bomb_ncc_bomb_on.swf" enable="N" is_premium="N" aid="10925" money="0" sharing="0">
 		<state id="msp_ncc_bomb_ncc_bomb_on.swf" name="Ignited" enable="Y" default="Y"/>
 		<state id="msp_ncc_bomb_ncc_bomb_off.swf" name="Still" enable="Y"/>
 	</prop>
-	<prop id="ncc_02sword01.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10928" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword01.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10928" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ncc_tree02.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10929" money="0" sharing="0"/>
 	<prop id="ncc_tree03.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10930" money="0" sharing="0"/>
 	<prop id="ncc_dog_house.swf" name="Doghouse" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10931" money="0" sharing="0"/>
@@ -16192,10 +16165,10 @@
 		<state id="msp_ncc_foodset_ncc_foodset_without.swf" name="Without pot" enable="Y"/>
 	</prop>
 	<prop id="ncc_02spatula.swf" name="Spatula" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10948" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02knief01.swf" name="Knife" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10949" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02axe.swf" name="Axe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10950" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02spear01.swf" name="Halberd" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="10951" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02spear02.swf" name="Devil spear" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10952" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02knief01.swf" name="Knife" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10949" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02axe.swf" name="Axe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10950" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02spear01.swf" name="Halberd" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="10951" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02spear02.swf" name="Devil spear" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="10952" money="0" sharing="0" handstyle="stick"/>
 	<prop id="msp_ncc_flashlight01" name="Flashlight" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_flashlight01_ncc_02flashlight_off.swf" enable="N" is_premium="N" aid="10953" money="0" sharing="0" handstyle="stick">
 		<state id="msp_ncc_flashlight01_ncc_02flashlight_off.swf" name="Off" enable="Y" default="Y"/>
 		<state id="msp_ncc_flashlight01_ncc_02flashlight_on.swf" name="On" enable="Y"/>
@@ -16313,10 +16286,10 @@
 		<state id="msp_moon01_ncc_moon_waning.swf" name="crescent" enable="Y"/>
 	</prop>
 	<prop id="ncc_sun.swf" name="Sun" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11047" money="0" sharing="0"/>
-	<prop id="ncc_02baton01.swf" name="Baton (straight)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11048" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02baton02.swf" name="Baton (along arm)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11049" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02taser01.swf" name="Taser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11050" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02taser02.swf" name="Stun baton" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11051" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02baton01.swf" name="Baton (straight)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11048" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02baton02.swf" name="Baton (along arm)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11049" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02taser01.swf" name="Taser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11050" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02taser02.swf" name="Stun baton" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11051" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ncc_03coffee.swf" name="Coffee cup" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11052" money="0" sharing="0" handstyle="flat"/>
 	<prop id="ncc_03donut.swf" name="Donut" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11053" money="0" sharing="0" handstyle="flat"/>
 	<prop id="ncc_03handcuffs.swf" name="Handcuffs" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11054" money="0" sharing="0" handstyle="flat"/>
@@ -16336,9 +16309,9 @@
 		<state id="msp_docbox_ncc_doc_box_cover.swf" name="cover" enable="Y"/>
 	</prop>
 	<prop id="ncc_02reflex_hammer.swf" name="Reflex hammer" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11242" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02scalpel01.swf" name="Scalpel" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11243" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02scalpel02.swf" name="Huge Scalpel" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11244" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02syringe_huge.swf" name="Huge syringe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11245" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02scalpel01.swf" name="Scalpel" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11243" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02scalpel02.swf" name="Huge Scalpel" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11244" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02syringe_huge.swf" name="Huge syringe" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11245" money="0" sharing="0" handstyle="stick"/>
 	<prop id="msp_nccsyring" name="Syringe" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccsyring_ncc_02syringe01.swf" enable="Y" is_premium="N" aid="11246" money="0" sharing="0" handstyle="stick">
 		<state id="msp_nccsyring_ncc_02syringe01.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_nccsyring_ncc_02syringe02.swf" name="empty" enable="Y"/>
@@ -16359,7 +16332,7 @@
 		<state id="msp_ncc_hbed_ncc_hpbed_front.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_ncc_hbed_ncc_hpbed_side.swf" name="side" enable="Y"/>
 	</prop>
-	<prop id="msp_ncc_bottle" name="Poison bottle" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_bottle_ncc_hpbottle01.swf" enable="Y" is_premium="Y" aid="11261" money="0" sharing="0">
+	<prop id="msp_ncc_bottle" name="Poison bottle" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_ncc_bottle_ncc_hpbottle01.swf" enable="N" is_premium="Y" aid="11261" money="0" sharing="0">
 		<state id="msp_ncc_bottle_ncc_hpbottle01.swf" name="closed" enable="Y"/>
 		<state id="msp_ncc_bottle_ncc_hpbottle02.swf" name="opened" enable="Y" default="Y"/>
 	</prop>
@@ -16522,7 +16495,7 @@
 		<state id="msp_ncc_laser_ncc_00laser_med.swf" name="medium" enable="Y"/>
 		<state id="msp_ncc_laser_ncc_00laser_short.swf" name="short" enable="Y" default="Y"/>
 	</prop>
-	<prop id="ncc_02hatchet.swf" name="Hatchet" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11449" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02hatchet.swf" name="Hatchet" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11449" money="0" sharing="0" handstyle="stick"/>
 	<prop id="nccxmas_02stick.swf" name="Candycane" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11465" money="0" sharing="0" handstyle="stick"/>
 	<prop id="nccxmas_03present.swf" name="Present" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11466" money="0" sharing="0" handstyle="flat"/>
 	<prop id="msp_snowball" name="Snowball" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_snowball_nccxmas_03snowball01.swf" enable="Y" is_premium="N" aid="11467" money="0" sharing="0" handstyle="flat">
@@ -16704,47 +16677,47 @@
 	</prop>
 	<prop id="ncc_tree05.swf" name="Tree" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11623" money="0" sharing="0"/>
 	<prop id="ncc_03camp_bottle.swf" name="Army bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11624" money="0" sharing="0" handstyle="flat"/>
-	<prop id="msp_ncc_gun_ak47b" name="AK47" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_ak47b_ncc_gun_still.swf" enable="Y" is_premium="N" aid="11625" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_ak47b" name="AK47" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_ak47b_ncc_gun_still.swf" enable="N" is_premium="N" aid="11625" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_ak47b_ncc_gun_fire.swf" name="Automatic mode" enable="Y"/>
 		<state id="msp_ncc_gun_ak47b_ncc_gun_loop.swf" name="Burst mode" enable="Y"/>
 		<state id="msp_ncc_gun_ak47b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_ak47b_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_m16b" name="M16" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_m16b_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11630" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_m16b" name="M16" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_m16b_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11630" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_m16b_ncc_gun_fire.swf" name="Automatic mode" enable="Y"/>
 		<state id="msp_ncc_gun_m16b_ncc_gun_loop.swf" name="Burst mode" enable="Y"/>
 		<state id="msp_ncc_gun_m16b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_m16b_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_mg36b" name="MG36" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_mg36b_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11635" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_mg36b" name="MG36" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_mg36b_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11635" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_mg36b_ncc_gun_fire.swf" name="Automatic mode" enable="Y"/>
 		<state id="msp_ncc_gun_mg36b_ncc_gun_loop.swf" name="Burst mode" enable="Y"/>
 		<state id="msp_ncc_gun_mg36b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_mg36b_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_mp5b" name="MP5" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_mp5b_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11640" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_mp5b" name="MP5" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_mp5b_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11640" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_mp5b_ncc_gun_fire.swf" name="Automatic mode" enable="Y"/>
 		<state id="msp_ncc_gun_mp5b_ncc_gun_loop.swf" name="Burst mode" enable="Y"/>
 		<state id="msp_ncc_gun_mp5b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_mp5b_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_deb" name="Desert Eagle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_deb_ncc_gun_still.swf" enable="Y" is_premium="N" aid="11645" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_deb" name="Desert Eagle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_deb_ncc_gun_still.swf" enable="N" is_premium="N" aid="11645" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_deb_ncc_gun_loop.swf" name="Keep shooting" enable="Y"/>
 		<state id="msp_ncc_gun_deb_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_deb_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_rbb" name="Raging Bull" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_rbb_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11649" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_rbb" name="Raging Bull" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_rbb_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11649" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_rbb_ncc_gun_loop.swf" name="Keep shooting" enable="Y"/>
 		<state id="msp_ncc_gun_rbb_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_rbb_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_usp40b" name="USP40" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_usp40b_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11653" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_usp40b" name="USP40" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_usp40b_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11653" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_usp40b_ncc_gun_loop.swf" name="Keep shooting" enable="Y"/>
 		<state id="msp_ncc_gun_usp40b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
@@ -16877,7 +16850,7 @@
 	</prop>
 	<prop id="ncc_tomirror.swf" name="Mirror" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11756" money="0" sharing="0"/>
 	<prop id="ncc_tosink.swf" name="Sink" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11757" money="0" sharing="0"/>
-	<prop id="msp_totoilet" name="Toilet" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_totoilet_ncc_totoilet01.swf" enable="Y" is_premium="Y" aid="11758" money="0" sharing="0">
+	<prop id="msp_totoilet" name="Toilet" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_totoilet_ncc_totoilet01.swf" enable="N" is_premium="Y" aid="11758" money="0" sharing="0">
 		<state id="msp_totoilet_ncc_totoilet01.swf" name="front - closed" enable="Y" default="Y"/>
 		<state id="msp_totoilet_ncc_totoilet02.swf" name="front - opened" enable="Y"/>
 		<state id="msp_totoilet_ncc_totoilet01_side.swf" name="side - closed" enable="Y"/>
@@ -16949,12 +16922,6 @@
 		<state id="msp_off_poster01_ncc_off_poster01.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_off_poster01_ncc_off_poster01_side.swf" name="side" enable="Y"/>
 	</prop>
-	<prop id="msp_off_poster02" name="Stress Reduction Poster" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_off_poster02_ncc_off_poster02.swf" enable="Y" is_premium="Y" aid="11822" money="0" sharing="0">
-		<state id="msp_off_poster02_ncc_off_poster02.swf" name="front" enable="Y" default="Y"/>
-		<state id="msp_off_poster02_ncc_off_poster02_after.swf" name="front - bloody" enable="Y"/>
-		<state id="msp_off_poster02_ncc_off_poster02_afterside.swf" name="side - bloody" enable="Y"/>
-		<state id="msp_off_poster02_ncc_off_poster02_side.swf" name="side" enable="Y"/>
-	</prop>
 	<prop id="msp_off_poster03" name="Do not eat my cake" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_off_poster03_ncc_off_poster03.swf" enable="Y" is_premium="N" aid="11827" money="0" sharing="0">
 		<state id="msp_off_poster03_ncc_off_poster03.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_off_poster03_ncc_off_poster03_side.swf" name="side" enable="Y"/>
@@ -17025,7 +16992,7 @@
 	<prop id="ncc_betsyrose_flag.swf" name="Betsy Rose flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11885" money="0" sharing="0"/>
 	<prop id="ncc_brokenflag01.swf" name="Broken flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11886" money="0" sharing="0"/>
 	<prop id="ncc_brokenflag02.swf" name="Broken flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11887" money="0" sharing="0"/>
-	<prop id="ncc_cannon_side.swf" name="Cannon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11888" money="0" sharing="0"/>
+	<prop id="ncc_cannon_side.swf" name="Cannon" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11888" money="0" sharing="0"/>
 	<prop id="ncc_capital.swf" name="Capitol" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11889" money="0" sharing="0"/>
 	<prop id="msp_carton01" name="Carton box" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_carton01_ncc_carton_front.swf" enable="Y" is_premium="N" aid="11890" money="0" sharing="0">
 		<state id="msp_carton01_ncc_carton_front.swf" name="front" enable="Y" default="Y"/>
@@ -17264,7 +17231,7 @@
 		<state id="msp_nccha_pumpkin_nccha_pumpkin_laugh.swf" name="laughing" enable="Y"/>
 		<state id="msp_nccha_pumpkin_nccha_pumpkin_jump.swf" name="jumping" enable="Y"/>
 	</prop>
-	<prop id="nccha_blood01.swf" name="Blood" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11121" money="0" sharing="0"/>
+	<prop id="nccha_blood01.swf" name="Blood" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="11121" money="0" sharing="0"/>
 	<prop id="nccha_blood02.swf" name="Goo" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11122" money="0" sharing="0"/>
 	<prop id="msp_nccha_candle" name="Candle" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_candle_nccha_candle02.swf" enable="Y" is_premium="Y" aid="11123" money="0" sharing="0">
 		<state id="msp_nccha_candle_nccha_candle02.swf" name="extinguished" enable="Y" default="Y"/>
@@ -17272,7 +17239,7 @@
 		<state id="msp_nccha_candle_nccha_candle04.swf" name="being lit" enable="Y"/>
 		<state id="msp_nccha_candle_nccha_candle03.swf" name="being blown" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_eyeball_bowl" name="Bowl full of eyeballs" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_eyeball_bowl_nccha_eyeball_bowl02.swf" enable="Y" is_premium="Y" aid="11128" money="0" sharing="0">
+	<prop id="msp_nccha_eyeball_bowl" name="Bowl full of eyeballs" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_eyeball_bowl_nccha_eyeball_bowl02.swf" enable="N" is_premium="Y" aid="11128" money="0" sharing="0">
 		<state id="msp_nccha_eyeball_bowl_nccha_eyeball_bowl02.swf" name="look at camera" enable="Y" default="Y"/>
 		<state id="msp_nccha_eyeball_bowl_nccha_eyeball_bowl01.swf" name="still" enable="Y"/>
 	</prop>
@@ -17280,11 +17247,11 @@
 		<state id="msp_nccha_basket_nccha_basket01.swf" name="empty" enable="Y" default="Y"/>
 		<state id="msp_nccha_basket_nccha_basket02.swf" name="full" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_eyeball" name="Eyeballs" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_eyeball_nccha_eyeball01.swf" enable="Y" is_premium="Y" aid="11134" money="0" sharing="0">
+	<prop id="msp_nccha_eyeball" name="Eyeballs" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_eyeball_nccha_eyeball01.swf" enable="N" is_premium="Y" aid="11134" money="0" sharing="0">
 		<state id="msp_nccha_eyeball_nccha_eyeball01.swf" name="look at camera" enable="Y" default="Y"/>
 		<state id="msp_nccha_eyeball_nccha_eyeball02.swf" name="still" enable="Y"/>
 	</prop>
-	<prop id="nccha_fishbowl.swf" name="Fishbowl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11137" money="0" sharing="0"/>
+	<prop id="nccha_fishbowl.swf" name="Fishbowl" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11137" money="0" sharing="0"/>
 	<prop id="msp_nccha_skelehand" name="Skeleton hand" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_skelehand_nccha_skeleton_hand01.swf" enable="Y" is_premium="Y" aid="11138" money="0" sharing="0">
 		<state id="msp_nccha_skelehand_nccha_skeleton_hand01.swf" name="decoration" enable="Y" default="Y"/>
 		<state id="msp_nccha_skelehand_nccha_skeleton_hand02.swf" name="wine glass" enable="Y"/>
@@ -17306,7 +17273,7 @@
 		<state id="msp_nccha_balloon02_nccha_balloon03.swf" name="hovering" enable="Y" default="Y"/>
 		<state id="msp_nccha_balloon02_nccha_balloon04.swf" name="still" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_skulljuice" name="Halloween punch" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_skulljuice_nccha_skull_juice01.swf" enable="Y" is_premium="Y" aid="11154" money="0" sharing="0">
+	<prop id="msp_nccha_skulljuice" name="Halloween punch" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_skulljuice_nccha_skull_juice01.swf" enable="N" is_premium="Y" aid="11154" money="0" sharing="0">
 		<state id="msp_nccha_skulljuice_nccha_skull_juice01.swf" name="with eyeballs" enable="Y" default="Y"/>
 		<state id="msp_nccha_skulljuice_nccha_skull_juice02.swf" name="normal" enable="Y"/>
 	</prop>
@@ -17314,25 +17281,25 @@
 		<state id="msp_nccha_scarecrow_nccha_scarecrow01.swf" name="default" enable="Y" default="Y"/>
 		<state id="msp_nccha_scarecrow_nccha_scarecrow02.swf" name="silhouette" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_tombstone01" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_tombstone01_nccha_grave_tombstone01.swf" enable="Y" is_premium="Y" aid="11160" money="0" sharing="0">
+	<prop id="msp_nccha_tombstone01" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_tombstone01_nccha_grave_tombstone01.swf" enable="N" is_premium="Y" aid="11160" money="0" sharing="0">
 		<state id="msp_nccha_tombstone01_nccha_grave_tombstone01.swf" name="RIP" enable="Y" default="Y"/>
 		<state id="msp_nccha_tombstone01_nccha_grave_tombstone02.swf" name="no writing" enable="Y"/>
 	</prop>
-	<prop id="nccha_grave_tombstone03.swf" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11163" money="0" sharing="0"/>
-	<prop id="nccha_grave_tombstone04.swf" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11164" money="0" sharing="0"/>
-	<prop id="nccha_grave_cross.swf" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11165" money="0" sharing="0"/>
+	<prop id="nccha_grave_tombstone03.swf" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11163" money="0" sharing="0"/>
+	<prop id="nccha_grave_tombstone04.swf" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11164" money="0" sharing="0"/>
+	<prop id="nccha_grave_cross.swf" name="Tombstone" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11165" money="0" sharing="0"/>
 	<prop id="nccha_grave_soil01.swf" name="Soil" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11166" money="0" sharing="0"/>
 	<prop id="nccha_grave_soil02.swf" name="Soil" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11167" money="0" sharing="0"/>
 	<prop id="nccha_grave_soil03.swf" name="Soil" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11168" money="0" sharing="0"/>
-	<prop id="nccha_grave_house.swf" name="Crypt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11169" money="0" sharing="0"/>
-	<prop id="nccha_grave_backdrop.swf" name="Cemetery backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11170" money="0" sharing="0"/>
+	<prop id="nccha_grave_house.swf" name="Crypt" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11169" money="0" sharing="0"/>
+	<prop id="nccha_grave_backdrop.swf" name="Cemetery backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11170" money="0" sharing="0"/>
 	<prop id="nccha_grave_prop01.swf" name="Hills backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11171" money="0" sharing="0"/>
 	<prop id="nccha_grave_prop02.swf" name="Hills backdrop" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11172" money="0" sharing="0"/>
 	<prop id="nccha_grave_castle.swf" name="Castle" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11173" money="0" sharing="0"/>
 	<prop id="nccha_spooky_table.swf" name="Wooden table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11174" money="0" sharing="0"/>
 	<prop id="nccha_spooky_testubeset.swf" name="Set of test tubes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11175" money="0" sharing="0"/>
 	<prop id="nccha_spooky_book.swf" name="Spooky book" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11176" money="0" sharing="0"/>
-	<prop id="msp_nccha_spooky_mach" name="Torture table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_spooky_mach_nccha_spooky_mach01.swf" enable="Y" is_premium="Y" aid="11177" money="0" sharing="0">
+	<prop id="msp_nccha_spooky_mach" name="Torture table" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_nccha_spooky_mach_nccha_spooky_mach01.swf" enable="N" is_premium="Y" aid="11177" money="0" sharing="0">
 		<state id="msp_nccha_spooky_mach_nccha_spooky_mach01.swf" name="rotating" enable="Y" default="Y"/>
 		<state id="msp_nccha_spooky_mach_nccha_spooky_mach02.swf" name="still" enable="Y"/>
 		<state id="msp_nccha_spooky_mach_nccha_spooky_mach03.swf" name="with goo - rotating" enable="Y"/>
@@ -17355,32 +17322,32 @@
 		<state id="msp_nccha_el_door_msp_nccha_ncc_nccha_el_door_side_closed.swf" name="side - closed" enable="Y"/>
 		<state id="msp_nccha_el_door_msp_nccha_ncc_nccha_el_door_side_open.swf" name="side - opened" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_cocktail" name="Cocktail glass" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_cocktail_nccha_02cocktail01.swf" enable="Y" is_premium="Y" aid="11194" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_nccha_cocktail" name="Cocktail glass" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_cocktail_nccha_02cocktail01.swf" enable="N" is_premium="Y" aid="11194" money="0" sharing="0" handstyle="stick">
 		<state id="msp_nccha_cocktail_nccha_02cocktail01.swf" name="default" enable="Y" default="Y"/>
 		<state id="msp_nccha_cocktail_nccha_02cocktail02.swf" name="with eyeball" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_handpt" name="Zombie arm pointing" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_handpt_nccha_02hand_point01.swf" enable="Y" is_premium="Y" aid="11197" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_nccha_handpt" name="Zombie arm pointing" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_handpt_nccha_02hand_point01.swf" enable="N" is_premium="Y" aid="11197" money="0" sharing="0" handstyle="stick">
 		<state id="msp_nccha_handpt_nccha_02hand_point01.swf" name="with worms" enable="Y" default="Y"/>
 		<state id="msp_nccha_handpt_nccha_02hand_point02.swf" name="default" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_handop" name="Zombie arm opened hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_handop_nccha_02hand_open01.swf" enable="Y" is_premium="Y" aid="11200" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_nccha_handop" name="Zombie arm opened hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_handop_nccha_02hand_open01.swf" enable="N" is_premium="Y" aid="11200" money="0" sharing="0" handstyle="stick">
 		<state id="msp_nccha_handop_nccha_02hand_open01.swf" name="with worms" enable="Y" default="Y"/>
 		<state id="msp_nccha_handop_nccha_02hand_open02.swf" name="default" enable="Y"/>
 	</prop>
 	<prop id="nccha_02sweet03.swf" name="Candy cane" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11203" money="0" sharing="0" handstyle="stick"/>
-	<prop id="nccha_02wooden_stake.swf" name="Wooden stake" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11204" money="0" sharing="0" handstyle="stick"/>
-	<prop id="msp_nccha_brainju" name="Brain juice" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_brainju_nccha_03brain_juice01.swf" enable="Y" is_premium="Y" aid="11205" money="0" sharing="0" handstyle="flat">
+	<prop id="nccha_02wooden_stake.swf" name="Wooden stake" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="11204" money="0" sharing="0" handstyle="stick"/>
+	<prop id="msp_nccha_brainju" name="Brain juice" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_brainju_nccha_03brain_juice01.swf" enable="N" is_premium="Y" aid="11205" money="0" sharing="0" handstyle="flat">
 		<state id="msp_nccha_brainju_nccha_03brain_juice01.swf" name="still" enable="Y" default="Y"/>
 		<state id="msp_nccha_brainju_nccha_03brain_juice02.swf" name="freshly poured" enable="Y"/>
 	</prop>
 	<prop id="nccha_02grave_bone.swf" name="Bone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11208" money="0" sharing="0" handstyle="stick"/>
 	<prop id="nccha_02spooky_testube01.swf" name="Test bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11209" money="0" sharing="0" handstyle="stick"/>
 	<prop id="nccha_02spooky_testube02.swf" name="Test tube" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11210" money="0" sharing="0" handstyle="stick"/>
-	<prop id="msp_nccha_axe" name="Woodcutting axe" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_axe_nccha_02axe01.swf" enable="Y" is_premium="Y" aid="11211" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_nccha_axe" name="Woodcutting axe" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_axe_nccha_02axe01.swf" enable="N" is_premium="Y" aid="11211" money="0" sharing="0" handstyle="stick">
 		<state id="msp_nccha_axe_nccha_02axe01.swf" name="default" enable="Y" default="Y"/>
 		<state id="msp_nccha_axe_nccha_02axe02.swf" name="used" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_chainsaw" name="Chainsaw" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_chainsaw_nccha_02chainsaw01.swf" enable="Y" is_premium="Y" aid="11214" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_nccha_chainsaw" name="Chainsaw" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_chainsaw_nccha_02chainsaw01.swf" enable="N" is_premium="Y" aid="11214" money="0" sharing="0" handstyle="stick">
 		<state id="msp_nccha_chainsaw_nccha_02chainsaw01.swf" name="on" enable="Y" default="Y"/>
 		<state id="msp_nccha_chainsaw_nccha_02chainsaw02.swf" name="off" enable="Y"/>
 		<state id="msp_nccha_chainsaw_nccha_02chainsaw03.swf" name="bloodied" enable="Y"/>
@@ -17391,17 +17358,17 @@
 	<prop id="nccha_03sweet02.swf" name="Sweet" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11221" money="0" sharing="0" handstyle="flat"/>
 	<prop id="msp_nccha_hook" name="Hook hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_hook_nccha_04hook.swf" enable="Y" is_premium="Y" aid="11227" money="0" sharing="0" handstyle="replace">
 		<state id="msp_nccha_hook_nccha_04hook.swf" name="default" enable="Y" default="Y"/>
-		<state id="msp_nccha_hook_nccha_04hook02.swf" name="used" enable="Y"/>
+		<state id="msp_nccha_hook_nccha_04hook02.swf" name="used" enable="N"/>
 	</prop>
-	<prop id="msp_nccha_sawhand" name="Rotating saw hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_sawhand_nccha_04sawhand.swf" enable="Y" is_premium="Y" aid="11230" money="0" sharing="0" handstyle="replace">
+	<prop id="msp_nccha_sawhand" name="Rotating saw hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_sawhand_nccha_04sawhand.swf" enable="N" is_premium="Y" aid="11230" money="0" sharing="0" handstyle="replace">
 		<state id="msp_nccha_sawhand_nccha_04sawhand.swf" name="rotate" enable="Y"/>
 		<state id="msp_nccha_sawhand_nccha_04sawhand02.swf" name="normal" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_nccha_knife" name="Knife hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_knife_nccha_04knife01.swf" enable="Y" is_premium="Y" aid="11233" money="0" sharing="0" handstyle="replace">
+	<prop id="msp_nccha_knife" name="Knife hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_knife_nccha_04knife01.swf" enable="N" is_premium="Y" aid="11233" money="0" sharing="0" handstyle="replace">
 		<state id="msp_nccha_knife_nccha_04knife01.swf" name="default" enable="Y" default="Y"/>
 		<state id="msp_nccha_knife_nccha_04knife02.swf" name="used" enable="Y"/>
 	</prop>
-	<prop id="msp_nccha_chainhand" name="Chainsaw hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_chainhand_nccha_04chainsaw01.swf" enable="Y" is_premium="Y" aid="11236" money="0" sharing="0" handstyle="replace">
+	<prop id="msp_nccha_chainhand" name="Chainsaw hand" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_nccha_chainhand_nccha_04chainsaw01.swf" enable="N" is_premium="Y" aid="11236" money="0" sharing="0" handstyle="replace">
 		<state id="msp_nccha_chainhand_nccha_04chainsaw01.swf" name="normal" enable="Y" default="Y"/>
 		<state id="msp_nccha_chainhand_nccha_04chainsaw02.swf" name="rotate" enable="Y"/>
 	</prop>
@@ -17458,13 +17425,13 @@
 	<prop id="ncc_sniper_mud.swf" name="Mud" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12219" money="0" sharing="0"/>
 	<prop id="ncc_snipergrass.swf" name="Grass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12220" money="0" sharing="0"/>
 	<prop id="ncc_snipergrass02.swf" name="Grass" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12221" money="0" sharing="0"/>
-	<prop id="msp_ncc_gun_sniper01" name="Sniper rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_sniper01_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="12227" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_sniper01" name="Sniper rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_sniper01_ncc_gun_still.swf" enable="N" is_premium="Y" aid="12227" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_sniper01_ncc_gun_loop.swf" name="Keep shooting" enable="Y"/>
 		<state id="msp_ncc_gun_sniper01_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_sniper01_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_gun_sniper02" name="Sniper rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_sniper02_ncc_gun_still.swf" enable="Y" is_premium="N" aid="12231" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_gun_sniper02" name="Sniper rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_sniper02_ncc_gun_still.swf" enable="N" is_premium="N" aid="12231" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_sniper02_ncc_gun_loop.swf" name="Keep shooting" enable="Y"/>
 		<state id="msp_ncc_gun_sniper02_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
@@ -17476,7 +17443,7 @@
 		<state id="msp_sniper_rooftop02_ncc_sniper_rooftop02.swf" name="front" enable="Y"/>
 		<state id="msp_sniper_rooftop02_ncc_sniper_rooftop03.swf" name="full" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_sniper_rooftop04" name="Outdoor advertising" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sniper_rooftop04_ncc_sniper_rooftop04.swf" enable="Y" is_premium="N" aid="12240" money="0" sharing="0">
+	<prop id="msp_sniper_rooftop04" name="Outdoor advertising" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_sniper_rooftop04_ncc_sniper_rooftop04.swf" enable="N" is_premium="N" aid="12240" money="0" sharing="0">
 		<state id="msp_sniper_rooftop04_ncc_sniper_rooftop04.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_sniper_rooftop04_ncc_sniper_rooftop05.swf" name="side" enable="Y"/>
 	</prop>
@@ -17487,7 +17454,7 @@
 		<state id="msp_02shamrock_ncc_02shamrock02.swf" name="4 leaves" enable="Y"/>
 	</prop>
 	<prop id="ncc_02goldcoin.swf" name="Gold coin" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12248" money="0" sharing="0" handstyle="flat"/>
-	<prop id="msp_ncc_02cup" name="Beer pint" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_02cup_ncc_02cup01.swf" enable="Y" is_premium="Y" aid="12249" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_ncc_02cup" name="Beer pint" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_02cup_ncc_02cup01.swf" enable="N" is_premium="Y" aid="12249" money="0" sharing="0" handstyle="stick">
 		<state id="msp_ncc_02cup_ncc_02cup01.swf" name="full" enable="Y" default="Y"/>
 		<state id="msp_ncc_02cup_ncc_02cup02.swf" name="empty" enable="Y"/>
 	</prop>
@@ -17560,20 +17527,20 @@
 		<state id="msp_vspanel_ncc_vspanel02.swf" name="option menu" enable="Y"/>
 	</prop>
 	<prop id="ncc_wordbam01.swf" name="Bam!" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12309" money="0" sharing="0"/>
-	<prop id="ncc_02sword15.swf" name="Phoenix blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12310" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword02.swf" name="Monkey blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12311" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword03.swf" name="Undead blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12312" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword04.swf" name="Crystal blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12313" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword05.swf" name="Silver blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12314" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword06.swf" name="Golden blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12315" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword07.swf" name="Machete" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12316" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword08.swf" name="Thick blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12317" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword09.swf" name="Golden sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12318" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword10.swf" name="Emerald sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12319" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword11.swf" name="Stone sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12320" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword12.swf" name="Golden dagger" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12321" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword13.swf" name="Ruby dagger" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12322" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02sword14.swf" name="Knife" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12323" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword15.swf" name="Phoenix blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12310" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword02.swf" name="Monkey blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12311" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword03.swf" name="Undead blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12312" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword04.swf" name="Crystal blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12313" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword05.swf" name="Silver blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12314" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword06.swf" name="Golden blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12315" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword07.swf" name="Machete" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12316" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword08.swf" name="Thick blade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12317" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword09.swf" name="Golden sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12318" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword10.swf" name="Emerald sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12319" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword11.swf" name="Stone sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12320" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword12.swf" name="Golden dagger" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12321" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword13.swf" name="Ruby dagger" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12322" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02sword14.swf" name="Knife" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12323" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ncc_02briefcase.swf" name="Briefcase" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12346" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ncc_03folder.swf" name="Envelop" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12347" money="0" sharing="0" handstyle="flat"/>
 	<prop id="ncc_03folder2.swf" name="Folder" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="12348" money="0" sharing="0" handstyle="flat"/>
@@ -17593,20 +17560,20 @@
 		<state id="msp_esegg_ncces_03egg01.swf" name="style 1" enable="Y" default="Y"/>
 		<state id="msp_esegg_ncces_03egg02.swf" name="style 2" enable="Y"/>
 	</prop>
-	<prop id="msp_sharkpuppet" name="Angry Shark Arm" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_sharkpuppet_ncc_04shark_still.swf" enable="Y" is_premium="N" aid="12372" money="0" sharing="0" handstyle="replace">
+	<prop id="msp_sharkpuppet" name="Angry Shark Arm" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_sharkpuppet_ncc_04shark_still.swf" enable="N" is_premium="N" aid="12372" money="0" sharing="0" handstyle="replace">
 		<state id="msp_sharkpuppet_ncc_04shark_bite01.swf" name="bite slow" enable="Y"/>
 		<state id="msp_sharkpuppet_ncc_04shark_bite02.swf" name="bite fast" enable="Y"/>
 		<state id="msp_sharkpuppet_ncc_04shark_still.swf" name="still" enable="Y" default="Y"/>
 		<state id="msp_sharkpuppet_ncc_04shark_thor_bite02.swf" name="in costume - bite" enable="Y"/>
 		<state id="msp_sharkpuppet_ncc_04shark_thor.swf" name="in costume" enable="Y"/>
 	</prop>
-	<prop id="msp_lobsterpuppet" name="G. Lobster Arm" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_lobsterpuppet_ncc_04lobster.swf" enable="Y" is_premium="N" aid="12378" money="0" sharing="0" handstyle="replace">
+	<prop id="msp_lobsterpuppet" name="G. Lobster Arm" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_lobsterpuppet_ncc_04lobster.swf" enable="N" is_premium="N" aid="12378" money="0" sharing="0" handstyle="replace">
 		<state id="msp_lobsterpuppet_ncc_04lobster.swf" name="still" enable="Y" default="Y"/>
 		<state id="msp_lobsterpuppet_ncc_04lobster2.swf" name="wriggling" enable="Y"/>
 		<state id="msp_lobsterpuppet_ncc_04lobster_ca.swf" name="in costume" enable="Y"/>
 		<state id="msp_lobsterpuppet_ncc_04lobster_ca2.swf" name="in costume - wriggling" enable="Y"/>
 	</prop>
-	<prop id="msp_warhammer" name="War hammer" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_warhammer_ncc_02thorhammer02.swf" enable="Y" is_premium="Y" aid="12383" money="0" sharing="0" handstyle="stick">
+	<prop id="msp_warhammer" name="War hammer" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_warhammer_ncc_02thorhammer02.swf" enable="N" is_premium="Y" aid="12383" money="0" sharing="0" handstyle="stick">
 		<state id="msp_warhammer_ncc_02thorhammer01.swf" name="powered up" enable="Y"/>
 		<state id="msp_warhammer_ncc_02thorhammer02.swf" name="still" enable="Y" default="Y"/>
 	</prop>
@@ -17622,7 +17589,7 @@
 		<state id="msp_ncc_gun_pir_ncc_05pgun_loop.swf" name="keep shooting" enable="Y"/>
 		<state id="msp_ncc_gun_pir_ncc_05pgun_once.swf" name="shoot once" enable="Y"/>
 	</prop>
-	<prop id="msp_piratecan" name="Cannon" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_piratecan_ncc_pirate_cannon_still.swf" enable="Y" is_premium="Y" aid="12398" money="0" sharing="0">
+	<prop id="msp_piratecan" name="Cannon" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_piratecan_ncc_pirate_cannon_still.swf" enable="N" is_premium="Y" aid="12398" money="0" sharing="0">
 		<state id="msp_piratecan_ncc_pirate_cannon_loop.swf" name="side - keep shooting" enable="Y"/>
 		<state id="msp_piratecan_ncc_pirate_cannon_still.swf" name="side - still" enable="Y" default="Y"/>
 		<state id="msp_piratecan_ncc_pirate_cannon2_loop.swf" name="back - keep shooting" enable="Y"/>
@@ -17649,8 +17616,8 @@
 	<prop id="ncc_pirateship01_prop03.swf" name="Mast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="12418" money="0" sharing="0"/>
 	<prop id="ncc_pirateship01_steel.swf" name="Ship's helm" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="12419" money="0" sharing="0"/>
 	<prop id="ncc_03treasuremap.swf" name="Treasure map" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12420" money="0" sharing="0" handstyle="flat"/>
-	<prop id="ncc_pirate_bomb.swf" name="Cannonball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12421" money="0" sharing="0"/>
-	<prop id="msp_ncc_gun_pirb" name="Flintlock pistol" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_pirb_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="12422" money="0" sharing="0" handstyle="gun">
+	<prop id="ncc_pirate_bomb.swf" name="Cannonball" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12421" money="0" sharing="0"/>
+	<prop id="msp_ncc_gun_pirb" name="Flintlock pistol" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_gun_pirb_ncc_gun_still.swf" enable="N" is_premium="Y" aid="12422" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_gun_pirb_ncc_gun_still.swf" name="still" enable="Y" default="Y"/>
 		<state id="msp_ncc_gun_pirb_ncc_gun_loop.swf" name="keep shooting" enable="Y"/>
@@ -17663,7 +17630,7 @@
 		<state id="msp_pirateboat_ncc_pirateboat_half.swf" name="half" enable="Y"/>
 	</prop>
 	<prop id="ncc_02pirate_rope.swf" name="Rope" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12431" money="0" sharing="0" handstyle="stick"/>
-	<prop id="ncc_02ff.swf" name="Buster sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="12453" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ncc_02ff.swf" name="Buster sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="Y" aid="12453" money="0" sharing="0" handstyle="stick"/>
 	<prop id="msp_lightsabera" name="Light saber" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_lightsabera_ncc_02lightsabera01.swf" enable="Y" is_premium="Y" aid="12454" money="0" sharing="0" handstyle="stick">
 		<state id="msp_lightsabera_ncc_02lightsabera01.swf" name="On" enable="Y" default="Y"/>
 		<state id="msp_lightsabera_ncc_02lightsabera02.swf" name="Turn on" enable="Y"/>
@@ -17692,7 +17659,7 @@
 		<state id="msp_fishing_rod01_msp_fishing_rod_ncc_fishrod0201.swf" name="No fish" enable="Y"/>
 		<state id="msp_fishing_rod01_msp_fishing_rod_ncc_fishrod0301.swf" name="With fish" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_ncc_05musket" name="Musket" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_05musket_ncc_05musket_still.swf" enable="Y" is_premium="Y" aid="23106" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_ncc_05musket" name="Musket" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_ncc_05musket_ncc_05musket_still.swf" enable="N" is_premium="Y" aid="23106" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_ncc_05musket_ncc_05musket_still.swf" name="still" enable="Y" default="Y"/>
 		<state id="msp_ncc_05musket_ncc_05musket_loop.swf" name="keep shooting" enable="Y"/>
