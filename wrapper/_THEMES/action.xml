@@ -189,6 +189,9 @@
   <char id="3006" name="Pirate" cc_theme_id="cc2" thumbnail_url="thumbnails/pirate.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
   </char>
+  <char id="3008" name="Astronaut" cc_theme_id="cc2" thumbnail_url="thumbnails/spaceman.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="5010" name="Easter - Easter Bunny" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/easter/bunny.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
