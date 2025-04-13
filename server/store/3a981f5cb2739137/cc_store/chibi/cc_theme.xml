@@ -806,7 +806,7 @@
 			<library type="GoLower" component_id="6006" theme_id="chibi" gobucks="0" gopoints="0"/>
 		</default_char>
 
-		<actionpack id="gun" name="Hand Gun Pack" money="0" sharing="0" enable="Y">
+		<actionpack id="gun" name="Hand Gun Pack" money="0" sharing="0" enable="N">
 			<action id="gun_down01_fire" name="Lying down - keep shooting" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Hand Gun">
 				<selection type="facial" facial_id="head_neutral"/>
 				<prop id="msp_ncc_gun_deb.msp_ncc_gun_deb_ncc_gun_loop.swf" theme="common" aid="11646" />
@@ -994,7 +994,7 @@
 		</actionpack>
 
 
-		<actionpack id="mgun" name="Machine Gun Pack" money="0" sharing="0" enable="Y">
+		<actionpack id="mgun" name="Machine Gun Pack" money="0" sharing="0" enable="N">
 			<action id="mgun_down01_fire" name="Lying down - keep shooting" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Machine Gun">
 				<selection type="facial" facial_id="head_neutral"/>
 				<prop id="msp_ncc_gun_ak47b.msp_ncc_gun_ak47b_ncc_gun_fire.swf" theme="common" aid="11626" />
@@ -1173,7 +1173,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="sniper" name="Sniper" money="0" sharing="0" enable="Y">
+		<actionpack id="sniper" name="Sniper" money="0" sharing="0" enable="N">
 			<action id="sniper_aimup_shootreload" name="Aim upwards - keep shooting" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Sniper">
 				<selection type="facial" facial_id="head_angry"/>
 				<prop id="msp_ncc_gun_sniper02.msp_ncc_gun_sniper02_ncc_gun_loop.swf" theme="common" aid="12232" />
@@ -1336,7 +1336,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="sword" name="Sword Fighting" money="0" sharing="0" enable="Y">
+		<actionpack id="sword" name="Sword Fighting" money="0" sharing="0" enable="N">
 			<action id="sword_atk01" name="Slash" loop="Y" totalframe="29" enable="Y" is_motion="N" category="Sword fight">
 				<selection type="facial" facial_id="head_angry"/>
 				<prop id="katana.swf" theme="common" aid="3342" />
@@ -1547,7 +1547,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="fight" name="Fighting Pack" money="0" sharing="0" enable="Y">
+		<actionpack id="fight" name="Fighting Pack" money="0" sharing="0" enable="N">
 			<action id="fight_punch" name="Punch" loop="Y" totalframe="60" enable="Y" is_motion="N" category="Fight">
 				<selection type="facial" facial_id="head_angry"/>
 			</action>
@@ -2362,7 +2362,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="ninja" name="Ninja" money="0" sharing="0" enable="Y">
+		<actionpack id="ninja" name="Ninja" money="0" sharing="0" enable="N">
 			<action id="njn_fly01" name="Teleport - Disappear" loop="Y" totalframe="32" enable="Y" is_motion="N" category="Ninja">
 				<selection type="facial" facial_id="head_angry02"/>
 			</action>
@@ -2444,7 +2444,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="ninjaspc" name="Spellcaster" money="0" sharing="0" enable="Y">
+		<actionpack id="ninjaspc" name="Spellcaster" money="0" sharing="0" enable="N">
 			<action id="njsp_001" name="Spells - Vanish - Disappear" loop="Y" totalframe="100" enable="Y" is_motion="N" category="Spellcaster">
 				<selection type="facial" facial_id="head_neutral"/>
 			</action>
@@ -2543,7 +2543,7 @@
 			</action>			
 		</actionpack>
 
-		<actionpack id="ninjasum" name="Summoner" money="0" sharing="0" enable="Y">
+		<actionpack id="ninjasum" name="Summoner" money="0" sharing="0" enable="N">
 			<action id="njsum_frog" name="Summoned Frog" loop="Y" totalframe="20" enable="Y" is_motion="N" category="Spellcaster">
 				<selection type="facial" facial_id="head_angry02"/>
 			</action>
