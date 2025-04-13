@@ -3997,16 +3997,16 @@
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
-  <char id="7001" name="Eric" cc_theme_id="family" thumbnail_url="thumbnails/classic/red_hoodie_guy.png" copyable="Y">
+  <char id="7001" name="Eric" cc_theme_id="family" thumbnail_url="thumbnails/classics/red_hoodie_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
-  <char id="7002" name="Pretty Girl" cc_theme_id="family" thumbnail_url="thumbnails/classic/pretty_girl.png" copyable="Y">
+  <char id="7002" name="Pretty Girl" cc_theme_id="family" thumbnail_url="thumbnails/classics/pretty_girl.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
-  <char id="7003" name="Blue Jacket Girl" cc_theme_id="family" thumbnail_url="thumbnails/classic/blue_jacket_girl.png" copyable="Y">
+  <char id="7003" name="Blue Jacket Girl" cc_theme_id="family" thumbnail_url="thumbnails/classics/blue_jacket_girl.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
-  <char id="7004" name="PC Guy" cc_theme_id="family" thumbnail_url="thumbnails/classic/pc_guy.png" copyable="Y">
+  <char id="7004" name="PC Guy" cc_theme_id="family" thumbnail_url="thumbnails/classics/pc_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
 </theme>
