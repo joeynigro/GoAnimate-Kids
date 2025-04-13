@@ -888,7 +888,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="swordfight" name="Sword Fighting" money="0" sharing="0" enable="Y">
+		<actionpack id="swordfight" name="Sword Fighting" money="0" sharing="0" enable="N">
 			<action id="guy_sword_hurtfront" name="Hurt from front" loop="Y" totalframe="60" enable="Y" is_motion="N" category="Sword fight">
 				<selection type="facial" facial_id="head_desperate" />
 				<prop id="02sword01.swf" theme="anime" aid="99999"/>
