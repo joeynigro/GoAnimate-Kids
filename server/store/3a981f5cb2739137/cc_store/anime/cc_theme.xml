@@ -1023,7 +1023,7 @@
 			</action>
 		</actionpack>
 		
-		<actionpack id="fightingpack" name="Fighting Pack" money="0" sharing="0" enable="Y">
+		<actionpack id="fightingpack" name="Fighting Pack" money="0" sharing="0" enable="N">
 			<action id="guy_combat_stand" name="Stand" loop="Y" totalframe="60" enable="Y" is_motion="N" category="Fight">
 				<selection type="facial" facial_id="head_angry" />
 			</action>
