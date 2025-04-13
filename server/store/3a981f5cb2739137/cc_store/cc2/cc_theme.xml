@@ -2379,7 +2379,7 @@
 			<tag>_userrole_admin</tag>
 			<tag>_lilpetz</tag>
 		</library>
-		<library type="GoUpper" id="1015" path="1015" name="1015" thumb="1015_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoUpper" id="1015" path="1015" name="1015" thumb="1015_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_userrole_admin</tag>
 			<tag>_lilpetz</tag>
 		</library>
