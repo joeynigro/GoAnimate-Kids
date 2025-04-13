@@ -3499,7 +3499,7 @@
 	<component type="ear" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
-	<component type="ear" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="ear" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="ear" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -3521,7 +3521,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eye" id="201" path="201" name="201" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eye" id="201" path="201" name="201" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="asleep" filename="asleep.swf"/>
 		<state id="cry" filename="cry.swf"/>
@@ -3534,7 +3534,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eye" id="202" path="202" name="202" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eye" id="202" path="202" name="202" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="asleep" filename="asleep.swf"/>
 		<state id="cry" filename="cry.swf"/>
@@ -3547,7 +3547,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eye" id="203" path="203" name="203" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eye" id="203" path="203" name="203" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="asleep" filename="asleep.swf"/>
 		<state id="cry" filename="cry.swf"/>
@@ -3560,7 +3560,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eye" id="204" path="204" name="204" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eye" id="204" path="204" name="204" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="asleep" filename="asleep.swf"/>
 		<state id="cry" filename="cry.swf"/>
@@ -3573,7 +3573,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eye" id="205" path="205" name="205" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eye" id="205" path="205" name="205" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="asleep" filename="asleep.swf"/>
 		<state id="cry" filename="cry.swf"/>
@@ -3586,7 +3586,7 @@
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eye" id="206" path="206" name="206" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eye" id="206" path="206" name="206" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="asleep" filename="asleep.swf"/>
 		<state id="cry" filename="cry.swf"/>
@@ -4342,7 +4342,7 @@
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="chewing" filename="chewing.swf"/>
 		<state id="cry" filename="cry.swf"/>
