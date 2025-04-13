@@ -520,7 +520,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="scifi" name="Sci-Fi Action Pack" money="0" sharing="0" enable="Y">
+		<actionpack id="scifi" name="Sci-Fi Action Pack" money="0" sharing="0" enable="N">
 			<action id="salute03" name="At attention" loop="Y" totalframe="60" enable="Y" is_motion="N" category="Sci-Fi">
 				<selection type="facial" facial_id="head_neutral" />
 			</action>
@@ -960,7 +960,7 @@
 			</action>
 		</actionpack>
 
-		<actionpack id="scifi" name="Sci-Fi Action Pack" money="0" sharing="0" enable="Y">
+		<actionpack id="scifi" name="Sci-Fi Action Pack" money="0" sharing="0" enable="N">
 			<action id="salute03" name="At attention" loop="Y" totalframe="60" enable="Y" is_motion="N" category="Sci-Fi">
 				<selection type="facial" facial_id="head_neutral" />
 			</action>
