@@ -3851,7 +3851,7 @@
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eyebrow" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eyebrow" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="cry" filename="cry.swf"/>
 		<state id="default" filename="default.swf"/>
@@ -3865,7 +3865,7 @@
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eyebrow" id="102" path="102" name="102" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eyebrow" id="102" path="102" name="102" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="cry" filename="cry.swf"/>
 		<state id="default" filename="default.swf"/>
@@ -3921,7 +3921,7 @@
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eyebrow" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eyebrow" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="cry" filename="cry.swf"/>
 		<state id="default" filename="default.swf"/>
@@ -3935,7 +3935,7 @@
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eyebrow" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eyebrow" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="cry" filename="cry.swf"/>
 		<state id="default" filename="default.swf"/>
@@ -3949,7 +3949,7 @@
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
 	</component>
-	<component type="eyebrow" id="104" path="104" name="104" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="eyebrow" id="104" path="104" name="104" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
 		<state id="cry" filename="cry.swf"/>
 		<state id="default" filename="default.swf"/>
