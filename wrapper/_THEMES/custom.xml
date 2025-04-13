@@ -3771,7 +3771,7 @@
 	<prop id="battlefield_boxes.swf" name="Boxes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9677" money="0" sharing="0"/>
 	<prop id="changing_room_bench01.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9678" money="0" sharing="0"/>
 	<prop id="changing_room_bench02.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9679" money="0" sharing="0"/>
-	<prop id="msp_changingrm_door" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_changingrm_door_changing_room_door01.swf" enable="Y" is_premium="N" aid="9680" money="0" sharing="0">
+	<prop id="msp_changingrm_door" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_changingrm_door_changing_room_door01.swf" enable="N" is_premium="N" aid="9680" money="0" sharing="0">
 		<state id="msp_changingrm_door_changing_room_door01.swf" name="Open" enable="Y"/>
 		<state id="msp_changingrm_door_changing_room_door02.swf" name="Closed" enable="Y" default="Y"/>
 	</prop>
