@@ -757,6 +757,9 @@
 	<effect id="ncc_sci004fx.swf" type="ANIME" resize="false" move="false" name="Red alert" enable="N" is_premium="N" aid="14971" money="0" sharing="0" display_order="0"/>
 	<effect id="ncc_sci005fx.swf" type="ANIME" resize="false" move="false" name="Ceiling Crumbling" enable="N" is_premium="N" aid="14972" money="0" sharing="0" display_order="0"/>
   <char id="3008" name="Astronaut" cc_theme_id="cc2" thumbnail_url="thumbnails/spaceman.png" copyable="Y">
-    <tags>cc2,_free,_cat:Jobs Characters</tags>
+    <tags>cc2,_free,_cat:Space Characters</tags>
+  </char>
+  <char id="6002" name="Alien" cc_theme_id="cc2" thumbnail_url="thumbnails/alien.png" copyable="Y">
+    <tags>cc2,_free,_cat:Space Characters</tags>
   </char>
 </theme>
