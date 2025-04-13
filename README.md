@@ -1,10 +1,10 @@
-# Wrapper: Offline
-Wrapper: Offline is a GoAnimate Server Emulator carrying on the torch of [VisualPlugin's GoAnimate Wrapper project](https://github.com/GoAnimate-Wrapper) after it's shutdown in 2020. Unlike the original project, Offline can not be shut down by Vyond. Why? It's because everything is hosted and programmed to function locally, no internet access required, barring the initial download (and TTS at this time). This project is important for archival purposes, as the ability to use this legacy editor and themes would be far trickier without it. Besides the main feature of Offline, we have also added other additional features and improvements compared to the original GoAnimate Wrapper project, and there will be more to come, as Offline will continue to get additional updates in the future.
+# GoAnimate Kids
+GoAnimate Kids is the children's version of Wrapper: Offline.
 
 [Find more info in the wiki.](https://github.com/Wrapper-Offline/Wrapper-Offline/wiki)
 
 ## Running / Installation
-To start Wrapper: Offline on Windows, Download and run the installer [here](https://wrapper-offline.ga/) It'll automate just about everything for you and, well, start Wrapper: Offline.
+To start GoAnimate Kids on Windows, Download and run the installer [here]([https://wrapper-offline.ga/](https://goanimatekids.weebly.com/)) It'll automate just about everything for you and, well, start Wrapper: Offline.
 
 
 If you want to import videos and characters from the original Wrapper or any other clones of it, open its folder and drag the "_SAVED" folder into Wrapper: Offline's "wrapper" folder. If you have already made any videos or characters, this will not work. Please only import on a new install with no saved characters or videos, or take the "_SAVED" folder in Wrapper: Offline out before dragging the old one in. If you want to import character IDs from the original LVM, you can paste `&original_asset_id=[ID HERE]` at the end of the link for the matching character creator.
