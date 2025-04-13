@@ -2422,6 +2422,7 @@
 <!--PAGE 1-->
 		<library type="GoUpper" id="animal_body" path="animal_body" name="animal_body" thumb="animal_body_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="animal_female" path="animal_female" name="animal_female" thumb="animal_female_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+		<library type="GoUpper" id="goanimatekids_astronaut" path="goanimatekids_astronaut" name="goanimatekids_astronaut" thumb="goanimatekids_astronaut_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="mummy" path="mummy" name="mummy" thumb="mummy_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="263" path="263" name="263" thumb="263_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="264" path="264" name="264" thumb="264_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
@@ -2751,7 +2752,7 @@
 		<library type="GoUpper" id="087" path="087" name="087" thumb="087_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-		<library type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+		<library type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
 		<library type="GoUpper" id="009" path="009" name="009" thumb="009_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="010" path="010" name="010" thumb="010_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="011" path="011" name="011" thumb="011_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
@@ -3859,6 +3860,9 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="dog_ears" path="dog_ears" name="dog_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goanimatekids_astronaut" path="goanimatekids_astronaut" name="goanimatekids_astronaut" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="mouse_ears" path="mouse_ears" name="mouse_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
