@@ -4009,6 +4009,15 @@
   <char id="3007" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
+  <char id="3009" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="3010" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier_heavy.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="3011" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier_buff.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
     <tags>family,_free,_cat:Holidays</tags>
   </char>
