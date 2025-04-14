@@ -4039,10 +4039,22 @@
   <char id="7002" name="Pretty Girl" cc_theme_id="family" thumbnail_url="thumbnails/classics/pretty_girl.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
-  <char id="7003" name="Blue Jacket Girl" cc_theme_id="family" thumbnail_url="thumbnails/classics/blue_jacket_girl.png" copyable="Y">
+  <char id="7003" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/blue_jacket_girl.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
   <char id="7004" name="PC Guy" cc_theme_id="family" thumbnail_url="thumbnails/classics/pc_guy.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="7010" name="Mac Guy" cc_theme_id="family" thumbnail_url="thumbnails/classics/mac_guy.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="7011" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/business_man.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="7012" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/business_woman.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="7013" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/white_dress_girl.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
   <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_male.png" copyable="Y">
