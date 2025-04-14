@@ -12511,7 +12511,7 @@
 		<rotation>0</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_militatinter" name="Army tent" enable="Y" default="N" thumb="ncc_militar_inter.jpg" display_order="514" is_premium="Y" money="0" sharing="0" aid="11674">
+	<compositebg id="cbg_ncc_militatinter" name="Army tent" enable="N" default="N" thumb="ncc_militar_inter.jpg" display_order="514" is_premium="Y" money="0" sharing="0" aid="11674">
 	<bg id="cbg_ncc_militatinter_BG7" index="0">
 		<file>common.ncc_gradient.swf</file>
 		<color r="colorC">13606999</color>
