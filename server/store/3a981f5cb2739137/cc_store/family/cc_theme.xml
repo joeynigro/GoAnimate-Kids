@@ -50,6 +50,16 @@
 		<choice>0x562A0C</choice>
 		<choice>0x134883</choice>
 		<choice>0x00BAE9</choice>
+		<choice>0x4D4D4D</choice>
+		<choice>0xA0522D</choice>
+		<choice>0xB0B0B0</choice>
+		<choice>0x3B3B3B</choice>
+		<choice>0xFFC107</choice>
+		<choice>0x8E24AA</choice>
+		<choice>0x43A047</choice>
+		<choice>0xFF69B4</choice>
+		<choice>0xFF7F50</choice>
+		<choice>0x795548</choice>
 	</color>
 	<color r="ccGlassesLens" component_type="glasses" enable="Y">
 		<choice>0xFFBF00</choice>
@@ -57,6 +67,16 @@
 		<choice>0x582A5A</choice>
 		<choice>0x515151</choice>
 		<choice>0x562A0C</choice>
+		<choice>0xA0C4D8</choice>
+		<choice>0xC0C0C0</choice>
+		<choice>0x3E3E3E</choice>
+		<choice>0x4A708B</choice>
+		<choice>0x8B5A2B</choice>
+		<choice>0x66CCCC</choice>
+		<choice>0xCC66CC</choice>
+		<choice>0xFF99AA</choice>
+		<choice>0x00FF99</choice>
+		<choice>0xFFD700</choice>
 	</color>
 	<color r="ccMouthLip" component_type="mouth" enable="Y">
 		<choice>0xEBAE99</choice>
