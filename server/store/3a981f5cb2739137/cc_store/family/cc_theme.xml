@@ -4942,6 +4942,15 @@
 	<component type="hair" id="afro" path="afro" name="afro" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="hair" id="afropuffs2" path="afropuffs2" name="afropuffs2" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="hair" id="braids" path="braids" name="braids" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="hair" id="bowlcut" path="bowlcut" name="bowlcut" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="hair" id="bun" path="bun" name="bun" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
