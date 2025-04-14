@@ -2741,7 +2741,7 @@
 			<selection type="facial" facial_id="head_neutral"/>
 			<selection type="lower_body" state_id="kneel_down"/>
 			<selection type="skeleton" state_id="kneel_down"/>
-			<selection type="upper_body" state_id="kneel_down"/>
+			<selection type="upper_body" state_id="default"/>
 		</action>
 		<action id="xarms" name="Crossed arms" loop="Y" totalframe="1" enable="Y" is_motion="N">
 			<selection type="facial" facial_id="head_neutral"/>
@@ -2775,7 +2775,7 @@
 		</action>
 		<action id="laugh" name="Laugh" loop="Y" totalframe="6" enable="Y" category="emotion" is_motion="N">
 			<selection type="facial" facial_id="head_laugh"/>
-			<selection type="lower_body" state_id="laugh"/>
+			<selection type="lower_body" state_id="default"/>
 			<selection type="skeleton" state_id="laugh"/>
 			<selection type="upper_body" state_id="laugh"/>
 		</action>

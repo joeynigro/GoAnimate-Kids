@@ -3940,6 +3940,9 @@
   <char id="4004" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_003.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4005" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_004.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="1001" name="William's Mom" cc_theme_id="family" thumbnail_url="thumbnails/william_mom.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
