@@ -3964,10 +3964,10 @@
   <char id="1008" name="Kendra's Dad" cc_theme_id="family" thumbnail_url="thumbnails/kendra_dad.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
-  <char id="7005" name="Grandma" cc_theme_id="family" thumbnail_url="thumbnails/classics/grandma.png" copyable="Y">
+  <char id="7005" name="Grandma" cc_theme_id="family" thumbnail_url="thumbnails/grandma.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
-  <char id="7006" name="Grandpa" cc_theme_id="family" thumbnail_url="thumbnails/classics/grandpa.png" copyable="Y">
+  <char id="7006" name="Grandpa" cc_theme_id="family" thumbnail_url="thumbnails/grandpa.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
   <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher.png" copyable="Y">
