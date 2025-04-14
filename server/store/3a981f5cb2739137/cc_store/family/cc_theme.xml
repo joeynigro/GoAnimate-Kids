@@ -5,13 +5,27 @@
 		<choice>0xFEC4AB</choice>
 		<choice>0xCC9966</choice>
 		<choice>0x936242</choice>
+		<choice>0xFFE7CC</choice>
+		<choice>0xFEDBA3</choice>
+		<choice>0xF2CBAF</choice>
+		<choice>0xE1AA76</choice>
+		<choice>0xB27A4F</choice>
+		<choice>0x8B5A3C</choice>
+		<choice>0x6B4423</choice>
 	</color>
 	<color r="ccEyeLib" component_type="eye" parent_color_r="ccSkinColor" parent_component_type="bodyshape" enable="Y">
-		<choice>0xFCDFC2</choice>
-		<choice>0xFECFA3</choice>
-		<choice>0xFEC4AB</choice>
-		<choice>0xCC9966</choice>
-		<choice>0x936242</choice>
+		<choice>0xF4C6AB</choice>
+		<choice>0xF5B97F</choice>
+		<choice>0xF3A78E</choice>
+		<choice>0xB87A4A</choice>
+		<choice>0x6E442B</choice>
+		<choice>0xF1C8B0</choice>
+		<choice>0xF3BC87</choice>
+		<choice>0xE8B98E</choice>
+		<choice>0xBE8C5D</choice>
+		<choice>0x8F5B38</choice>
+		<choice>0x5A3323</choice>
+		<choice>0x3A1B10</choice>
 	</color>
 	<color r="ccEyeIris" component_type="eye" enable="Y">
 		<choice>0x7892C6</choice>
@@ -19,6 +33,16 @@
 		<choice>0x988986</choice>
 		<choice>0x7D551C</choice>
 		<choice>0x000000</choice>
+		<choice>0xA3C6E6</choice>
+		<choice>0x3F5FAF</choice>
+		<choice>0x99CC66</choice>
+		<choice>0x4B9157</choice>
+		<choice>0xA9744F</choice>
+		<choice>0x4A2C0A</choice>
+		<choice>0xB0B0B0</choice>
+		<choice>0x646464</choice>
+		<choice>0x8E775E</choice>
+		<choice>0x736357</choice>
 	</color>
 	<color r="ccGlassesFrame" component_type="glasses" enable="Y">
 		<choice>0x000000</choice>
@@ -40,6 +64,13 @@
 		<choice>0xD17674</choice>
 		<choice>0xB0604A</choice>
 		<choice>0x7E4132</choice>
+		<choice>0xE8A899</choice>
+		<choice>0xDB9B7D</choice>
+		<choice>0xD88C6F</choice>
+		<choice>0xC46F4B</choice>
+		<choice>0xA2593B</choice>
+		<choice>0x6A3926</choice>
+		<choice>0x4A2415</choice>
 	</color>
 	<color r="ccMustache" component_type="mustache" enable="Y">
 		<choice>0xC1BFB8</choice>
