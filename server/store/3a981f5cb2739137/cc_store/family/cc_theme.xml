@@ -42,12 +42,11 @@
 		<choice>0x7E4132</choice>
 	</color>
 	<color r="ccMustache" component_type="mustache" enable="Y">
+		<choice>0xC1BFB8</choice>
 		<choice>0xE9C127</choice>
-		<choice>0xC29B22</choice>
 		<choice>0x7E4D1B</choice>
 		<choice>0x000000</choice>
 		<choice>0xb44e0a</choice>
-		<choice>0xC1BFB8</choice>
 		<choice>0xF1DDB6</choice>
 		<choice>0xfadd8f</choice>
 		<choice>0xA88155</choice>
@@ -60,12 +59,11 @@
 		<choice>0xe589ba</choice>
 	</color>
 	<color r="ccBeard" component_type="beard" enable="Y">
+		<choice>0xC1BFB8</choice>
 		<choice>0xE9C127</choice>
-		<choice>0xC29B22</choice>
 		<choice>0x7E4D1B</choice>
 		<choice>0x000000</choice>
 		<choice>0xb44e0a</choice>
-		<choice>0xC1BFB8</choice>
 		<choice>0xF1DDB6</choice>
 		<choice>0xfadd8f</choice>
 		<choice>0xA88155</choice>
@@ -78,12 +76,11 @@
 		<choice>0xe589ba</choice>
 	</color>
 	<color r="ccEyebrow" component_type="eyebrow" enable="Y">
+		<choice>0xC1BFB8</choice>
 		<choice>0xE9C127</choice>
-		<choice>0xC29B22</choice>
 		<choice>0x7E4D1B</choice>
 		<choice>0x000000</choice>
 		<choice>0xb44e0a</choice>
-		<choice>0xC1BFB8</choice>
 		<choice>0xF1DDB6</choice>
 		<choice>0xfadd8f</choice>
 		<choice>0xA88155</choice>
@@ -96,12 +93,11 @@
 		<choice>0xe589ba</choice>
 	</color>
 	<color r="ccHairMajor" component_type="hair" enable="Y">
+		<choice>0xC1BFB8</choice>
 		<choice>0xE9C127</choice>
-		<choice>0xC29B22</choice>
 		<choice>0x7E4D1B</choice>
 		<choice>0x000000</choice>
 		<choice>0xb44e0a</choice>
-		<choice>0xC1BFB8</choice>
 		<choice>0xF1DDB6</choice>
 		<choice>0xfadd8f</choice>
 		<choice>0xA88155</choice>
