@@ -4015,5 +4015,11 @@
   <char id="7004" name="PC Guy" cc_theme_id="family" thumbnail_url="thumbnails/classics/pc_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
+  <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_male.png" copyable="Y">
+    <tags>family,_free,_cat:Superheroes</tags>
+  </char>
+  <char id="7009" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_female.png" copyable="Y">
+    <tags>family,_free,_cat:Superheroes</tags>
+  </char>
 </theme>
 <!--If you see this, Blukas/GoTube says hi and you should give him credit if you modify this ;)-->
