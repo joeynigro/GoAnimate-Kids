@@ -5276,10 +5276,22 @@
 	<component type="beard" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="beard" id="chinstrap" path="chinstrap" name="chinstrap" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="mustache" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="mustache" id="horseshoe" path="horseshoe" name="horseshoe" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="mustache" id="pencil" path="pencil" name="pencil" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="mustache" id="goanimatekids_english" path="goanimatekids_english" name="goanimatekids_english" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="mustache" id="goanimatekids_zappa" path="goanimatekids_zappa" name="goanimatekids_zappa" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 </cc_theme>
