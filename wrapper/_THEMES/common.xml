@@ -15385,6 +15385,30 @@
 		<file>common.ncc_underground.swf</file>
 	</bg>
 </compositebg>
+	<prop id="balloons.swf" name="Balloons" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="magician_wand.swf" name="Magic wand" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
+	<prop id="toy_hammer.swf" name="Toy hammer" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
+	<prop id="toy_train.swf" name="Toy train" holdable="" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="banana.swf" name="Banana" holdable="" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="broccoli.swf" name="Broccoli" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="grapes.swf" name="Grapes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="icecream_cone.swf" name="Ice cream cone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
+	<prop id="iced_chocolate.swf" name="Iced chocolate" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="milkshake.swf" name="Milkshake" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="mint_lemonade.swf" name="Mint lemonade" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="plate.swf" name="Plate" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="eraser.swf" name="Eraser" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="highlighter.swf" name="Highlighter" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="pen.swf" name="Pen" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
+	<prop id="pencil.swf" name="Pencil" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
+	<prop id="ruler.swf" name="Ruler" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="school_glue.swf" name="School glue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+    <prop id="money.swf" name="Money" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+    <prop id="msp_school_bus" name="School Bus" holdable="" placeable="1" wearable="" facing="left" thumb="msp_school_bus_school_bus_full.swf" enable="Y" is_premium="N" aid="11038" money="" sharing="">
+      <state id="msp_school_bus_school_bus_full.swf" name="still" enable="Y" default="Y" />
+      <state id="msp_school_bus_school_bus_on.swf" name="driving" enable="Y" />
+    </prop>
+
 	<prop id="ncc_aircon01.swf" name="Vent" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="msp_cake01" name="Cake" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_cake01_ncc_cake01_full.swf" enable="Y" is_premium="N" aid="11355" money="0" sharing="0">
 		<state id="msp_cake01_ncc_cake01_cut.swf" name="sliced" enable="Y"/>
@@ -19645,7 +19669,7 @@
 	<effect id="curtain_up_fx.swf" type="ANIME" resize="false" move="false" name="curtain up fx" enable="Y" aid="4002" display_order="15" is_premium="N" money="0" sharing="0"/>
 	<effect id="DV_screen.swf" type="ANIME" resize="false" move="false" name="DV Screen" enable="N" is_premium="N" aid="3462" money="0" sharing="0" display_order="16"/>
 	<effect id="water_flood.swf" type="ANIME" resize="false" move="false" name="Water Flood" enable="Y" is_premium="N" aid="3461" money="0" sharing="0" display_order="17"/>
-	<effect id="bomb.swf" type="ANIME" resize="false" move="false" name="Bomb" enable="Y" is_premium="N" aid="3460" money="0" sharing="0" display_order="18"/>
+	<effect id="bomb.swf" type="ANIME" resize="false" move="false" name="Bomb" enable="N" is_premium="N" aid="3460" money="0" sharing="0" display_order="18"/>
 	<effect id="ppl01.swf" type="ANIME" resize="false" move="false" name="People" enable="Y" is_premium="N" aid="3459" money="0" sharing="0" display_order="19"/>
 	<effect id="aud-banner.swf" type="ANIME" resize="false" move="false" name="Banner" enable="Y" is_premium="N" aid="3448" money="0" sharing="0" display_order="20"/>
 	<effect id="aud-clap.swf" type="ANIME" resize="false" move="false" name="Clap" enable="Y" is_premium="N" aid="3449" money="0" sharing="0" display_order="21"/>
@@ -19657,7 +19681,7 @@
 	<effect id="gnn_news.swf" type="ANIME" resize="false" move="false" name="GNN News" enable="Y" is_premium="N" aid="3457" money="0" sharing="0" display_order="26"/>
 	<effect id="black_all.swf" type="ANIME" resize="false" move="false" name="Darkness" enable="Y" is_premium="N" aid="3450" money="0" sharing="0" display_order="27"/>
 	<effect id="blue_screen.swf" type="ANIME" resize="false" move="false" name="Blue Screen" enable="Y" is_premium="N" aid="3452" money="0" sharing="0" display_order="29"/>
-	<effect id="atomic-bomb.swf" type="ANIME" resize="false" move="false" name="Atomic Bomb" enable="Y" is_premium="N" aid="3446" money="0" sharing="0" display_order="30"/>
+	<effect id="atomic-bomb.swf" type="ANIME" resize="false" move="false" name="Atomic Bomb" enable="N" is_premium="N" aid="3446" money="0" sharing="0" display_order="30"/>
 	<effect id="hearts.swf" type="ANIME" resize="false" move="false" name="Heart" enable="Y" is_premium="N" aid="3445" money="0" sharing="0" display_order="31"/>
 	<effect id="old_film_effect.swf" type="ANIME" resize="false" move="false" name="Old Film" enable="N" is_premium="N" aid="3444" money="0" sharing="0" display_order="32"/>
 	<effect id="old_film_effect_04.swf" type="ANIME" resize="false" move="false" name="Old Film" enable="Y" is_premium="N" aid="9818" money="0" sharing="0" display_order="32"/>
