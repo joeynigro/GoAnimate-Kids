@@ -3765,9 +3765,9 @@
 		</c_parts>
 	</prop>
 	<prop id="battlefield_sandbag.swf" name="Sandbag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9673" money="0" sharing="0"/>
-	<prop id="battlefield_oil_drum01.swf" name="Oil drum" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9674" money="0" sharing="0"/>
-	<prop id="battlefield_oil_drum02.swf" name="Oil drum" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9675" money="0" sharing="0"/>
-	<prop id="battlefield_oil_drum03.swf" name="Oil drum group" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9676" money="0" sharing="0"/>
+	<prop id="battlefield_oil_drum01.swf" name="Oil drum" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9674" money="0" sharing="0"/>
+	<prop id="battlefield_oil_drum02.swf" name="Oil drum" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9675" money="0" sharing="0"/>
+	<prop id="battlefield_oil_drum03.swf" name="Oil drum group" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9676" money="0" sharing="0"/>
 	<prop id="battlefield_boxes.swf" name="Boxes" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9677" money="0" sharing="0"/>
 	<prop id="changing_room_bench01.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9678" money="0" sharing="0"/>
 	<prop id="changing_room_bench02.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9679" money="0" sharing="0"/>
