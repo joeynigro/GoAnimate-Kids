@@ -4200,7 +4200,7 @@
 	<component type="faceshape" id="mummy" path="mummy" name="mummy" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
-	<component type="faceshape" id="spongebob" path="spongebob" name="spongebob" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="faceshape" id="spongebob" path="spongebob" name="spongebob" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="faceshape" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">

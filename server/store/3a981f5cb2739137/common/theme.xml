@@ -16723,14 +16723,14 @@
 		<state id="msp_ncc_gun_usp40b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_ncc_gun_usp40b_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_halo1b" name="Sci-fi rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_halo1b_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11657" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_halo1b" name="Sci-fi rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_halo1b_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11657" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_halo1b_ncc_gun_fire.swf" name="Automatic mode" enable="Y"/>
 		<state id="msp_halo1b_ncc_gun_loop.swf" name="Burst mode" enable="Y"/>
 		<state id="msp_halo1b_ncc_gun_once.swf" name="Shoot once" enable="Y"/>
 		<state id="msp_halo1b_ncc_gun_still.swf" name="Still" enable="Y" default="Y"/>
 	</prop>
-	<prop id="msp_halo2b" name="Sci-fi rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_halo2b_ncc_gun_still.swf" enable="Y" is_premium="Y" aid="11662" money="0" sharing="0" handstyle="gun">
+	<prop id="msp_halo2b" name="Sci-fi rifle" holdable="1" placeable="1" wearable="0" facing="left" thumb="msp_halo2b_ncc_gun_still.swf" enable="N" is_premium="Y" aid="11662" money="0" sharing="0" handstyle="gun">
 		<tag>gun</tag>
 		<state id="msp_halo2b_ncc_gun_fire.swf" name="Automatic mode" enable="Y"/>
 		<state id="msp_halo2b_ncc_gun_loop.swf" name="Burst mode" enable="Y"/>
