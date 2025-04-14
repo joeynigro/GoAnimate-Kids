@@ -2643,7 +2643,7 @@
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
-		<component type="lower_body" id="eve_056" path="eve_060" name="eve_060" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<component type="lower_body" id="eve_060" path="eve_060" name="eve_060" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
 			<state id="default" filename="default.swf"/>
 			<state id="excited" filename="excited.swf"/>
