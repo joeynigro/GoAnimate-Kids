@@ -3943,6 +3943,24 @@
   <char id="4005" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_004.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4006" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_005.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4007" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_006.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4008" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_007.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4009" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_008.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4010" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_009.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4011" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_010.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="1001" name="William's Mom" cc_theme_id="family" thumbnail_url="thumbnails/william_mom.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
