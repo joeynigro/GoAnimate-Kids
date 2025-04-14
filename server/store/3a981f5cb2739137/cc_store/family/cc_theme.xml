@@ -55,8 +55,17 @@
 		<choice>0xAF7456</choice>
 		<choice>0xDC8A09</choice>
 		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
 		<choice>0x6FB2DE</choice>
 		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<color r="ccBeard" component_type="beard" enable="Y">
 		<choice>0xC1BFB8</choice>
@@ -72,8 +81,17 @@
 		<choice>0xAF7456</choice>
 		<choice>0xDC8A09</choice>
 		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
 		<choice>0x6FB2DE</choice>
 		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<color r="ccEyebrow" component_type="eyebrow" enable="Y">
 		<choice>0xC1BFB8</choice>
@@ -89,8 +107,17 @@
 		<choice>0xAF7456</choice>
 		<choice>0xDC8A09</choice>
 		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
 		<choice>0x6FB2DE</choice>
 		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<color r="ccHairMajor" component_type="hair" enable="Y">
 		<choice>0xC1BFB8</choice>
@@ -106,18 +133,43 @@
 		<choice>0xAF7456</choice>
 		<choice>0xDC8A09</choice>
 		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
 		<choice>0x6FB2DE</choice>
 		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<color r="ccHairMinor" component_type="hair" enable="Y">
-		<choice>0xF3F9FA</choice>
-		<choice>0xEEE066</choice>
-		<choice>0xAF9350</choice>
-		<choice>0x3AA398</choice>
-		<choice>0xAF7297</choice>
-		<choice>0xB9355E</choice>
-		<choice>0x3A7134</choice>
-		<choice>0x272525</choice>
+		<choice>0xC1BFB8</choice>
+		<choice>0xE9C127</choice>
+		<choice>0x7E4D1B</choice>
+		<choice>0x000000</choice>
+		<choice>0xb44e0a</choice>
+		<choice>0xF1DDB6</choice>
+		<choice>0xfadd8f</choice>
+		<choice>0xA88155</choice>
+		<choice>0xED965A</choice>
+		<choice>0x321F1B</choice>
+		<choice>0xAF7456</choice>
+		<choice>0xDC8A09</choice>
+		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
+		<choice>0x6FB2DE</choice>
+		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<color r="ccUpperMain" oc="0x336699" component_type="upper_body" enable="Y">
 		<choice>0x43C2E7</choice>
@@ -125,6 +177,16 @@
 		<choice>0xF31E1E</choice>
 		<choice>0xCCCCCC</choice>
 		<choice>0x66CC99</choice>
+		<choice>0xFFD700</choice>
+		<choice>0x336699</choice>
+		<choice>0x428247</choice>
+		<choice>0xFF8C00</choice>
+		<choice>0xA0522D</choice>
+		<choice>0x800080</choice>
+		<choice>0xFF99CC</choice>
+		<choice>0x8A2BE2</choice>
+		<choice>0x708090</choice>
+		<choice>0xF4A460</choice>
 	</color>
 	<color r="ccUpperMinor" oc="0xE5E5E5" component_type="upper_body" enable="Y">
 		<choice>0x43C2E7</choice>
@@ -132,6 +194,16 @@
 		<choice>0xF31E1E</choice>
 		<choice>0xCCCCCC</choice>
 		<choice>0x66CC99</choice>
+		<choice>0xFFD700</choice>
+		<choice>0x336699</choice>
+		<choice>0x428247</choice>
+		<choice>0xFF8C00</choice>
+		<choice>0xA0522D</choice>
+		<choice>0x800080</choice>
+		<choice>0xFF99CC</choice>
+		<choice>0x8A2BE2</choice>
+		<choice>0x708090</choice>
+		<choice>0xF4A460</choice>
 	</color>
 	<color r="ccLowerMain" oc="0xCCBC9A" component_type="lower_body" enable="Y">
 		<choice>0x33517C</choice>
@@ -139,13 +211,34 @@
 		<choice>0x666666</choice>
 		<choice>0x428247</choice>
 		<choice>0x663300</choice>
+		<choice>0x333333</choice>
+		<choice>0xA9A9A9</choice>
+		<choice>0x8B5E3C</choice>
+		<choice>0x3B3B6D</choice>
+		<choice>0xD2B48C</choice>
+		<choice>0x4C4C4C</choice>
+		<choice>0x556B2F</choice>
+		<choice>0x5F9EA0</choice>
+		<choice>0xA0522D</choice>
+		<choice>0x2F4F4F</choice>
 	</color>
 	<color r="ccLowerMinor" oc="0xEEEEEE" component_type="lower_body" enable="Y">
+		<choice>0x000000</choice>
 		<choice>0x333333</choice>
+		<choice>0x49260C</choice>
+		<choice>0x854714</choice>
+		<choice>0xAC7841</choice>
 		<choice>0xC5C5C5</choice>
-		<choice>0x116BA4</choice>
-		<choice>0xFF0000</choice>
-		<choice>0x917C4B</choice>
+		<choice>0xFFFFFF</choice>
+		<choice>0x2F4F4F</choice>
+		<choice>0x808000</choice>
+		<choice>0x6B8E23</choice>
+		<choice>0x1E3A5F</choice>
+		<choice>0xB22222</choice>
+		<choice>0xD2B48C</choice>
+		<choice>0x696969</choice>
+		<choice>0xCD853F</choice>
+		<choice>0x3C3C65</choice>
 	</color>
 	<color r="ccDecMajor" component_type="facedecoration" enable="Y">
 		<choice>0xAE0057</choice>
