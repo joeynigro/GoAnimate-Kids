@@ -4066,10 +4066,13 @@
   <char id="5007" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_female.png" copyable="Y">
     <tags>family,_free,_cat:Holidays</tags>
   </char>
-  <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_male.png" copyable="Y">
+  <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_001.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes</tags>
   </char>
-  <char id="7009" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_female.png" copyable="Y">
+  <char id="7009" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_002.png" copyable="Y">
+    <tags>family,_free,_cat:Superheroes</tags>
+  </char>
+  <char id="7014" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_003.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes</tags>
   </char>
 </theme>
