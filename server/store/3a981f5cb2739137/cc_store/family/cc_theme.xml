@@ -292,24 +292,56 @@
 		<choice>0x3C3C65</choice>
 	</color>
 	<color r="ccDecMajor" component_type="facedecoration" enable="Y">
-		<choice>0xAE0057</choice>
-		<choice>0x53A8DF</choice>
-		<choice>0xEC9EC5</choice>
-		<choice>0x360202</choice>
 		<choice>0xC1BFB8</choice>
-		<choice>0x5F4929</choice>
-		<choice>0x4A6028</choice>
+		<choice>0xE9C127</choice>
+		<choice>0x7E4D1B</choice>
 		<choice>0x000000</choice>
+		<choice>0xb44e0a</choice>
+		<choice>0xF1DDB6</choice>
+		<choice>0xfadd8f</choice>
+		<choice>0xA88155</choice>
+		<choice>0xED965A</choice>
+		<choice>0x321F1B</choice>
+		<choice>0xAF7456</choice>
+		<choice>0xDC8A09</choice>
+		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
+		<choice>0x6FB2DE</choice>
+		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<color r="ccDecMinor" component_type="facedecoration" enable="Y">
-		<choice>0xFFFFFF</choice>
-		<choice>0x555555</choice>
-		<choice>0xBC6A70</choice>
-		<choice>0x360202</choice>
 		<choice>0xC1BFB8</choice>
-		<choice>0xFFCC00</choice>
-		<choice>0x640F0F</choice>
+		<choice>0xE9C127</choice>
+		<choice>0x7E4D1B</choice>
 		<choice>0x000000</choice>
+		<choice>0xb44e0a</choice>
+		<choice>0xF1DDB6</choice>
+		<choice>0xfadd8f</choice>
+		<choice>0xA88155</choice>
+		<choice>0xED965A</choice>
+		<choice>0x321F1B</choice>
+		<choice>0xAF7456</choice>
+		<choice>0xDC8A09</choice>
+		<choice>0x622220</choice>
+		<choice>0x999999</choice>
+		<choice>0xC08040</choice>
+		<choice>0x8B4513</choice>
+		<choice>0x5A4D41</choice>
+		<choice>0xD8CAB8</choice>
+		<choice>0x6FB2DE</choice>
+		<choice>0xe589ba</choice>
+		<choice>0xD9A7DD</choice>
+		<choice>0x91C8E4</choice>
+		<choice>0xF4C2C2</choice>
+		<choice>0xC0E218</choice>
 	</color>
 	<facial id="head_talk_a" name="Talk neutral A" enable="Y">
 		<selection type="beard" state_id="default" />
