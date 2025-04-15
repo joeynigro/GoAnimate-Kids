@@ -3964,6 +3964,9 @@
   <char id="4012" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_011.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4013" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_012.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
@@ -4010,6 +4013,9 @@
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
   <char id="3001" name="Builder" cc_theme_id="family" thumbnail_url="thumbnails/builder.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="3012" name="Baker" cc_theme_id="family" thumbnail_url="thumbnails/chef.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
   <char id="3007" name="Farmer" cc_theme_id="family" thumbnail_url="thumbnails/farmer.png" copyable="Y">
