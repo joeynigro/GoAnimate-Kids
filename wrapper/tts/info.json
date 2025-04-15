@@ -3518,7 +3518,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Amy",
-			"desc": "Amy (PO)"
+			"desc": "Amy"
 		},
 		"emma4": {
 			"country": "GB",
@@ -3526,7 +3526,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Emma",
-			"desc": "Emma (PO)"
+			"desc": "Emma"
 		},
 		"brian": {
 			"country": "GB",
@@ -3534,7 +3534,7 @@
 			"gender": "M",
 			"source": "polly",
 			"arg": "Brian",
-			"desc": "Brian (PO)"
+			"desc": "Brian"
 		},
 		"chantal": {
 			"country": "CA",
@@ -3550,7 +3550,7 @@
 			"gender": "M",
 			"source": "polly",
 			"arg": "Enrique",
-			"desc": "Enrique (PO)"
+			"desc": "Enrique"
 		},
 		"conchita": {
 			"country": "ES",
@@ -3630,7 +3630,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Lea",
-			"desc": "Lea (PO)"
+			"desc": "Lea"
 		},
 		"vicki": {
 			"country": "DE",
@@ -3798,7 +3798,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Ines",
-			"desc": "Ines (PO)"
+			"desc": "Ines"
 		},
 		"carmen": {
 			"country": "RO",
@@ -3846,7 +3846,7 @@
 			"gender": "M",
 			"source": "polly",
 			"arg": "Justin",
-			"desc": "Justin (PO)"
+			"desc": "Justin"
 		},
 		"kendra": {
 			"country": "US",
@@ -3854,7 +3854,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Kendra",
-			"desc": "Kendra (PO)"
+			"desc": "Kendra"
 		},
 		"matthew": {
 			"country": "US",
@@ -3870,7 +3870,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Ivy",
-			"desc": "Ivy (PO)"
+			"desc": "Ivy"
 		},
 		"joey": {
 			"country": "US",
@@ -3878,7 +3878,7 @@
 			"gender": "M",
 			"source": "polly",
 			"arg": "Joey",
-			"desc": "Joey (PO)"
+			"desc": "Joey"
 		},
 		"joanna": {
 			"country": "US",
@@ -3902,7 +3902,7 @@
 			"gender": "F",
 			"source": "polly",
 			"arg": "Kimberly",
-			"desc": "Kimberly (PO)"
+			"desc": "Kimberly"
 		},
 		"miguel": {
 			"country": "US",
@@ -3910,7 +3910,7 @@
 			"gender": "M",
 			"source": "polly",
 			"arg": "Miguel",
-			"desc": "Miguel (PO)"
+			"desc": "Miguel"
 		},
 		"lupe": {
 			"country": "US",
