@@ -25,7 +25,7 @@ module.exports = async function (req, res, url) {
 			res.setHeader("Content-Type", "application/json");
 			try {
 				const meta = Asset.meta(req.body.data.id || req.body.data.starter_id);
-				// add useless shit
+				// add useless stuff
 				meta.share = { type: "none" };
 				meta.published = "";
 				res.end(JSON.stringify({

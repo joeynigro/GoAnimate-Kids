@@ -4,7 +4,7 @@ module.exports = {
 	 * @param {string} msg 
 	 * @returns {string}
 	 */
-	xmlFail(msg = "Something broke and got grounded.") {
+	xmlFail(msg = "Oops, something broke.") {
 		return `<error><code>ERR_ASSET_404</code><message>${msg}</message><text></text></error>`;
 	},
 };
