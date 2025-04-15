@@ -9,7 +9,7 @@
 	<theme id="chibi" name="Chibi Peepz" col="3" cc_theme_id="chibi" />
 	<theme id="space" name="Space Peepz" col="3" cc_theme_id="space" />
 	<theme id="stick" name="Stick Figure" col="2" cc_theme_id="stick" />
-	<theme id="animal" name="Lil' Petz" col="3" cc_theme_id="animal" />
+	<theme id="animal" name="Animals" col="3" cc_theme_id="animal" />
 	<theme id="common" name="Common" />
 	<word></word>
 	<whiteword />
