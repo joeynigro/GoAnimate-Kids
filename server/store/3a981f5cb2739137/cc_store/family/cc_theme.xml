@@ -5285,6 +5285,9 @@
 	<component type="hair" id="086c" path="086c" name="086c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="hair" id="098" path="098" name="098" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="hair" id="124new" path="124new" name="124new" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
