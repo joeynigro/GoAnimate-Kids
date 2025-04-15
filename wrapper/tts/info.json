@@ -402,7 +402,7 @@
 		},
 		"ivy": {
 			"language": "en",
-			"desc": "Ivy (child)",
+			"desc": "Ivy",
 			"gender": "F",
 			"country": "US",
 			"source": "polly",
@@ -490,7 +490,7 @@
 		},
 		"justin": {
 			"language": "en",
-			"desc": "Justin (child)",
+			"desc": "Justin",
 			"gender": "M",
 			"country": "US",
 			"source": "polly",
@@ -714,7 +714,7 @@
 		},
 		"matthew": {
 			"language": "en",
-			"desc": "Matthew (child)",
+			"desc": "Matthew",
 			"gender": "M",
 			"country": "US",
 			"source": "polly",
