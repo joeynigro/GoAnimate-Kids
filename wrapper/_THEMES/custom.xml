@@ -4084,5 +4084,8 @@
   <char id="7014" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_003.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes</tags>
   </char>
+  <char id="3015" name="Robber" cc_theme_id="family" thumbnail_url="thumbnails/robber.png" copyable="Y">
+    <tags>family,_free,_cat:Villains</tags>
+  </char>
 </theme>
 <!--If you see this, Blukas/GoTube says hi and you should give him credit if you modify this ;)-->
