@@ -4021,21 +4021,6 @@
   <char id="3011" name="Soldier" cc_theme_id="family" thumbnail_url="thumbnails/soldier_buff.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
-  <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
-    <tags>family,_free,_cat:Holidays</tags>
-  </char>
-  <char id="5005" name="Halloween - Witch" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/witch.png" copyable="Y">
-    <tags>family,_free,_cat:Holidays</tags>
-  </char>
-  <char id="5006" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_male.png" copyable="Y">
-    <tags>family,_free,_cat:Holidays</tags>
-  </char>
-  <char id="5007" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_female.png" copyable="Y">
-    <tags>family,_free,_cat:Holidays</tags>
-  </char>
-  <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
-    <tags>family,_free,_cat:Kids</tags>
-  </char>
   <char id="7001" name="Eric" cc_theme_id="family" thumbnail_url="thumbnails/classics/red_hoodie_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
@@ -4059,6 +4044,21 @@
   </char>
   <char id="7013" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/white_dress_girl.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5005" name="Halloween - Witch" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/witch.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5006" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_male.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5007" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_female.png" copyable="Y">
+    <tags>family,_free,_cat:Holidays</tags>
+  </char>
+  <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_male.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes</tags>

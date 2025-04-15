@@ -207,13 +207,16 @@
   <char id="5001" name="Christmss - Santa Claus" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/santa.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
+  <char id="5011" name="Christmss - Snowman" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/snowman.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
   <char id="6001" name="SpongeBob SquarePants" cc_theme_id="cc2" thumbnail_url="thumbnails/spongebob.png" copyable="Y">
     <tags>cc2,_free,_cat:Cartoon Characters</tags>
   </char>
-  <char id="6003" name="Mermaid" cc_theme_id="cc2" thumbnail_url="thumbnails/mermaid.png" copyable="Y">
-    <tags>cc2,_free,_cat:Fantasy Characters</tags>
-  </char>
   <char id="6004" name="Monster" cc_theme_id="cc2" thumbnail_url="thumbnails/monster.png" copyable="Y">
     <tags>cc2,_free,_cat:Monsters</tags>
+  </char>
+  <char id="6003" name="Mermaid" cc_theme_id="cc2" thumbnail_url="thumbnails/mermaid.png" copyable="Y">
+    <tags>cc2,_free,_cat:Fantasy Characters</tags>
   </char>
 </theme>
