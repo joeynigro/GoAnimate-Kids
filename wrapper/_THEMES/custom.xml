@@ -3858,7 +3858,7 @@
 			<c_area oc="">ccColorA</c_area>
 		</c_parts>
 	</prop>
-	<prop id="msp_curtain" name="Curtain" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_curtain_shower_room_curtain01.swf" enable="Y" is_premium="N" aid="9737" money="0" sharing="0">
+	<prop id="msp_curtain" name="Curtain" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_curtain_shower_room_curtain01.swf" enable="N" is_premium="N" aid="9737" money="0" sharing="0">
 		<state id="msp_curtain_shower_room_curtain01.swf" name="Open" enable="Y" default="Y"/>
 		<state id="msp_curtain_shower_room_curtain02.swf" name="Close" enable="Y"/>
 	</prop>
