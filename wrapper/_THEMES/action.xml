@@ -208,7 +208,7 @@
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="6001" name="SpongeBob SquarePants" cc_theme_id="cc2" thumbnail_url="thumbnails/spongebob.png" copyable="Y">
-    <tags>cc2,_free,_cat:Cartoon Characters</tags>
+    <tags>cc2,_free,_cat:Toon Characters</tags>
   </char>
   <char id="6003" name="Mermaid" cc_theme_id="cc2" thumbnail_url="thumbnails/mermaid.png" copyable="Y">
     <tags>cc2,_free,_cat:Fantasy Characters</tags>
