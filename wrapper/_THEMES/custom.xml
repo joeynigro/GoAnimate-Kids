@@ -3067,7 +3067,7 @@
 	<prop id="cc_beanie_hat_ball.swf" name="Beanie Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="8995" money="0" sharing="0"/>
 	<prop id="cc_ear_muffs.swf" name="Ear Muffs" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="8996" money="0" sharing="0"/>
 	<prop id="cc_elf_hat.swf" name="Elf Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="8997" money="0" sharing="0"/>
-	<prop id="msp_toy_workshop_doorframe" name="doorframe" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_toy_workshop_doorframe_toy_workshop_doorframe1.swf" enable="Y" is_premium="N" aid="8978" money="0" sharing="0">
+	<prop id="msp_toy_workshop_doorframe" name="doorframe" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_toy_workshop_doorframe_toy_workshop_doorframe1.swf" enable="N" is_premium="N" aid="8978" money="0" sharing="0">
 		<state id="msp_toy_workshop_doorframe_toy_workshop_doorframe1.swf" name="closed" enable="Y" default="Y"/>
 		<state id="msp_toy_workshop_doorframe_toy_workshop_doorframe2.swf" name="open" enable="Y"/>
 	</prop>
@@ -3144,9 +3144,9 @@
 	<prop id="police_station_table.swf" name="Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9123" money="0" sharing="0"/>
 	<prop id="supermarket_cloth_tray.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9124" money="0" sharing="0"/>
 	<prop id="supermarket_pants_tray.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9125" money="0" sharing="0"/>
-	<prop id="hospital_rm_bed.swf" name="Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9126" money="0" sharing="0"/>
+	<prop id="hospital_rm_bed.swf" name="Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9126" money="0" sharing="0"/>
 	<prop id="cc_foldchair.swf" name="folding chair" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9015" money="0" sharing="0"/>
-	<prop id="msp_hosiptal_blanket" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_hosiptal_blanket_hospital_rm_blanket_full.swf" enable="Y" is_premium="N" aid="9127" money="0" sharing="0">
+	<prop id="msp_hosiptal_blanket" name="Blanket" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_hosiptal_blanket_hospital_rm_blanket_full.swf" enable="N" is_premium="N" aid="9127" money="0" sharing="0">
 		<state id="msp_hosiptal_blanket_hospital_rm_blanket_empty.swf" name="Empty" enable="Y"/>
 		<state id="msp_hosiptal_blanket_hospital_rm_blanket_full.swf" name="Occupied" enable="Y" default="Y"/>
 	</prop>
