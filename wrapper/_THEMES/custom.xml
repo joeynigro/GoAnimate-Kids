@@ -3964,6 +3964,9 @@
   <char id="4012" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_011.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="1001" name="William's Mom" cc_theme_id="family" thumbnail_url="thumbnails/william_mom.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
@@ -4056,9 +4059,6 @@
   </char>
   <char id="5007" name="Halloween - Zombie" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/zombie_female.png" copyable="Y">
     <tags>family,_free,_cat:Holidays</tags>
-  </char>
-  <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
-    <tags>family,_free,_cat:Kids</tags>
   </char>
   <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_male.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes</tags>
