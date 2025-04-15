@@ -19652,7 +19652,7 @@
 	<effect id="ncc_fx_scifi.swf" type="ANIME" resize="false" move="false" name="Analyzing specimen" enable="Y" is_premium="N" aid="23185" money="0" sharing="0" display_order="0"/>
 	<effect id="ncc_sci005fx.swf" type="ANIME" resize="false" move="false" name="Ceiling Crumbling" enable="Y" is_premium="N" aid="23189" money="0" sharing="0" display_order="0"/>
 	<effect id="spray.swf" type="ANIME" resize="false" move="false" name="Spray" enable="Y" is_premium="N" aid="10965" money="0" sharing="0" display_order="0"/>
-	<effect id="ncc_ninja_fx02.swf" type="ANIME" resize="false" move="false" name="Hit" enable="Y" is_premium="N" aid="23191" money="0" sharing="0" display_order="0"/>
+	<effect id="ncc_ninja_fx02.swf" type="ANIME" resize="false" move="false" name="Hit" enable="N" is_premium="N" aid="23191" money="0" sharing="0" display_order="0"/>
 	<effect id="ncc_ninja_fx04.swf" type="ANIME" resize="false" move="false" name="Purple petals" enable="Y" is_premium="N" aid="23193" money="0" sharing="0" display_order="0"/>
 	<effect id="fade_in.swf" type="ANIME" resize="false" move="false" name="Fade In" enable="N" is_premium="N" aid="3454" money="0" sharing="0" display_order="0"/>
 	<effect id="fade_out.swf" type="ANIME" resize="false" move="false" name="Fade Out" enable="N" is_premium="N" aid="3455" money="0" sharing="0" display_order="0"/>
