@@ -186,7 +186,7 @@
 		<state id="msp_vending_drink_vending_drink.swf" name="front" enable="Y" default="Y"/>
 		<state id="msp_vending_drink_ncc_vending_drink_side.swf" name="side" enable="Y"/>
 	</prop>
-  <char id="3014" name="Kid" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_013.png" copyable="Y">
+  <char id="4014" name="Kid" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_013.png" copyable="Y">
     <tags>cc2,_free,_cat:Kids</tags>
   </char>
   <char id="3006" name="Pirate" cc_theme_id="cc2" thumbnail_url="thumbnails/pirate.png" copyable="Y">
