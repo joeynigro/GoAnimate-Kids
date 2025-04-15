@@ -1142,16 +1142,16 @@
 	<prop id="02sword03.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17506" money="0" sharing="0" handstyle="stick"/>
 	<prop id="02sword04.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17507" money="0" sharing="0" handstyle="stick"/>
 	<prop id="02sword05.swf" name="Sword" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17508" money="0" sharing="0" handstyle="stick"/>
-	<prop id="city10_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17581" money="0" sharing="0"/>
+	<prop id="city10_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17581" money="0" sharing="0"/>
 	<prop id="city10_prop02.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17582" money="0" sharing="0"/>
-	<prop id="city10_prop03.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17583" money="0" sharing="0"/>
+	<prop id="city10_prop03.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17583" money="0" sharing="0"/>
 	<prop id="city13_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17584" money="0" sharing="0"/>
 	<prop id="city14_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17585" money="0" sharing="0"/>
 	<prop id="city14_prop02.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17586" money="0" sharing="0"/>
 	<prop id="city14_prop03.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17587" money="0" sharing="0"/>
 	<prop id="city14_prop04.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17588" money="0" sharing="0"/>
-	<prop id="city15_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17589" money="0" sharing="0"/>
-	<prop id="city16_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="17590" money="0" sharing="0"/>
+	<prop id="city15_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17589" money="0" sharing="0"/>
+	<prop id="city16_prop01.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17590" money="0" sharing="0"/>
 	<prop id="msp_city14" name="Traffic light" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_city14_city14_prop01.swf" enable="N" is_premium="N" aid="17591" money="0" sharing="0">
 		<state id="msp_city14_city14_prop01.swf" name="green" enable="Y" default="Y"/>
 		<state id="msp_city14_city14_prop02.swf" name="green to red" enable="Y"/>
