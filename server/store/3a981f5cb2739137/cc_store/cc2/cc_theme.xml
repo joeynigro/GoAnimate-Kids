@@ -2890,6 +2890,7 @@
 		<library type="GoBehindBody" id="bunny_tail" path="bunny_tail" name="bunny_tail" thumb="bunny_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="custom_cat_tail" path="custom_cat_tail" name="custom_cat_tail" thumb="custom_cat_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="deer_tail" path="deer_tail" name="deer_tail" thumb="deer_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+		<library type="GoBehindBody" id="demon_tail" path="demon_tail" name="demon_tail" thumb="demon_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="dog_tail" path="dog_tail" name="dog_tail" thumb="dog_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="fox_tail" path="fox_tail" name="fox_tail" thumb="fox_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoBehindBody" id="gerbil_tail" path="gerbil_tail" name="gerbil_tail" thumb="gerbil_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>

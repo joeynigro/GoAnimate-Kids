@@ -213,4 +213,7 @@
   <char id="6003" name="Mermaid" cc_theme_id="cc2" thumbnail_url="thumbnails/mermaid.png" copyable="Y">
     <tags>cc2,_free,_cat:Fantasy Characters</tags>
   </char>
+  <char id="6004" name="Monster" cc_theme_id="cc2" thumbnail_url="thumbnails/monster.png" copyable="Y">
+    <tags>cc2,_free,_cat:Monsters</tags>
+  </char>
 </theme>
