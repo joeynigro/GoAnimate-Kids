@@ -3630,7 +3630,7 @@
 			<c_area oc="">ccColorA</c_area>
 		</c_parts>
 	</prop>
-	<prop id="cc_tank.swf" name="Tank" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9624" money="0" sharing="0">
+	<prop id="cc_tank.swf" name="Tank" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9624" money="0" sharing="0">
 		<colorset enable="Y" aid="9625">
 			<color r="ccColorA">0xD7CAC1</color>
 		</colorset>
