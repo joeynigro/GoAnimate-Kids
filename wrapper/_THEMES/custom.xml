@@ -3967,6 +3967,15 @@
   <char id="4013" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_012.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4014" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_012.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4015" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_012.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
+  <char id="4016" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_012.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
