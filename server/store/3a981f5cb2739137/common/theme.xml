@@ -15387,6 +15387,7 @@
 </compositebg>
 	<prop id="balloons.swf" name="Balloons" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="lego_brick.swf" name="Building block" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="painting_canvas.swf" name="Canvas" holdable="" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="magician_wand.swf" name="Magic wand" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="toy_hammer.swf" name="Toy hammer" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="toy_train.swf" name="Toy train" holdable="" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
