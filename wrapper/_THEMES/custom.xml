@@ -4000,6 +4000,9 @@
   <char id="7005" name="Grandpa" cc_theme_id="family" thumbnail_url="thumbnails/grandpa.png" copyable="Y">
     <tags>family,_free,_cat:Parents</tags>
   </char>
+  <char id="7015" name="Lucas's Brother" cc_theme_id="family" thumbnail_url="thumbnails/lucas_brother.png" copyable="Y">
+    <tags>family,_free,_cat:Siblings</tags>
+  </char>
   <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
