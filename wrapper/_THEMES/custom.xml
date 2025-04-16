@@ -3985,6 +3985,9 @@
   <char id="4020" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_019.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
+  <char id="4021" name="Kid" cc_theme_id="family" thumbnail_url="thumbnails/kid_020.png" copyable="Y">
+    <tags>family,_free,_cat:Kids</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids</tags>
   </char>
