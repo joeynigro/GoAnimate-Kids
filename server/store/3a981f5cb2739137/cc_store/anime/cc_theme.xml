@@ -88,18 +88,18 @@
 	</color>
 	<color r="ccHairMinor" component_type="hair" enable="Y">
 	    <choice>0xFF69B4</choice>
-	    <choice>0xFFC0CB</choice>
-	    <choice>0xFF0000</choice>
 	    <choice>0xFFD700</choice>
+	    <choice>0xFFC0CB</choice>
+	    <choice>0xFFFFFF</choice>
+	    <choice>0x9370DB</choice>
+	    <choice>0xFF0000</choice>
 	    <choice>0xFFA500</choice>
 	    <choice>0xFFFF00</choice>
 	    <choice>0xADD8E6</choice>
 	    <choice>0x0000FF</choice>
 	    <choice>0x8A2BE2</choice>
-	    <choice>0x9370DB</choice>
 	    <choice>0x00FF7F</choice>
 	    <choice>0x008000</choice>
-	    <choice>0xFFFFFF</choice>
 	    <choice>0x808080</choice>
 	    <choice>0x000000</choice>
 	</color>
