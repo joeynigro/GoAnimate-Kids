@@ -261,106 +261,22 @@
 	<prop id="space05_prop02.swf" name="Space ship" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="20477" money="0" sharing="0"/>
 	<prop id="space06_prop02.swf" name="Door" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="20478" money="0" sharing="0"/>
 	<prop id="space06_prop03.swf" name="Screen" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="20479" money="0" sharing="0"/>
-    <char id="8001" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
+    <char id="8001" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="thumbnails/spacecitizen_001.png" copyable="Y">
       <tags>spacecitizen,_free</tags>
     </char>
-    <char id="8002" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
+    <char id="8002" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="thumbnails/spacecitizen_002.png" copyable="Y">
       <tags>spacecitizen,_free</tags>
     </char>
-    <char id="8003" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
+    <char id="8003" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="thumbnails/spacecitizen_003.png" copyable="Y">
       <tags>spacecitizen,_free</tags>
     </char>
-    <char id="8004" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
+    <char id="8004" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="thumbnails/spacecitizen_004.png" copyable="Y">
       <tags>spacecitizen,_free</tags>
     </char>
-    <char id="8005" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
+    <char id="8005" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="thumbnails/spacecitizen_005.png" copyable="Y">
       <tags>spacecitizen,_free</tags>
     </char>
-    <char id="8006" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8007" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8008" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8009" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8010" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8011" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8012" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8013" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8014" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8015" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8016" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8017" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8018" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8019" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8020" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8021" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8022" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8023" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8024" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8025" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8026" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8027" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8028" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8029" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8030" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8031" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8032" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8033" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
-      <tags>spacecitizen,_free</tags>
-    </char>
-    <char id="8034" name="Untitled" cc_theme_id="spacecitizen" copyable="Y">
+    <char id="8006" name="Untitled" cc_theme_id="spacecitizen" thumbnail_url="thumbnails/spacecitizen_006.png" copyable="Y">
       <tags>spacecitizen,_free</tags>
     </char>
   </theme>
