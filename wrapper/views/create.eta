@@ -47,8 +47,8 @@
 					Anime
 				</a>
 			</div>
-			<div class="theme" data-has-cc>
-				<a href="#" onclick="redirect('spacecitizen', 'spacecitizen')">
+			<div class="theme">
+				<a href="#" onclick="redirect('spacecitizen')">
 					<img src="/pages/img/themes/spacecitizen.jpg" alt="Space Citizens">
 					Space Citizens
 				</a>
