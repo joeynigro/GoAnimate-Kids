@@ -4042,10 +4042,10 @@
   <char id="3001" name="Builder" cc_theme_id="family" thumbnail_url="thumbnails/builder.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
-  <char id="3016" name="Mario" cc_theme_id="family" thumbnail_url="thumbnails/plumber_mario.png" copyable="Y">
+  <char id="3016" name="Plumber" cc_theme_id="family" thumbnail_url="thumbnails/plumber_mario.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
-  <char id="3017" name="Luigi" cc_theme_id="family" thumbnail_url="thumbnails/plumber_luigi.png" copyable="Y">
+  <char id="3017" name="Plumber" cc_theme_id="family" thumbnail_url="thumbnails/plumber_luigi.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
   <char id="3012" name="Baker" cc_theme_id="family" thumbnail_url="thumbnails/chef.png" copyable="Y">
