@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<theme id="action" name="Lil' Peepz" cc_theme_id="cc2">
-	<background id="ncc_medium.swf" name="Medium Horizoon" enable="Y" default="N" is_premium="N" aid="10712" money="0" sharing="0"/>
-	<background id="ncc_low.swf" name="Low Horizoon" enable="Y" default="N" is_premium="N" aid="10800" money="0" sharing="0"/>
+<theme id="action" name="Lil' Peepz" cc_theme_id="cc2"><background id="ncc_floor.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="10673" money="0" sharing="0"/>
+	<background id="ncc_gradient.swf" name="Gradient" enable="Y" default="N" is_premium="N" aid="10674" money="0" sharing="0"/>
+	<background id="ncc_high.swf" name="High Horizon" enable="Y" default="N" is_premium="N" aid="10675" money="0" sharing="0"/>
+	<background id="ncc_interior_left.swf" name="Interior left" enable="Y" default="N" is_premium="N" aid="10676" money="0" sharing="0"/>
+	<background id="ncc_interior_right.swf" name="Interior right" enable="Y" default="N" is_premium="N" aid="10677" money="0" sharing="0"/>
+	<background id="ncc_low.swf" name="Low Horizon" enable="Y" default="N" is_premium="N" aid="10678" money="0" sharing="0"/>
+	<background id="ncc_medium.swf" name="Medium Horizon" enable="Y" default="N" is_premium="N" aid="10679" money="0" sharing="0"/>
+	<background id="ncc_interior_left02.swf" name="Interior left" enable="Y" default="N" is_premium="N" aid="10680" money="0" sharing="0"/>
+	<background id="ncc_interior_right02.swf" name="Interior right" enable="Y" default="N" is_premium="N" aid="10681" money="0" sharing="0"/>
+	<background id="wall01.swf" name="Brick wall" enable="Y" default="N" is_premium="Y" aid="10775" money="0" sharing="0"/>
+	<background id="wall02.swf" name="Thick striped wallpaper" enable="Y" default="N" is_premium="N" aid="10776" money="0" sharing="0"/>
+	<background id="wall03.swf" name="Thin striped wallpaper" enable="Y" default="N" is_premium="N" aid="10777" money="0" sharing="0"/>
+	<background id="wall04.swf" name="Dotted wallpaper" enable="Y" default="N" is_premium="N" aid="10778" money="0" sharing="0"/>
+	<background id="wall05.swf" name="Squared wallpaper" enable="Y" default="N" is_premium="Y" aid="10779" money="0" sharing="0"/>
+	<background id="wall06.swf" name="Dotted floor" enable="Y" default="N" is_premium="N" aid="10780" money="0" sharing="0"/>
+	<background id="wall07.swf" name="Striped wallpaper" enable="Y" default="N" is_premium="Y" aid="10781" money="0" sharing="0"/>
+	<background id="wall08.swf" name="Flashing floor" enable="Y" default="N" is_premium="Y" aid="10782" money="0" sharing="0"/>
+	<background id="star_night.swf" name="starry night" enable="Y" default="N" is_premium="N" aid="10783" money="0" sharing="0"/>
+	<background id="ncc_wall09_left.swf" name="Teak flooring" enable="Y" default="N" is_premium="N" aid="10898" money="0" sharing="0"/>
+	<background id="ncc_wall09_right.swf" name="Teak flooring" enable="Y" default="N" is_premium="N" aid="10899" money="0" sharing="0"/>
+	<background id="wall_09.swf" name="Two-color wall" enable="Y" default="N" is_premium="N" aid="11059" money="0" sharing="0"/>
+	<background id="ncc_train.swf" name="Side view" enable="Y" default="N" is_premium="N" aid="11062" money="0" sharing="0"/>
+	<background id="nccha_cave.swf" name="Cave" enable="Y" default="N" is_premium="Y" aid="11239" money="0" sharing="0"/>
+	<background id="nccha_stone.swf" name="Stone" enable="Y" default="N" is_premium="Y" aid="11240" money="0" sharing="0"/>
+	<background id="wall10.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11318" money="0" sharing="0"/>
+	<background id="ncc_floor01.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="11451" money="0" sharing="0"/>
+	<background id="wall11.swf" name="Uniform" enable="Y" default="N" is_premium="N" aid="11452" money="0" sharing="0"/>
+	<background id="wall12.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11453" money="0" sharing="0"/>
+	<background id="wall13.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11454" money="0" sharing="0"/>
+	<background id="wall14.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11455" money="0" sharing="0"/>
+	<background id="wall_grass.swf" name="Barn" enable="Y" default="N" is_premium="Y" aid="11573" money="0" sharing="0"/>
+	<background id="wall15.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11667" money="0" sharing="0"/>
+	<background id="ncc_road.swf" name="Road" enable="Y" default="N" is_premium="N" aid="11668" money="0" sharing="0"/>
+	<background id="ncc_soil.swf" name="Soil" enable="Y" default="N" is_premium="N" aid="11669" money="0" sharing="0"/>
+	<background id="wall16.swf" name="Interior" enable="Y" default="N" is_premium="Y" aid="11765" money="0" sharing="0"/>
+	<background id="wall17.swf" name="Interior" enable="Y" default="N" is_premium="Y" aid="11766" money="0" sharing="0"/>
+	<background id="wall18.swf" name="Interior" enable="Y" default="N" is_premium="Y" aid="11767" money="0" sharing="0"/>
+	<background id="wall19.swf" name="Interior" enable="Y" default="N" is_premium="N" aid="11768" money="0" sharing="0"/>
+	<background id="wall20.swf" name="Airport daytime" enable="Y" default="N" is_premium="Y" aid="11769" money="0" sharing="0"/>
+	<background id="wall21.swf" name="Airport nighttime" enable="Y" default="N" is_premium="Y" aid="11770" money="0" sharing="0"/>
+	<background id="wall22.swf" name="Interior" enable="Y" default="N" is_premium="Y" aid="11771" money="0" sharing="0"/>
+	<background id="wall23.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="11772" money="0" sharing="0"/>
+	<background id="wall24.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="11773" money="0" sharing="0"/>
+	<background id="ncc_corridor.swf" name="Corridor" enable="Y" default="N" is_premium="Y" aid="11855" money="0" sharing="0"/>
+	<background id="wall25.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11999" money="0" sharing="0"/>
+	<background id="wall26.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="12000" money="0" sharing="0"/>
+	<background id="ncc_lift_bg.swf" name="Lift inside" enable="Y" default="N" is_premium="N" aid="12001" money="0" sharing="0"/>
+	<background id="ncc_lobby.swf" name="Lobby" enable="Y" default="N" is_premium="N" aid="12002" money="0" sharing="0"/>
+	<background id="wall27.swf" name="Staircase" enable="Y" default="N" is_premium="N" aid="12160" money="0" sharing="0"/>
+	<background id="wall28.swf" name="Staircase" enable="Y" default="N" is_premium="N" aid="12161" money="0" sharing="0"/>
+	<background id="wall29.swf" name="Interior" enable="Y" default="N" is_premium="N" aid="12162" money="0" sharing="0"/>
+	<background id="wall30.swf" name="Linear gradient" enable="Y" default="N" is_premium="N" aid="12163" money="0" sharing="0"/>
+	<background id="wall31.swf" name="Radial gradient" enable="Y" default="N" is_premium="N" aid="12164" money="0" sharing="0"/>
+	<background id="ncc_hilltop_bg.swf" name="Grassland" enable="Y" default="N" is_premium="N" aid="12222" money="0" sharing="0"/>
+	<background id="wall33.swf" name="pattern" enable="Y" default="N" is_premium="N" aid="12324" money="0" sharing="0"/>
+	<background id="wall32.swf" name="effect" enable="Y" default="N" is_premium="N" aid="12325" money="0" sharing="0"/>
+	<background id="ncc_gate.swf" name="Metal doors" enable="Y" default="N" is_premium="N" aid="12326" money="0" sharing="0"/>
+	<background id="ncc_fx_01.swf" name="Moody" enable="Y" default="N" is_premium="Y" aid="12355" money="0" sharing="0"/>
+	<background id="ncc_fx_02.swf" name="Depressed" enable="Y" default="N" is_premium="Y" aid="12356" money="0" sharing="0"/>
+	<background id="ncc_fx_03.swf" name="Bad smell" enable="Y" default="N" is_premium="Y" aid="12357" money="0" sharing="0"/>
+	<background id="ncc_fx_04.swf" name="Fire" enable="Y" default="N" is_premium="Y" aid="12358" money="0" sharing="0"/>
+	<background id="ncc_fx_05.swf" name="In love" enable="Y" default="N" is_premium="Y" aid="12359" money="0" sharing="0"/>
+	<background id="ncc_weird.swf" name="Haunted" enable="Y" default="N" is_premium="Y" aid="12360" money="0" sharing="0"/>
+	<background id="ncc_shock.swf" name="Shock" enable="Y" default="N" is_premium="Y" aid="12361" money="0" sharing="0"/>
+	<background id="ncc_anger.swf" name="Explosion" enable="Y" default="N" is_premium="Y" aid="12362" money="0" sharing="0"/>
+	<background id="ncc_anger2.swf" name="Explosion" enable="Y" default="N" is_premium="Y" aid="12363" money="0" sharing="0"/>
+	<background id="ncc_fx_08.swf" name="Speed lines" enable="Y" default="N" is_premium="Y" aid="12386" money="0" sharing="0"/>
+	<background id="ncc_fx_09.swf" name="Speed lines" enable="Y" default="N" is_premium="Y" aid="12387" money="0" sharing="0"/>
+	<background id="ncc_fx_10.swf" name="Speed lines" enable="Y" default="N" is_premium="Y" aid="12388" money="0" sharing="0"/>
 	<compositebg id="cbg_living_rm01" name="Living room" enable="Y" default="N" thumb="living_rm01.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="10713">
 	<bg id="cbg_living_rm01_BG43" index="0">
 		<file>action.ncc_medium.swf</file>

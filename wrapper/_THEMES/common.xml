@@ -166,10 +166,10 @@
 	<background id="wall23.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="11772" money="0" sharing="0"/>
 	<background id="wall24.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="11773" money="0" sharing="0"/>
 	<background id="ncc_corridor.swf" name="Corridor" enable="Y" default="N" is_premium="Y" aid="11855" money="0" sharing="0"/>
-	<background id="ncc_civilwar.swf" name="US Civil War map" enable="Y" default="N" is_premium="N" aid="11994" money="0" sharing="0"/>
+	<background id="ncc_civilwar.swf" name="US Civil War map" enable="N" default="N" is_premium="N" aid="11994" money="0" sharing="0"/>
 	<background id="ncc_revolu_bg.swf" name="Independence hall" enable="N" default="N" is_premium="N" aid="11995" money="0" sharing="0"/>
-	<background id="ncc_revolu_map.swf" name="US Revolutionary War map" enable="Y" default="N" is_premium="N" aid="11996" money="0" sharing="0"/>
-	<background id="ncc_usmap.swf" name="US map" enable="Y" default="N" is_premium="Y" aid="11997" money="0" sharing="0"/>
+	<background id="ncc_revolu_map.swf" name="US Revolutionary War map" enable="N" default="N" is_premium="N" aid="11996" money="0" sharing="0"/>
+	<background id="ncc_usmap.swf" name="US map" enable="N" default="N" is_premium="Y" aid="11997" money="0" sharing="0"/>
 	<background id="ncc_warland.swf" name="Battlefield" enable="N" default="N" is_premium="Y" aid="11998" money="0" sharing="0"/>
 	<background id="wall25.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="11999" money="0" sharing="0"/>
 	<background id="wall26.swf" name="Wallpaper" enable="Y" default="N" is_premium="N" aid="12000" money="0" sharing="0"/>
