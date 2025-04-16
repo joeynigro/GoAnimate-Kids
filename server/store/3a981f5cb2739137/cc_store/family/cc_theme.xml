@@ -3639,7 +3639,7 @@
   <color r="ccEyebrow">0x791717</color>
   <color r="ccUpperMain" oc="0x336699">0xFFFFFF</color>
   <color r="ccUpperMinor" oc="0xE5E5E5">0x006666</color>
-  <color r="ccLowerMain" oc="0xCCBC9A">0x336699</color>
+  <color r="ccLowerMain" oc="0xCCBC9A">0x33517C</color>
   <color r="ccLowerMinor" oc="0xEEEEEE">0x333333</color>
   <color r="ccHairMajor">0x791717</color>
   <component type="bodyshape" component_id="rocky" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>

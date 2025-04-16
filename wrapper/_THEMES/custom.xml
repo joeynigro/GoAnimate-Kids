@@ -4129,6 +4129,12 @@
   <char id="7022" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/ugly_lady.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics</tags>
   </char>
+  <char id="7023" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/buff_guy.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="7024" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/fat_guy.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics</tags>
+  </char>
   <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
     <tags>family,_free,_cat:Holidays</tags>
   </char>
