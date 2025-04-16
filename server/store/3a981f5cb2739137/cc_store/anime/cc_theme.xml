@@ -2,14 +2,14 @@
 <cc_theme xmlns:xi="http://alvin.goanimate.org/store" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="anime" studio_theme_id="anime" name="Anime" version="2.0" xsi:noNamespaceSchemaLocation="http://alvin.goanimate.org/schema/cc_library_theme.xsd">
 
 	<color r="ccSkinColor" component_type="bodyshape" enable="Y">
-		<choice>0xF9DDD1</choice>
-		<choice>0xFEEDD3</choice>
-		<choice>0xEAD2B0</choice>
-		<choice>0xEBC9AF</choice>
-		<choice>0xE2C294</choice>
-		<choice>0xCE9D7D</choice>
-		<choice>0xAC8151</choice>
-		<choice>0x8d6850</choice>
+		<choice>0xFFE0BD</choice>
+		<choice>0xFFCD94</choice>
+		<choice>0xEAC086</choice>
+		<choice>0xC68642</choice>
+		<choice>0x8D5524</choice>
+		<choice>0xF9D3B4</choice>
+		<choice>0xD1A37E</choice>
+		<choice>0xB97A57</choice>
 	</color>
 	<color r="ccFaceHairColor" component_type="bodyshape" enable="N">
 		<choice>0xF2E784</choice>
@@ -72,24 +72,36 @@
 		<choice>0xEB8369</choice>
 	</color>
 	<color r="ccHairMajor" component_type="hair" enable="Y">
-		<choice>0xFFFEFF</choice>
-		<choice>0xEB704E</choice>
-		<choice>0x4C96B3</choice>
-		<choice>0x6BBE8F</choice>
-		<choice>0xFF86A3</choice>
-		<choice>0x534339</choice>
-		<choice>0xE8D257</choice>
-		<choice>0x3C3C3C</choice>
+		<choice>0x000000</choice>
+		<choice>0x3B2F2F</choice>
+		<choice>0x6F4E37</choice>
+		<choice>0xA0522D</choice>
+		<choice>0xD2B48C</choice>
+		<choice>0xFFD700</choice>
+		<choice>0xFF69B4</choice>
+		<choice>0xFF4500</choice>
+		<choice>0x6495ED</choice>
+		<choice>0x9370DB</choice>
+		<choice>0x228B22</choice>
+		<choice>0xB0C4DE</choice>
+		<choice>0xFFFFFF</choice>
 	</color>
 	<color r="ccHairMinor" component_type="hair" enable="Y">
-		<choice>0xFFFEFF</choice>
-		<choice>0xDC613F</choice>
-		<choice>0x2F9BC5</choice>
-		<choice>0x3DD17D</choice>
-		<choice>0xF24492</choice>
-		<choice>0x634F3E</choice>
-		<choice>0xD2A12C</choice>
-		<choice>0x3C3C3C</choice>
+	    <choice>0xFF69B4</choice>
+	    <choice>0xFFC0CB</choice>
+	    <choice>0xFF0000</choice>
+	    <choice>0xFFD700</choice>
+	    <choice>0xFFA500</choice>
+	    <choice>0xFFFF00</choice>
+	    <choice>0xADD8E6</choice>
+	    <choice>0x0000FF</choice>
+	    <choice>0x8A2BE2</choice>
+	    <choice>0x9370DB</choice>
+	    <choice>0x00FF7F</choice>
+	    <choice>0x008000</choice>
+	    <choice>0xFFFFFF</choice>
+	    <choice>0x808080</choice>
+	    <choice>0x000000</choice>
 	</color>
 	<color r="ccUpperMain" component_type="GoUpper" enable="N">
 		<choice>0xFFF3FF</choice>
@@ -460,13 +472,8 @@
 
 	<bodyshape id="guy" name="Guy" default_action="guy_stand01_still" default_motion="guy_walk" action_thumb="guy_stand01_still" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y" tag="guy">
 		<default_char>
-			<color r="ccSkinColor">0xE2C294</color>
-			<color r="ccEyeLib">0xBD8764</color>
-			<color r="ccEyeIris">0x003333</color>
-			<color r="ccMouthLip">0xB7796A</color>
-			<color r="ccBackMajor">0x996600</color>
-			<color r="ccLowerMinor">0x4F5157</color>
-			<color r="ccHairMajor">0x534339</color>
+			<color r="ccSkinColor">0xEAC086</color>
+			<color r="ccHairMajor">0x3B2F2F</color>
 			<component type="bodyshape" component_id="guy" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="freeaction" component_id="guy" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="ear" component_id="001" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
@@ -1368,12 +1375,7 @@
 
 	<bodyshape id="girl" name="Girl" default_action="stand01_still" default_motion="walk" action_thumb="stand01_still" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y" tag="girl">
 		<default_char>
-			<color r="ccSkinColor">0xE2C294</color>
-			<color r="ccEyeLib">0xBD8764</color>
-			<color r="ccEyeIris">0x003333</color>
-			<color r="ccMouthLip">0xB7796A</color>
-			<color r="ccBackMajor">0x996600</color>
-			<color r="ccLowerMinor">0x4F5157</color>
+			<color r="ccSkinColor">0xEAC086</color>
 			<component type="bodyshape" component_id="girl" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="freeaction" component_id="girl" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="ear" component_id="001" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
