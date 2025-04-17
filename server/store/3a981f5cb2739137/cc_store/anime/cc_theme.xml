@@ -22,14 +22,7 @@
 		<choice>0x6C5E91</choice>
 	</color>
 	<color r="ccEyeLib" component_type="eye" parent_color_r="ccSkinColor" parent_component_type="bodyshape" enable="N">
-		<choice>0x5F3F29</choice>
-		<choice>0xBD8764</choice>
-		<choice>0x80DCE6</choice>
-		<choice>0x99CC00</choice>
-		<choice>0x1E447B</choice>
-		<choice>0x996666</choice>
-		<choice>0xE47070</choice>
-		<choice>0x4B0156</choice>
+		<choice>0x000000</choice>
 	</color>
 	<color r="ccEyeIris" component_type="eye" enable="Y">
 		<choice>0x7D551C</choice>
