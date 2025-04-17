@@ -4075,7 +4075,10 @@
   <char id="3014" name="Nurse" cc_theme_id="family" thumbnail_url="thumbnails/nurse.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
-  <char id="3004" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police.png" copyable="Y">
+  <char id="3004" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police_male.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="3018" name="Police Officer" cc_theme_id="family" thumbnail_url="thumbnails/police_female.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters</tags>
   </char>
   <char id="3003" name="Firefighter" cc_theme_id="family" thumbnail_url="thumbnails/firefighter.png" copyable="Y">
