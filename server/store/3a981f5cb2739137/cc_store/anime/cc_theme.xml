@@ -2098,7 +2098,7 @@
 		<library type="GoUpper" id="026" path="026" name="026" thumb="026_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoUpper" id="027" path="027" name="027" thumb="027_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoUpper" id="027" path="027" name="027" thumb="027_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 		<library type="GoUpper" id="028" path="028" name="028" thumb="028_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
