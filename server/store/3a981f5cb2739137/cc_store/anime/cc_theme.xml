@@ -31,7 +31,7 @@
 		<choice>0xE47070</choice>
 		<choice>0x4B0156</choice>
 	</color>
-	<color r="ccEyeIris" component_type="eye" enable="N">
+	<color r="ccEyeIris" component_type="eye" enable="Y">
 		<choice>0x988986</choice>
 		<choice>0x229188</choice>
 		<choice>0x7D551C</choice>
@@ -41,15 +41,14 @@
 		<choice>0x669900</choice>
 		<choice>0xEA7B9D</choice>
 	</color>
-	<color r="ccGlassesFrame" component_type="glasses" enable="N">
-		<choice>0xAE0057</choice>
-		<choice>0x53A8DF</choice>
-		<choice>0xEC9EC5</choice>
-		<choice>0x360202</choice>
-		<choice>0xC1BFB8</choice>
-		<choice>0x5F4929</choice>
-		<choice>0x4A6028</choice>
-		<choice>0x000000</choice>
+	<color r="ccGlassesFrame" component_type="glasses" enable="Y">
+		<choice>0x2C2C2C</choice>
+		<choice>0x5C4033</choice>
+		<choice>0xB8B8B8</choice>
+		<choice>0x6A5E4D</choice>
+		<choice>0x3E3A39</choice>
+		<choice>0x8D6E63</choice>
+		<choice>0xA9A9A9</choice>
 	</color>
 	<color r="ccGlassesLens" component_type="glasses" enable="N">
 		<choice>0xFFFFFF</choice>
@@ -103,45 +102,55 @@
 	    <choice>0x808080</choice>
 	    <choice>0x000000</choice>
 	</color>
-	<color r="ccUpperMain" component_type="GoUpper" enable="N">
-		<choice>0xFFF3FF</choice>
-		<choice>0xFFFFAA</choice>
-		<choice>0x6A944F</choice>
-		<choice>0x93D6E4</choice>
-		<choice>0xFF87A3</choice>
-		<choice>0xCC9966</choice>
-		<choice>0x3D8075</choice>
-		<choice>0x3C3C3C</choice>
+	<color r="ccUpperMain" component_type="GoUpper" enable="Y">
+		<choice>0xFFC0CB</choice>
+		<choice>0xADD8E6</choice>
+		<choice>0xFFFF00</choice>
+		<choice>0xFF69B4</choice>
+		<choice>0xFFFFFF</choice>
+		<choice>0xFF0000</choice>
+		<choice>0xFFA500</choice>
+		<choice>0x90EE90</choice>
+		<choice>0x00FF7F</choice>
+		<choice>0x0000FF</choice>
+		<choice>0x9370DB</choice>
+		<choice>0xA52A2A</choice>
+		<choice>0x808080</choice>
+		<choice>0x000000</choice>
 	</color>
-	<color r="ccUpperMinor" component_type="GoUpper" enable="N">
-		<choice>0xFFFEFF</choice>
-		<choice>0xC6C648</choice>
-		<choice>0x3A5529</choice>
-		<choice>0x48BAD2</choice>
-		<choice>0xFF4052</choice>
-		<choice>0xA47A4F</choice>
-		<choice>0x0C594C</choice>
-		<choice>0x3C3C3C</choice>
+	<color r="ccUpperMinor" component_type="GoUpper" enable="Y">
+		<choice>0xFFC0CB</choice>
+		<choice>0xADD8E6</choice>
+		<choice>0xFFFF00</choice>
+		<choice>0xFF69B4</choice>
+		<choice>0xFFFFFF</choice>
+		<choice>0xFF0000</choice>
+		<choice>0xFFA500</choice>
+		<choice>0x90EE90</choice>
+		<choice>0x00FF7F</choice>
+		<choice>0x0000FF</choice>
+		<choice>0x9370DB</choice>
+		<choice>0xA52A2A</choice>
+		<choice>0x808080</choice>
+		<choice>0x000000</choice>
 	</color>
-	<color r="ccLowerMain" component_type="GoLower" enable="N">
-		<choice>0xFFFEFF</choice>
-		<choice>0x4F5157</choice>
-		<choice>0xA4A4A4</choice>
-		<choice>0x5E5F34</choice>
-		<choice>0xFF87A3</choice>
-		<choice>0xCC9966</choice>
-		<choice>0x65503B</choice>
-		<choice>0x3C3C3C</choice>
+	<color r="ccLowerMain" component_type="GoLower" enable="Y">
+		<choice>0x3B3B3B</choice>
+		<choice>0x4A3F35</choice>
+		<choice>0x6D6D6D</choice>
+		<choice>0xB4A183</choice>
+		<choice>0x565B5A</choice>
+		<choice>0x403833</choice>
+		<choice>0xA79F94</choice>
 	</color>
-	<color r="ccLowerMinor" component_type="GoLower" enable="N">
-		<choice>0xFFF3FF</choice>
-		<choice>0x4F5157</choice>
-		<choice>0xA4A4A4</choice>
-		<choice>0x99DAD8</choice>
-		<choice>0xFCD0DA</choice>
-		<choice>0x9474A8</choice>
-		<choice>0x65503B</choice>
-		<choice>0x3C3C3C</choice>
+	<color r="ccLowerMinor" component_type="GoLower" enable="Y">
+		<choice>0x3B3B3B</choice>
+		<choice>0x4A3F35</choice>
+		<choice>0x6D6D6D</choice>
+		<choice>0xB4A183</choice>
+		<choice>0x565B5A</choice>
+		<choice>0x403833</choice>
+		<choice>0xA79F94</choice>
 	</color>
 	<color r="ccDecMajor" component_type="facedecoration" enable="N">
 		<choice>0xAE0057</choice>
@@ -192,6 +201,18 @@
 		<choice>0x67564B</choice>
 		<choice>0xBE5A30</choice>
 		<choice>0xE797B6</choice>
+	</color>
+	<color r="ccFeetMain" component_type="GoFeet" enable="Y">
+		<choice>0x000000</choice>
+		<choice>0xFFFFFF</choice>
+		<choice>0xFF0000</choice>
+		<choice>0xFFD700</choice>
+		<choice>0xADD8E6</choice>
+		<choice>0xFFC0CB</choice>
+		<choice>0x9370DB</choice>
+		<choice>0x00FF7F</choice>
+		<choice>0xA52A2A</choice>
+		<choice>0x808080</choice>
 	</color>
 
 	<facial id="head_neutral" name="Neutral" enable="Y">
@@ -1184,7 +1205,7 @@
 		<library type="GoUpper" id="038" path="038" name="038" thumb="038_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoUpper" id="039" path="039" name="039" thumb="039_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoUpper" id="039" path="039" name="039" thumb="039_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
 		<library type="GoUpper" id="041" path="041" name="041" thumb="041_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
@@ -1239,7 +1260,7 @@
 			<tag>_sticky_filter_guy</tag>
 			<apply-template ref="F016" />
 		</library>
-		<library type="GoLower" id="028" path="028" name="028" thumb="028_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoLower" id="028" path="028" name="028" thumb="028_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 			<apply-template ref="F011" />
 		</library>
@@ -1258,16 +1279,16 @@
 		<library type="GoFeet" id="003" path="003" name="003" thumb="003_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="004" path="004" name="004" thumb="004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="004" path="004" name="004" thumb="004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
 		<library type="GoFeet" id="005" path="005" name="005" thumb="005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="009" path="009" name="009" thumb="009_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="009" path="009" name="009" thumb="009_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
 		<library type="GoFeet" id="010" path="010" name="010" thumb="010_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
@@ -1282,19 +1303,19 @@
 		<library type="GoFeet" id="016" path="016" name="016" thumb="016_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="017" path="017" name="017" thumb="017_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="017" path="017" name="017" thumb="017_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="018" path="018" name="018" thumb="018_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="018" path="018" name="018" thumb="018_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
 		<library type="GoFeet" id="019" path="019" name="019" thumb="019_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="020" path="020" name="020" thumb="020_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="020" path="020" name="020" thumb="020_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="021" path="021" name="021" thumb="021_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="021" path="021" name="021" thumb="021_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
 
@@ -1361,11 +1382,11 @@
 		</library>
 
 		<!-- Back prop -->
-		<library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="0" money="0" sharing="0" enable="Y">
+		<library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="0" money="0" sharing="0" enable="N">
 			<tag>_userrole_admin</tag>
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoBehindBody" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="0" money="0" sharing="0" enable="Y">
+		<library type="GoBehindBody" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="0" money="0" sharing="0" enable="N">
 			<tag>_userrole_admin</tag>
 			<tag>_sticky_filter_guy</tag>
 		</library>
@@ -2083,7 +2104,7 @@
 		<library type="GoUpper" id="027" path="027" name="027" thumb="027_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoUpper" id="028" path="028" name="028" thumb="028_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoUpper" id="028" path="028" name="028" thumb="028_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 		<library type="GoUpper" id="030" path="030" name="030" thumb="030_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
@@ -2191,7 +2212,7 @@
 			<tag>_sticky_filter_girl</tag>
 			<apply-template ref="F020" />
 		</library>
-		<library type="GoLower" id="032" path="032" name="032" thumb="032_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoLower" id="032" path="032" name="032" thumb="032_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 			<apply-template ref="F001" />
 		</library>
@@ -2203,13 +2224,13 @@
 		<library type="GoFeet" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 		<library type="GoFeet" id="003" path="003" name="003" thumb="003_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="006" path="006" name="006" thumb="006_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="006" path="006" name="006" thumb="006_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 		<library type="GoFeet" id="007" path="007" name="007" thumb="007_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
@@ -2230,19 +2251,19 @@
 		<library type="GoFeet" id="015" path="015" name="015" thumb="015_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="016" path="016" name="016" thumb="016_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="016" path="016" name="016" thumb="016_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="017" path="017" name="017" thumb="017_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="017" path="017" name="017" thumb="017_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="018" path="018" name="018" thumb="018_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="018" path="018" name="018" thumb="018_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="020" path="020" name="020" thumb="020_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="020" path="020" name="020" thumb="020_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoFeet" id="021" path="021" name="021" thumb="021_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="021" path="021" name="021" thumb="021_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 
@@ -2327,11 +2348,11 @@
 		</library>
 
 		<!-- Back prop -->
-		<library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="0" money="0" sharing="0" enable="Y">
+		<library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="0" money="0" sharing="0" enable="N">
 			<tag>_userrole_admin</tag>
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoBehindBody" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="0" money="0" sharing="0" enable="Y">
+		<library type="GoBehindBody" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="0" money="0" sharing="0" enable="N">
 			<tag>_userrole_admin</tag>
 			<tag>_sticky_filter_guy</tag>
 		</library>
@@ -2400,7 +2421,7 @@
 		<state id="side_talk_angry" filename="side_talk_angry.swf"/>
 		<tag>_sticky_filter_guy</tag>
 	</component>
-	<component type="eye" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
+	<component type="eye" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
 		<state id="side_angry" filename="side_angry.swf"/>
 		<state id="side_closed" filename="side_closed.swf"/>
 		<state id="side_confindence" filename="side_confindence.swf"/>
@@ -2427,7 +2448,7 @@
 		<state id="side_talk_angry" filename="side_talk_angry.swf"/>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="eye" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
+	<component type="eye" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
 		<state id="side_angry" filename="side_angry.swf"/>
 		<state id="side_closed" filename="side_closed.swf"/>
 		<state id="side_confindence" filename="side_confindence.swf"/>
@@ -2454,7 +2475,7 @@
 		<state id="side_talk_angry" filename="side_talk_angry.swf"/>
 		<tag>_sticky_filter_guy</tag>
 	</component>
-	<component type="eye" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
+	<component type="eye" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
 		<state id="side_angry" filename="side_angry.swf"/>
 		<state id="side_closed" filename="side_closed.swf"/>
 		<state id="side_confindence" filename="side_confindence.swf"/>
@@ -2481,7 +2502,7 @@
 		<state id="side_talk_angry" filename="side_talk_angry.swf"/>
 		<tag>_sticky_filter_girl</tag>
 	</component>
-	<component type="eye" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="Y">
+	<component type="eye" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" split="N" enable="N">
 		<state id="side_angry" filename="side_angry.swf"/>
 		<state id="side_closed" filename="side_closed.swf"/>
 		<state id="side_confindence" filename="side_confindence.swf"/>
