@@ -4870,7 +4870,6 @@
 	</component>
 	<component type="hair" id="031" path="031" name="031" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
-		<tag>boy</tag>
 	</component>
 	<component type="hair" id="047" path="047" name="047" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
