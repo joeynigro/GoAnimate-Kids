@@ -3146,7 +3146,7 @@
     <state id="up" filename="up.swf" />
     <state id="wink" filename="wink.swf" />
   </component>
-  <component type="eye" id="2004" path="2004" name="2004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="eye" id="2004" path="2004" name="2004" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="confused" filename="confused.swf" />
@@ -3167,7 +3167,7 @@
     <state id="wink" filename="wink.swf" />
     <tag>_userrole_admin</tag>
   </component>
-  <component type="eye" id="2005" path="2005" name="2005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="eye" id="2005" path="2005" name="2005" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="confused" filename="confused.swf" />
@@ -3188,7 +3188,7 @@
     <state id="wink" filename="wink.swf" />
     <tag>_userrole_admin</tag>
   </component>
-  <component type="eye" id="2006" path="2006" name="2006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="eye" id="2006" path="2006" name="2006" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="confused" filename="confused.swf" />
