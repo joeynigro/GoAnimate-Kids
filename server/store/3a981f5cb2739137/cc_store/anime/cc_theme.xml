@@ -2122,7 +2122,7 @@
 		<library type="GoUpper" id="042" path="042" name="042" thumb="042_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoUpper" id="043" path="043" name="043" thumb="043_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoUpper" id="043" path="043" name="043" thumb="043_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 		<library type="GoUpper" id="045" path="045" name="045" thumb="045_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
