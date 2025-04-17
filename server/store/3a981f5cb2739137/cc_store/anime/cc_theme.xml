@@ -1394,6 +1394,7 @@
 	<bodyshape id="girl" name="Girl" default_action="stand01_still" default_motion="walk" action_thumb="stand01_still" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y" tag="girl">
 		<default_char>
 			<color r="ccSkinColor">0xEAC086</color>
+			<color r="ccHairMajor">0x6F4E37</color>
 			<component type="bodyshape" component_id="girl" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="freeaction" component_id="girl" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="ear" component_id="001" theme_id="anime" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
