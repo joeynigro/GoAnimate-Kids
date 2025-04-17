@@ -5693,6 +5693,21 @@
 	<component type="facedecoration" id="witch" path="witch" name="witch" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="facedecoration" id="goanimatekids_party_hat001" path="goanimatekids_party_hat001" name="goanimatekids_party_hat001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goanimatekids_party_hat002" path="goanimatekids_party_hat002" name="goanimatekids_party_hat002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goanimatekids_party_hat003" path="goanimatekids_party_hat003" name="goanimatekids_party_hat003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goanimatekids_party_hat004" path="goanimatekids_party_hat004" name="goanimatekids_party_hat004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goanimatekids_party_hat005" path="goanimatekids_party_hat005" name="goanimatekids_party_hat005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="beard" id="003b" path="003b" name="003b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
