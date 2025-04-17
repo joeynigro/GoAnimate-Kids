@@ -634,8 +634,6 @@
 			<color r="ccSkinColor" oc="0xFFE1C4">0xFECFA3</color>
 			<color r="ccEyeLib">0xFECFA3</color>
 			<color r="ccEyeIris">0x000000</color>
-			<color r="ccGlassesFrame">0x000000</color>
-			<color r="ccGlassesLens">0x737373</color>
 			<color r="ccMouthLip">0xDA8C6D</color>
 			<color r="ccEyebrow">0x7E4D1B</color>
 			<color r="ccHairMajor">0x7E4D1B</color>
@@ -653,6 +651,54 @@
 			<component type="eye" component_id="004" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="eyebrow" component_id="003" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="nose" component_id="001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+		</default_char>
+		<default_char xscale='0.7' yscale='0.7' hxscale='1.3' hyscale='1.3' headdx='0' headdy='0'>
+			<tag>boy</tag>
+			<color r="ccSkinColor" oc="0xFFE1C4">0xFECFA3</color>
+			<color r="ccEyeLib">0xFECFA3</color>
+			<color r="ccEyeIris">0x000000</color>
+			<color r="ccMouthLip">0xDA8C6D</color>
+			<color r="ccEyebrow">0x7E4D1B</color>
+			<color r="ccHairMajor">0x7E4D1B</color>
+			<color r="ccUpperMain" oc="0x336699">0xFFFFFF</color>
+			<color r="ccUpperMinor" oc="0xE5E5E5">0xFF0000</color>
+			<color r="ccLowerMain" oc="0xCCBC9A">0xCC9966</color>
+			<color r="ccLowerMinor" oc="0xEEEEEE">0xC5C5C5</color>
+			<component type="ear" component_id="010" theme_id="family" x="0" y="1" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="upper_body" component_id="adam_044" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="50" gopoints="0"/>
+			<component type="lower_body" component_id="adam_080" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="40" gopoints="0"/>
+			<component type="faceshape" component_id="002" theme_id="family" x="0" y="0" xscale="1" yscale="0.96" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="hair" component_id="124new" theme_id="family" x="0" y="2" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="eye" component_id="001" theme_id="family" x="0" y="4" xscale="1" yscale="1" offset="2" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="eyebrow" component_id="003" theme_id="family" x="0" y="2" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="nose" component_id="014" theme_id="family" x="0" y="2" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+		</default_char>
+		<default_char xscale='0.7' yscale='0.7' hxscale='1.3' hyscale='1.3' headdx='0' headdy='0'>
+			<tag>girl</tag>
+			<color r="ccSkinColor" oc="0xFFE1C4">0xFECFA3</color>
+			<color r="ccEyeLib">0xFECFA3</color>
+			<color r="ccEyeIris">0x000000</color>
+			<color r="ccMouthLip">0xDA8C6D</color>
+			<color r="ccEyebrow">0x000000</color>
+			<color r="ccHairMajor">0xE9C127</color>
+			<color r="ccUpperMain" oc="0x336699">0xFF99CC</color>
+			<color r="ccUpperMinor" oc="0xE5E5E5">0xFFFFFF</color>
+			<color r="ccLowerMain" oc="0xCCBC9A">0xFF99CC</color>
+			<color r="ccLowerMinor" oc="0xEEEEEE">0xCC3366</color>
+			<component type="ear" component_id="010" theme_id="family" x="0" y="1" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="bodyshape" component_id="adam" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="skeleton" component_id="adam_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="upper_body" component_id="adam_girl2" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="50" gopoints="0"/>
+			<component type="lower_body" component_id="adam_060a" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="40" gopoints="0"/>
+			<component type="faceshape" component_id="002" theme_id="family" x="0" y="0" xscale="1" yscale="0.96" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="hair" component_id="056" theme_id="family" x="0" y="2" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="eye" component_id="102" theme_id="family" x="0" y="4" xscale="1" yscale="1" offset="2" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="eyebrow" component_id="108" theme_id="family" x="0" y="2" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+			<component type="nose" component_id="014" theme_id="family" x="0" y="2" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 			<component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		</default_char>
 		<action id="stand" name="Stand" loop="Y" totalframe="1" enable="Y" is_motion="N">
@@ -767,6 +813,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="skeleton" id="adam_001" path="adam_001" name="adam_001" thumb="thumbnail.swf" display_order="0" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -807,6 +855,7 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
 		</component>
 		<component type="upper_body" id="adam_002" path="adam_002" name="adam_002" thumb="thumbnail.swf" display_order="20" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -826,6 +875,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_003" path="adam_003" name="adam_003" thumb="thumbnail.swf" display_order="30" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -845,6 +896,7 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
 		</component>
 		<component type="lower_body" id="adam_002" path="adam_002" name="adam_002" thumb="thumbnail.swf" display_order="20" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -856,6 +908,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_003" path="adam_003" name="adam_003" thumb="thumbnail.swf" display_order="30" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -878,6 +932,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_005" path="adam_005" name="adam_005" thumb="thumbnail.swf" display_order="50" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -889,6 +945,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_006" path="adam_006" name="adam_006" thumb="thumbnail.swf" display_order="60" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -900,6 +958,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_007" path="adam_007" name="adam_007" thumb="thumbnail.swf" display_order="70" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -911,6 +971,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_008" path="adam_008" name="adam_008" thumb="thumbnail.swf" display_order="80" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -933,6 +995,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_011" path="adam_011" name="adam_011" thumb="thumbnail.swf" display_order="100" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -944,6 +1008,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_012" path="adam_012" name="adam_012" thumb="thumbnail.swf" display_order="110" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -966,6 +1032,7 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
 		</component>
 		<component type="lower_body" id="adam_013" path="adam_013" name="adam_013" thumb="thumbnail.swf" display_order="130" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -988,6 +1055,7 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_046" path="adam_046" name="adam_046" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -1010,6 +1078,7 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_080" path="adam_080" name="adam_080" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -1021,6 +1090,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_114" path="adam_114" name="adam_114" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -1032,6 +1103,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_a006" path="adam_a006" name="adam_a006" thumb="thumbnail.swf" display_order="150" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -1076,6 +1149,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_a011" path="adam_a011" name="adam_a011" thumb="thumbnail.swf" display_order="180" money="0" sharing="0" enable="N">
 			<state id="dance" filename="dance.swf"/>
@@ -1128,6 +1203,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_004" path="adam_004" name="adam_004" thumb="thumbnail.swf" display_order="50" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1166,6 +1243,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_007" path="adam_007" name="adam_007" thumb="thumbnail.swf" display_order="70" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1185,6 +1264,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_008" path="adam_008" name="adam_008" thumb="thumbnail.swf" display_order="80" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1204,6 +1285,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_009" path="adam_009" name="adam_009" thumb="thumbnail.swf" display_order="90" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1261,6 +1344,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_013" path="adam_013" name="adam_013" thumb="thumbnail.swf" display_order="120" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1299,6 +1384,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_014" path="adam_014" name="adam_014" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1356,6 +1443,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_017" path="adam_017" name="adam_017" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1375,6 +1464,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_019" path="adam_019" name="adam_019" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1394,6 +1485,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_023" path="adam_023" name="adam_023" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1413,6 +1506,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_025" path="adam_025" name="adam_025" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1432,6 +1527,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_026" path="adam_026" name="adam_026" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1451,6 +1548,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_039" path="adam_039" name="adam_039" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1470,6 +1569,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_040" path="adam_040" name="adam_040" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1489,6 +1590,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_044" path="adam_044" name="adam_044" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1508,6 +1611,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_055" path="adam_055" name="adam_055" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1546,6 +1651,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_074" path="adam_074" name="adam_074" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1565,6 +1672,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_083" path="adam_083" name="adam_083" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1584,6 +1693,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_084" path="adam_084" name="adam_084" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1622,6 +1733,7 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
 		</component>
 		<component type="upper_body" id="adam_098" path="adam_098" name="adam_098" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1641,6 +1753,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_126" path="adam_126" name="adam_126" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1660,6 +1774,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_127" path="adam_127" name="adam_127" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1698,6 +1814,7 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_chef" path="adam_chef" name="adam_chef" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1774,6 +1891,7 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_girl2" path="adam_girl2" name="adam_girl2" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1793,6 +1911,7 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_a006" path="adam_a006" name="adam_a006" thumb="thumbnail.swf" display_order="180" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1933,8 +2052,6 @@
   <color r="ccSkinColor" oc="0xFFE1C4">0xFECFA3</color>
   <color r="ccEyeLib">0X996666</color>
   <color r="ccEyeIris">0x000000</color>
-  <color r="ccGlassesFrame">0x000000</color>
-  <color r="ccGlassesLens">0x737373</color>
   <color r="ccMouthLip">0xFF6666</color>
   <color r="ccEyebrow">0x000000</color>
   <color r="ccHairMajor">0xB97B3E</color>
@@ -2919,7 +3036,6 @@
   <color r="ccEyeLib">0xFEC4AB</color>
   <color r="ccEyeIris">0x000000</color>
   <color r="ccGlassesFrame">0x000000</color>
-  <color r="ccGlassesLens">0x737373</color>
   <color r="ccHairMajor">0x694622</color>
   <color r="ccEyebrow">0x694622</color>
   <color r="ccMouthLip">0xD17674</color>
@@ -3652,8 +3768,6 @@
   <color r="ccSkinColor" oc="0xFFE1C4">0xCC9966</color>
   <color r="ccEyeLib">0xCC9966</color>
   <color r="ccEyeIris">0x000000</color>
-  <color r="ccGlassesFrame">0x000000</color>
-  <color r="ccGlassesLens">0x000000</color>
   <color r="ccMouthLip">0xB0604A</color>
   <color r="ccEyebrow">0x791717</color>
   <color r="ccUpperMain" oc="0x336699">0xFFFFFF</color>
@@ -4023,15 +4137,23 @@
 	</component>
 	<component type="ear" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="ear" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="ear" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="ear" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="ear" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4044,6 +4166,8 @@
 	</component>
 	<component type="ear" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="000" path="000" name="000" thumb="thumbnail.swf" money="0" sharing="0" enable="N" random_able="N">
 		<state id="angry" filename="angry.swf"/>
@@ -4161,6 +4285,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4174,6 +4299,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="eye" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4187,6 +4313,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="eye" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4213,6 +4340,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4239,6 +4367,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="eye" id="104" path="104" name="104" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4252,6 +4381,7 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4265,6 +4395,8 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4291,6 +4423,8 @@
 		<state id="sick" filename="sick.swf"/>
 		<state id="thinking" filename="thinking.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eye" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4331,6 +4465,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="105" path="105" name="105" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4345,6 +4481,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="106" path="106" name="106" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4359,6 +4497,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="107" path="107" name="107" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4373,6 +4513,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="108" path="108" name="108" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4387,6 +4529,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
@@ -4429,6 +4573,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4443,6 +4589,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4457,6 +4605,8 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="eyebrow" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
@@ -4513,27 +4663,39 @@
 		<state id="surprised" filename="surprised.swf"/>
 		<state id="talk" filename="talk.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="000" path="000" name="000" thumb="thumbnail.swf" money="0" sharing="0" enable="N" random_able="N">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="faceshape" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="faceshape" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="019" path="019" name="019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4543,6 +4705,8 @@
 	</component>
 	<component type="faceshape" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4552,21 +4716,33 @@
 	</component>
 	<component type="faceshape" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="021" path="021" name="021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4579,57 +4755,81 @@
 	</component>
 	<component type="faceshape" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="109" path="109" name="109" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="044" path="044" name="044" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="055" path="055" name="055" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="053" path="053" name="053" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="037" path="037" name="037" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="039" path="039" name="039" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4645,69 +4845,94 @@
 	</component>
 	<component type="hair" id="057" path="057" name="057" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="061" path="061" name="061" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="019" path="019" name="019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="031" path="031" name="031" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="047" path="047" name="047" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="036" path="036" name="036" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="029" path="029" name="029" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="042" path="042" name="042" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="041" path="041" name="041" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="052" path="052" name="052" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="018" path="018" name="018" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="059" path="059" name="059" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="048" path="048" name="048" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="046" path="046" name="046" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="033" path="033" name="033" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="050" path="050" name="050" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="043" path="043" name="043" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4723,21 +4948,28 @@
 	</component>
 	<component type="hair" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="038" path="038" name="038" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="045" path="045" name="045" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="034" path="034" name="034" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="062" path="062" name="062" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="040" path="040" name="040" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4750,21 +4982,26 @@
 	</component>
 	<component type="hair" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="024" path="024" name="024" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="035" path="035" name="035" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="054" path="054" name="054" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="030" path="030" name="030" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="021" path="021" name="021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -4780,24 +5017,31 @@
 	</component>
 	<component type="hair" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="049" path="049" name="049" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="051" path="051" name="051" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="028" path="028" name="028" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="032" path="032" name="032" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="056" path="056" name="056" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="000" path="000" name="000" thumb="thumbnail.swf" money="0" sharing="0" enable="N" random_able="N">
 		<state id="angry" filename="angry.swf"/>
@@ -4838,6 +5082,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="102" path="102" name="102" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4878,6 +5124,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
 		<state id="angry" filename="angry.swf"/>
@@ -4918,6 +5166,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4938,6 +5188,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4958,6 +5210,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4978,6 +5232,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="buckteeth" path="buckteeth" name="buckteeth" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -4998,6 +5254,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mouth" id="zombie" path="zombie" name="zombie" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="angry" filename="angry.swf"/>
@@ -5038,6 +5296,8 @@
 		<state id="talk_sad" filename="talk_sad.swf"/>
 		<state id="taunt" filename="taunt.swf"/>
 		<state id="yawn" filename="yawn.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="mustache" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5065,18 +5325,26 @@
 	</component>
 	<component type="nose" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="nose" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="019" path="019" name="019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5086,6 +5354,8 @@
 	</component>
 	<component type="nose" id="012_kid" path="012_kid" name="012_kid" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5098,9 +5368,13 @@
 	</component>
 	<component type="nose" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5134,6 +5408,8 @@
 	</component>
 	<component type="nose" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="beard" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5158,24 +5434,34 @@
 	</component>
 	<component type="faceshape" id="033" path="033" name="033" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="034" path="034" name="034" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="faceshape" id="025" path="025" name="025" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="024" path="024" name="024" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="faceshape" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="026" path="026" name="026" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="028" path="028" name="028" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="032" path="032" name="032" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5185,12 +5471,18 @@
 	</component>
 	<component type="faceshape" id="036" path="036" name="036" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="037" path="037" name="037" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="038" path="038" name="038" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="faceshape" id="039" path="039" name="039" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5200,9 +5492,13 @@
 	</component>
 	<component type="glasses" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5215,45 +5511,55 @@
 	</component>
 	<component type="glasses" id="pixel_sunglasses" path="pixel_sunglasses" name="pixel_sunglasses" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="084" path="084" name="084" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="070" path="070" name="070" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="081" path="081" name="081" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="080" path="080" name="080" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="064" path="064" name="064" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="079" path="079" name="079" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="075" path="075" name="075" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="072" path="072" name="072" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="078" path="078" name="078" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="068" path="068" name="068" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="088" path="088" name="088" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="067" path="067" name="067" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="086" path="086" name="086" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="065" path="065" name="065" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5266,6 +5572,7 @@
 	</component>
 	<component type="hair" id="087" path="087" name="087" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="085" path="085" name="085" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5275,12 +5582,15 @@
 	</component>
 	<component type="hair" id="083" path="083" name="083" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="074" path="074" name="074" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="071" path="071" name="071" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="073" path="073" name="073" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5290,12 +5600,15 @@
 	</component>
 	<component type="hair" id="082" path="082" name="082" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="077" path="077" name="077" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="089" path="089" name="089" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<!--
 	<component type="hair" id="090" path="090" name="090" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -5307,6 +5620,8 @@
 	-->
 	<component type="hair" id="092" path="092" name="092" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="093" path="093" name="093" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5316,6 +5631,8 @@
 	</component>
 	<component type="hair" id="095" path="095" name="095" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="096" path="096" name="096" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5337,6 +5654,7 @@
 	</component>
 	<component type="hair" id="106" path="106" name="106" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="107" path="107" name="107" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5346,72 +5664,98 @@
 	</component>
 	<component type="hair" id="004b" path="004b" name="004b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="041a" path="041a" name="041a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="042a" path="042a" name="042a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="086c" path="086c" name="086c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="098" path="098" name="098" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="124new" path="124new" name="124new" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="236" path="236" name="236" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
 	</component>
 	<component type="hair" id="237" path="237" name="237" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="afro" path="afro" name="afro" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="afropuffs2" path="afropuffs2" name="afropuffs2" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="big_pigtails" path="big_pigtails" name="big_pigtails" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="braids" path="braids" name="braids" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="hair" id="bowlcut" path="bowlcut" name="bowlcut" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="bun" path="bun" name="bun" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="dora1" path="dora1" name="dora1" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="double_bun" path="double_bun" name="double_bun" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="dreadlocks_3" path="dreadlocks_3" name="dreadlocks_3" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="hijab" path="hijab" name="hijab" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="new_hairstyle4" path="new_hairstyle4" name="new_hairstyle4" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="new_hairstyle11" path="new_hairstyle11" name="new_hairstyle11" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="new_hairstyle12" path="new_hairstyle12" name="new_hairstyle12" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="pigtails" path="pigtails" name="pigtails" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="shaggy" path="shaggy" name="shaggy" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="hair" id="mario" path="mario" name="mario" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5439,18 +5783,28 @@
 	</component>
 	<component type="nose" id="025" path="025" name="025" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="026" path="026" name="026" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="028" path="028" name="028" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="029" path="029" name="029" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="030" path="030" name="030" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="nose" id="rickastley" path="rickastley" name="rickastley" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5478,9 +5832,13 @@
 	</component>
 	<component type="facedecoration" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5490,6 +5848,7 @@
 	</component>
 	<component type="facedecoration" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5511,30 +5870,47 @@
 	</component>
 	<component type="facedecoration" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="016" path="016" name="016" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="018" path="018" name="018" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="019" path="019" name="019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="021" path="021" name="021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="024" path="024" name="024" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5544,6 +5920,8 @@
 	</component>
 	<component type="facedecoration" id="026" path="026" name="026" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5562,6 +5940,7 @@
 	</component>
 	<component type="facedecoration" id="032" path="032" name="032" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<!--
 	<component type="facedecoration" id="033" path="033" name="033" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -5573,18 +5952,22 @@
 	</component>
 	<component type="facedecoration" id="035" path="035" name="035" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="036" path="036" name="036" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="037" path="037" name="037" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="038" path="038" name="038" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="039" path="039" name="039" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="040" path="040" name="040" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5597,6 +5980,8 @@
 	</component>
 	<component type="facedecoration" id="043" path="043" name="043" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="044" path="044" name="044" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5618,6 +6003,8 @@
 	</component>
 	<component type="facedecoration" id="050" path="050" name="050" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="051" path="051" name="051" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5639,6 +6026,8 @@
 	</component>
 	<component type="facedecoration" id="057" path="057" name="057" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<!--
 	<component type="facedecoration" id="058" path="058" name="058" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -5647,6 +6036,8 @@
 	-->
 	<component type="facedecoration" id="059" path="059" name="059" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="060" path="060" name="060" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5674,6 +6065,8 @@
 	</component>
 	<component type="facedecoration" id="068" path="068" name="068" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="069" path="069" name="069" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5692,6 +6085,8 @@
 	</component>
 	<component type="facedecoration" id="074" path="074" name="074" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="075" path="075" name="075" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5710,9 +6105,13 @@
 	</component>
 	<component type="facedecoration" id="092" path="092" name="092" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="093" path="093" name="093" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="096" path="096" name="096" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5725,27 +6124,41 @@
 	</component>
 	<component type="facedecoration" id="plain_headband" path="plain_headband" name="plain_headband" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="thief" path="thief" name="thief" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="witch" path="witch" name="witch" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="goanimatekids_party_hat001" path="goanimatekids_party_hat001" name="goanimatekids_party_hat001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="goanimatekids_party_hat002" path="goanimatekids_party_hat002" name="goanimatekids_party_hat002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="goanimatekids_party_hat003" path="goanimatekids_party_hat003" name="goanimatekids_party_hat003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="goanimatekids_party_hat004" path="goanimatekids_party_hat004" name="goanimatekids_party_hat004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="goanimatekids_party_hat005" path="goanimatekids_party_hat005" name="goanimatekids_party_hat005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="beard" id="003b" path="003b" name="003b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
