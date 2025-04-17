@@ -5823,6 +5823,8 @@
 	</component>
 	<component type="facedecoration" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -5845,6 +5847,8 @@
 	</component>
 	<component type="facedecoration" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
