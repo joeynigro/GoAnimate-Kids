@@ -3622,7 +3622,7 @@
 			<c_area oc="">ccColorA</c_area>
 		</c_parts>
 	</prop>
-	<prop id="cc_display.swf" name="Score display" holdable="0" placeable="N" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9622" money="0" sharing="0">
+	<prop id="cc_display.swf" name="Score display" holdable="0" placeable="N" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9622" money="0" sharing="0">
 		<colorset enable="Y" aid="9623">
 			<color r="ccColorA">0x9692AB</color>
 		</colorset>
