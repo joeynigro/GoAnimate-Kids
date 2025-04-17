@@ -2876,7 +2876,7 @@
 		<library type="GoUpper" id="6019" path="6019" name="6019" thumb="6019_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="6003" path="6003" name="6003" thumb="6003_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		<library type="GoUpper" id="6004" path="6004" name="6004" thumb="6004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
-		<library type="GoUpper" id="6005" path="6005" name="6005" thumb="6005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
+		<library type="GoUpper" id="6005" path="6005" name="6005" thumb="6005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N"/>
 		<library type="GoUpper" id="6006" path="6006" name="6006" thumb="6006_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>
 		
 		<library type="GoUpper" id="6007" path="6007" name="6007" thumb="6007_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y"/>		
