@@ -2099,7 +2099,7 @@
 		<library type="GoUpper" id="024" path="024" name="024" thumb="024_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_girl</tag>
 		</library>
-		<library type="GoUpper" id="025" path="025" name="025" thumb="025_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoUpper" id="025" path="025" name="025" thumb="025_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 		</library>
 		<library type="GoUpper" id="026" path="026" name="026" thumb="026_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
@@ -2188,7 +2188,7 @@
 			<tag>_sticky_filter_girl</tag>
 			<apply-template ref="F001" />
 		</library>
-		<library type="GoLower" id="022" path="022" name="022" thumb="022_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoLower" id="022" path="022" name="022" thumb="022_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_girl</tag>
 			<apply-template ref="F014" />
 		</library>
