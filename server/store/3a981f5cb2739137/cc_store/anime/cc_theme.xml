@@ -32,14 +32,18 @@
 		<choice>0x4B0156</choice>
 	</color>
 	<color r="ccEyeIris" component_type="eye" enable="Y">
-		<choice>0x988986</choice>
-		<choice>0x229188</choice>
 		<choice>0x7D551C</choice>
-		<choice>0x9966CC</choice>
+		<choice>0x229188</choice>
+		<choice>0x988986</choice>
 		<choice>0x7892C6</choice>
+		<choice>0x4B3621</choice>
 		<choice>0x993333</choice>
-		<choice>0x669900</choice>
+		<choice>0x9966CC</choice>
 		<choice>0xEA7B9D</choice>
+		<choice>0x669900</choice>
+		<choice>0x00CCFF</choice>
+		<choice>0xFFD700</choice>
+		<choice>0x5A2A9C</choice>
 	</color>
 	<color r="ccGlassesFrame" component_type="glasses" enable="Y">
 		<choice>0x2C2C2C</choice>
