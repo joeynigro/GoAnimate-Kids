@@ -1,9 +1,9 @@
-:: Wrapper: Offline Launcher
+:: GoAnimate Kids Launcher
 :: Author: benson#0411
 :: Project Runner: GoTest334#9880
 :: License: MIT
 set WRAPPER_VER=1.3.0
-title Wrapper: Offline v%WRAPPER_VER% [Initializing...]
+title GoAnimate Kids v%WRAPPER_VER% [Initializing...]
 
 ::::::::::::::::::::
 :: Initialization ::
@@ -23,7 +23,7 @@ if not exist wrapper ( goto error_location )
 if not exist server ( goto error_location )
 goto noerror_location
 :error_location
-echo Doesn't seem like this script is in a Wrapper: Offline folder.
+echo Doesn't seem like this script is in a GoAnimate Kids folder.
 pause && exit
 :noerror_location
 
@@ -42,8 +42,8 @@ if not exist wrapper ( goto error_location )
 if not exist server ( goto error_location )
 
 :: Welcome, Director Ford!
-echo Wrapper: Offline
-echo A project from VisualPlugin adapted by GoTest334 and the Wrapper: Offline team
+echo GoAnimate Kids
+echo A project from VisualPlugin adapted by GoTest334 and the GoAnimate Kids team
 echo Version !WRAPPER_VER!
 echo:
 
@@ -92,7 +92,7 @@ if !AUTOUPDATE!==y (
 :: Starting Wrapper ::
 ::::::::::::::::::::::
 
-title Wrapper: Offline v!WRAPPER_VER! [Loading...]
+title GoAnimate Kids v!WRAPPER_VER! [Loading...]
 
 :: Close existing node apps
 :: Hopefully fixes EADDRINUSE errors??
@@ -125,15 +125,15 @@ PING -n 6 127.0.0.1>nul
 :: Open Wrapper in preferred browser
 if !INCLUDEDCHROMIUM!==n (
 	if !CUSTOMBROWSER!==n (
-		echo Opening Wrapper: Offline in your default browser...
+		echo Opening GoAnimate Kids in your default browser...
 		if !DRYRUN!==n ( start http://localhost:4343 )
 	) else (
-		echo Opening Wrapper: Offline in your set browser...
+		echo Opening GoAnimate Kids in your set browser...
 		echo If this does not work, you may have set the path wrong.
 		if !DRYRUN!==n ( start !CUSTOMBROWSER! http://localhost:4343 )
 	)
 ) else (
-	echo Opening Wrapper: Offline using included Chromium...
+	echo Opening GoAnimate Kids using included Chromium...
 	pushd utilities\ungoogled-chromium
 	if !APPCHROMIUM!==y (
 		if !DRYRUN!==n ( start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile --app=http://localhost:4343 )
@@ -143,21 +143,21 @@ if !INCLUDEDCHROMIUM!==n (
 	popd
 )
 
-echo Wrapper: Offline has been started^^! The video list should now be open.
+echo GoAnimate Kids has been started^^! The video list should now be open.
 
 ::::::::::::::::
 :: Post-Start ::
 ::::::::::::::::
 
-title Wrapper: Offline v!WRAPPER_VER!
+title GoAnimate Kids v!WRAPPER_VER!
 if !VERBOSEWRAPPER!==y ( goto wrapperstarted )
 :wrapperstartedcls
 cls
 :wrapperstarted
 
 echo:
-echo Wrapper: Offline v!WRAPPER_VER! running
-echo A project from VisualPlugin adapted by GoTest334 and the Wrapper: Offline team
+echo GoAnimate Kids v!WRAPPER_VER! running
+echo A project from VisualPlugin adapted by GoTest334 and the GoAnimate Kids team
 echo:
 if !VERBOSEWRAPPER!==n ( echo DON'T CLOSE THIS WINDOW^^! Use the quit option ^(0^) when you're done. )
 if !VERBOSEWRAPPER!==y ( echo Verbose mode is on, see the two extra CMD windows for extra output. )
@@ -168,7 +168,7 @@ echo:
 echo Enter 1 to reopen the video list
 echo Enter ? to open the FAQ
 echo Enter clr to clean up the screen
-echo Enter 0 to close Wrapper: Offline
+echo Enter 0 to close GoAnimate Kids
 set /a _rand=(!RANDOM!*67/32768)+1
 if !_rand!==25 echo Enter things you think'll show a secret if you're feeling adventurous
 :wrapperidle
@@ -188,14 +188,14 @@ echo Time to choose. && goto wrapperidle
 :reopen_webpage
 if !INCLUDEDCHROMIUM!==n (
 	if !CUSTOMBROWSER!==n (
-		echo Opening Wrapper: Offline in your default browser...
+		echo Opening GoAnimate Kids in your default browser...
 		start http://localhost:4343
 	) else (
-		echo Opening Wrapper: Offline in your set browser...
+		echo Opening GoAnimate Kids in your set browser...
 		start !CUSTOMBROWSER! http://localhost:4343 >nul
 	)
 ) else (
-	echo Opening Wrapper: Offline using included Chromium...
+	echo Opening GoAnimate Kids using included Chromium...
 	pushd utilities\ungoogled-chromium
 	if !APPCHROMIUM!==y (
 		start chrome.exe --allow-outdated-plugins --user-data-dir=the_profile --app=http://localhost:4343 >nul
@@ -328,7 +328,7 @@ goto wrapperidle
 :: Confirmation before shutting down
 :exitwrapperconfirm
 echo:
-echo Are you sure you want to quit Wrapper: Offline?
+echo Are you sure you want to quit GoAnimate Kids?
 echo Be sure to save all your work.
 echo Type Y to quit, and N to go back.
 :exitwrapperretry
@@ -342,7 +342,7 @@ echo You must answer Yes or No. && goto exitwrapperretry
 
 :point_extraction
 
-title Wrapper: Offline v!WRAPPER_VER! [Shutting down...]
+title GoAnimate Kids v!WRAPPER_VER! [Shutting down...]
 
 :: Shut down Node.js
 if !VERBOSEWRAPPER!==y (
@@ -353,18 +353,18 @@ if !VERBOSEWRAPPER!==y (
 )
 
 :: This is where I get off.
-echo Wrapper: Offline has been shut down.
+echo GoAnimate Kids has been shut down.
 echo This window will now close.
 if !INCLUDEDCHROMIUM!==y (
 	echo You can close the web browser now.
 )
-echo Open start_wrapper.bat again to start W:O again.
+echo Open start_wrapper.bat again to start GoAnimate Kids again.
 if !DRYRUN!==y ( echo Go wet your run next time. ) 
 pause & exit
 
 :configcopy
 if not exist utilities ( md utilities )
-echo :: Wrapper: Offline Config>> utilities\config.bat
+echo :: GoAnimate Kids Config>> utilities\config.bat
 echo :: This file is modified by settings.bat. It is not organized, but comments for each setting have been added.>> utilities\config.bat
 echo :: You should be using settings.bat, and not touching this. Offline relies on this file remaining consistent, and it's easy to mess that up.>> utilities\config.bat
 echo:>> utilities\config.bat
