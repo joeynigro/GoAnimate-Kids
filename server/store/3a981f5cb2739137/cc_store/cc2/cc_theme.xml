@@ -5829,7 +5829,7 @@
     <state id="stand02" filename="stand02.swf" />
     <state id="run03" filename="run03.swf" />
   </component>
-  <component type="mouth" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="mouth" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="angry" filename="angry.swf" />
     <state id="confused" filename="confused.swf" />
     <state id="cry" filename="cry.swf" />
