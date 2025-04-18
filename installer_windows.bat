@@ -135,7 +135,7 @@ if !NODE_DETECTED!==n (
 
 	:installnode64
 	if not exist "node_installer_64.msi" (
-		powershell -Command "Invoke-WebRequest https://nodejs.org/dist/v17.8.0/node-v17.8.0-x64.msi -OutFile node_installer_64.msi"
+		powershell -Command "Invoke-WebRequest https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi -OutFile node_installer_64.msi"
 	)
 	start /wait msiexec /i "node_installer_64.msi" !INSTALL_FLAGS!
 	del "node_installer_64.msi"
@@ -143,7 +143,7 @@ if !NODE_DETECTED!==n (
 
 	:installnode32
 	if not exist "node_installer_32.msi" (
-		powershell -Command "Invoke-WebRequest https://nodejs.org/dist/v17.8.0/node-v17.8.0-x86.msi -OutFile node_installer_32.msi"
+		powershell -Command "Invoke-WebRequest https://nodejs.org/dist/v22.14.0/node-v22.14.0-x64.msi -OutFile node_installer_32.msi"
 	)
 	start /wait msiexec /i "node_installer_32.msi" !INSTALL_FLAGS!
 	del "node_installer_32.msi"
