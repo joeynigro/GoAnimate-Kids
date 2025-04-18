@@ -136,27 +136,34 @@
 	</color>
 	<color r="ccLowerMain" component_type="GoLower" enable="Y">
 		<choice>0x000000</choice>
+		<choice>0x5A4C42</choice>
+		<choice>0xA67B5B</choice>
+		<choice>0xC0C0C0</choice>
+		<choice>0x6B6B6B</choice>
 		<choice>0xFFFFFF</choice>
-		<choice>0xFF0000</choice>
-		<choice>0xFFD700</choice>
-		<choice>0xADD8E6</choice>
-		<choice>0xFFC0CB</choice>
-		<choice>0x9370DB</choice>
-		<choice>0x00FF7F</choice>
-		<choice>0xA52A2A</choice>
-		<choice>0x808080</choice>
+		<choice>0x8B8589</choice>
+		<choice>0xD2B48C</choice>
+		<choice>0xF5F5F5</choice>
+		<choice>0x4B3621</choice>
+		<choice>0x3C3C3C</choice>
+		<choice>0xB0A990</choice>
 	</color>
 	<color r="ccLowerMinor" component_type="GoLower" enable="Y">
-		<choice>0xFFFFFF</choice>
-		<choice>0xFFC0CB</choice>
-		<choice>0xFFD700</choice>
-		<choice>0xADD8E6</choice>
-		<choice>0x000000</choice>
-		<choice>0xFF69B4</choice>
-		<choice>0xFF0000</choice>
-		<choice>0x90EE90</choice>
-		<choice>0x9370DB</choice>
-		<choice>0xA9A9A9</choice>
+		<choice>0x7C6E5F</choice>
+		<choice>0xB9A188</choice>
+		<choice>0x9E9E9E</choice>
+		<choice>0x7F7F6E</choice>
+		<choice>0x5D737E</choice>
+		<choice>0xB49789</choice>
+		<choice>0x948A80</choice>
+		<choice>0x8A7963</choice>
+		<choice>0x70695C</choice>
+		<choice>0xA8A29E</choice>
+		<choice>0x746C70</choice>
+		<choice>0x867C76</choice>
+		<choice>0xD1CFC7</choice>
+		<choice>0xB3AA9E</choice>
+		<choice>0x9D8B7C</choice>
 	</color>
 	<color r="ccDecMajor" component_type="facedecoration" enable="Y">
 		<choice>0x000000</choice>
