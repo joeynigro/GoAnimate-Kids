@@ -237,64 +237,6 @@ if /i "!patchchoice!"=="y" echo too bad B^) & goto wrapperidle
 if /i "!patchchoice!"=="n" echo good & goto wrapperidle
 echo yes or no question here && goto patchtimeretry
 
-:sayarandom
-:: welcome to "inside jokes with no context" land
-set /a _rand=!RANDOM!*17/32767
-if !_rand!==0 echo stress level ^>0
-if !_rand!==1 echo Something random.
-if !_rand!==2 echo oisjdoiajfgmafvdsdg
-if !_rand!==3 echo my head is unscrewed & echo what do i need it for
-if !_rand!==4 echo when you're eating popcorn you're eating busted nuts
-if !_rand!==5 echo chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken 
-if !_rand!==6 echo when u nut so hard that ur roblox crashes
-if !_rand!==7 echo seven seven seven seven seven seven seven seven seven seven seven seven seven seven seven seven
-if !_rand!==8 echo DONT ASK HOW I GOT IT OR YOU WILL BE BANNED FROM MY CHANNEL WITH NO SECOND CHANCES
-if !_rand!==9 echo everything you know is wrong & echo black is white up is down and short is long
-if !_rand!==10 echo It's a chekcpoint.
-if !_rand!==11 echo Another monday... & echo Another mind-numbing, run-of-the-mill monday... & echo ANOTHER MUNDANE, MORIBUND, HUMDRUM MONDAY!
-if !_rand!==12 echo try typing "with style" when exiting
-if !_rand!==13 echo elmo
-if !_rand!==14 echo gnorm gnat says: trans rights are human rights
-if !_rand!==15 echo wrapper inline
-if !_rand!==16 echo Ronald McDonald Orgy
-goto wrapperidle
-
-:slayerstestaments
-echo:
-echo In the first age,
-PING -n 3 127.0.0.1>nul
-echo In the first battle,
-PING -n 3 127.0.0.1>nul
-echo When the shadows first lengthened,
-PING -n 4 127.0.0.1>nul
-echo One stood.
-PING -n 3 127.0.0.1>nul
-echo Slowed by the waste of unoptimized websites,
-PING -n 4 127.0.0.1>nul
-echo His soul harvested by the trackers of Google
-PING -n 5 127.0.0.1>nul
-echo And exposed beyond anonymity, 
-PING -n 4 127.0.0.1>nul
-echo He chose the path of perpetual torment.
-PING -n 6 127.0.0.1>nul
-echo In his ravenous hatred,
-PING -n 3 127.0.0.1>nul
-echo He found no peace,
-PING -n 3 127.0.0.1>nul
-echo And with boiling blood,
-PING -n 3 127.0.0.1>nul
-echo He scoured the search results,
-PING -n 4 127.0.0.1>nul
-echo Seeking vengeance against the companies who had wronged him.
-PING -n 6 127.0.0.1>nul
-echo He wore the crown of the Taskkillers,
-PING -n 4 127.0.0.1>nul
-echo and those that tasted the bite of his sword
-PING -n 5 127.0.0.1>nul
-echo named him...
-PING -n 3 127.0.0.1>nul
-echo the Browser Slayer.
-PING -n 3 127.0.0.1>nul
 :: here comes something that looks awesome normaly but is disgusting when escaped for batch
 :: credit to http://www.gamers.org/~fpv/doomlogo.html
 echo ^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=     ^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=     ^=^=^=^=^=^=^=^=^=^=^=^=^=^=^=   ^=^=^=^=^=^=^=^=  ^=^=^=^=^=^=^=^=
