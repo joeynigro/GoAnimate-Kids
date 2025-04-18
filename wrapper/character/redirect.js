@@ -8,8 +8,8 @@ const defaultTypes = {
 	eve: "eve",
 	bob: "bob",
 	rocky: "rocky",
-	boy: "adam&ft=boy",
-	girl: "adam&ft=girl",
+	kid_boy: "adam&ft=boy",
+	kid_girl: "adam&ft=girl",
 };
 
 /**
