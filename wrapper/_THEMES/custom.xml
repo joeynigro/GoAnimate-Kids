@@ -4084,6 +4084,9 @@
   <char id="9017" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_017.png" copyable="Y">
     <tags>family,_free,_cat:Casual Adults,_tag:male</tags>
   </char>
+  <char id="9018" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_018.png" copyable="Y">
+    <tags>family,_free,_cat:Casual Adults,_tag:female</tags>
+  </char>
   <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
   </char>
