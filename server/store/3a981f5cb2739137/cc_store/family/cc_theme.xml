@@ -5501,6 +5501,8 @@
 	</component>
 	<component type="glasses" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="glasses" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
