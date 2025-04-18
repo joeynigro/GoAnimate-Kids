@@ -155,4 +155,10 @@
   <char id="2025" name="Squirrel" cc_theme_id="cc2" thumbnail_url="thumbnails/squirrel_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2028" name="Tiger" cc_theme_id="cc2" thumbnail_url="thumbnails/tiger_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2027" name="Tiger" cc_theme_id="cc2" thumbnail_url="thumbnails/tiger_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
 </theme>
