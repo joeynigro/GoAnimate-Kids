@@ -42,7 +42,7 @@ if not exist server ( goto error_location )
 
 :: Welcome, Director Ford!
 echo GoAnimate Kids
-echo A project from VisualPlugin adapted by GoTest334 and the GoAnimate Kids team
+echo A project from VisualPlugin adapted by the GoAnimate Kids team
 echo:
 
 :: Confirm measurements to proceed.
@@ -89,7 +89,7 @@ if !AUTOUPDATE!==y (
 :: Starting Wrapper ::
 ::::::::::::::::::::::
 
-title GoAnimate Kids v!WRAPPER_VER! [Loading...]
+title GoAnimate Kids [Loading...]
 
 :: Close existing node apps
 :: Hopefully fixes EADDRINUSE errors??
@@ -339,7 +339,7 @@ echo You must answer Yes or No. && goto exitwrapperretry
 
 :point_extraction
 
-title GoAnimate Kids v!WRAPPER_VER! [Shutting down...]
+title GoAnimate Kids [Shutting down...]
 
 :: Shut down Node.js
 if !VERBOSEWRAPPER!==y (
