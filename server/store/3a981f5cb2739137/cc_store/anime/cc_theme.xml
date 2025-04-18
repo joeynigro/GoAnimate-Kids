@@ -1297,7 +1297,7 @@
 		<library type="GoFeet" id="013" path="013" name="013" thumb="013_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
 			<tag>_sticky_filter_guy</tag>
 		</library>
-		<library type="GoFeet" id="016" path="016" name="016" thumb="016_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y">
+		<library type="GoFeet" id="016" path="016" name="016" thumb="016_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
 			<tag>_sticky_filter_guy</tag>
 		</library>
 		<library type="GoFeet" id="017" path="017" name="017" thumb="017_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N">
