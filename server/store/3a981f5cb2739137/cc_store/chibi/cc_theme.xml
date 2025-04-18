@@ -126,18 +126,13 @@
 		<choice>0x000000</choice>
 	</color>
 	<color r="ccUpperMinor" component_type="GoUpper" enable="Y">
-		<choice>0xFFFFFF</choice>
-		<choice>0xFFC0CB</choice>
-		<choice>0xB0E0E6</choice>
-		<choice>0xFFD700</choice>
-		<choice>0x000000</choice>
-		<choice>0xFFB6C1</choice>
-		<choice>0xFFA07A</choice>
-		<choice>0x98FB98</choice>
-		<choice>0xBA55D3</choice>
-		<choice>0xBA55D3</choice>
-		<choice>0xD3D3D3</choice>
-		<choice>0x8B4513</choice>
+		<choice>0x3B3B3B</choice>
+		<choice>0x4A3F35</choice>
+		<choice>0x6D6D6D</choice>
+		<choice>0xB4A183</choice>
+		<choice>0x565B5A</choice>
+		<choice>0x403833</choice>
+		<choice>0xA79F94</choice>
 	</color>
 	<color r="ccLowerMain" component_type="GoLower" enable="Y">
 		<choice>0x000000</choice>
