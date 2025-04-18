@@ -10,8 +10,8 @@ const defaultTypes = {
 	rocky: "rocky",
 	kid_boy: "adam&ft=boy",
 	kid_girl: "adam&ft=girl",
-	guy: "guy",
-	girl: "girl"
+	guy: "guy&ft=_sticky_filter_guy",
+	girl: "girl&ft=_sticky_filter_girl"
 };
 
 /**
