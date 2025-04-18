@@ -64,8 +64,8 @@ if "!noutput!"=="" (
 
 :: Flash check
 echo Checking for Flash installation...
-if exist "!windir!\SysWOW64\Macromed\Flash\*pepper.exe" set FLASH_DETECTED=y
-if exist "!windir!\System32\Macromed\Flash\*pepper.exe" set FLASH_DETECTED=y
+if exist "!windir!\SysWOW64\Macromed\Flash\*.exe" set FLASH_DETECTED=y
+if exist "!windir!\System32\Macromed\Flash\*.exe" set FLASH_DETECTED=y
 if !FLASH_DETECTED!==n (
 	echo Flash could not be found.
 	echo:
