@@ -2,8 +2,7 @@
 :: Author: benson#0411
 :: Project Runner: GoTest334#9880
 :: License: MIT
-set WRAPPER_VER=1.3.0
-title GoAnimate Kids v%WRAPPER_VER% [Initializing...]
+title GoAnimate Kids [Initializing...]
 
 ::::::::::::::::::::
 :: Initialization ::
@@ -44,7 +43,6 @@ if not exist server ( goto error_location )
 :: Welcome, Director Ford!
 echo GoAnimate Kids
 echo A project from VisualPlugin adapted by GoTest334 and the GoAnimate Kids team
-echo Version !WRAPPER_VER!
 echo:
 
 :: Confirm measurements to proceed.
@@ -53,7 +51,6 @@ echo Loading settings...
 if not exist utilities\config.bat ( goto configmissing )
 call utilities\config.bat
 echo:
-if !VERBOSEWRAPPER!==y ( echo Verbose mode activated. && echo:)
 goto configavailable
 
 :: Restore config
@@ -149,14 +146,14 @@ echo GoAnimate Kids has been started^^! The video list should now be open.
 :: Post-Start ::
 ::::::::::::::::
 
-title GoAnimate Kids v!WRAPPER_VER!
+title GoAnimate Kids
 if !VERBOSEWRAPPER!==y ( goto wrapperstarted )
 :wrapperstartedcls
 cls
 :wrapperstarted
 
 echo:
-echo GoAnimate Kids v!WRAPPER_VER! running
+echo GoAnimate Kids running
 echo A project from VisualPlugin adapted by GoTest334 and the GoAnimate Kids team
 echo:
 if !VERBOSEWRAPPER!==n ( echo DON'T CLOSE THIS WINDOW^^! Use the quit option ^(0^) when you're done. )
@@ -208,14 +205,14 @@ goto wrapperidle
 
 :open_files
 pushd ..
-echo Opening the wrapper-offline folder...
-start explorer.exe wrapper-offline
+echo Opening the GoAnimate-Kids folder...
+start explorer.exe GoAnimate-Kids
 popd
 goto wrapperidle
 
 :open_faq
 echo Opening the FAQ...
-start https://github.com/Wrapper-Offline/Wrapper-Offline/wiki
+start https://github.com/GoAnimate-Kids/GoAnimate-Kids/wiki
 goto wrapperidle
 
 :wipe_save
