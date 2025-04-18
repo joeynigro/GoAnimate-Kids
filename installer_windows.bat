@@ -170,7 +170,7 @@ if !FLASH_DETECTED!==n (
 	)
 
 	if not exist "CleanFlash_34.0.0.308_Installer.exe" (
-		powershell -Command "Invoke-WebRequest https://cdn.cleanflash.org/CleanFlash_34.0.0.308_Installer.exe -OutFile CleanFlash_34.0.0.308_Installer.exe"
+		powershell -Command "Invoke-WebRequest https://github.com/Aira-Sakuranomiya/CleanFlashInstaller/releases/download/34.0.0.323/CleanFlash_34.0.0.323_Installer.exe -OutFile CleanFlash_34.0.0.308_Installer.exe"
 	)
 	start /wait msiexec /i "CleanFlash_34.0.0.308_Installer.exe" !INSTALL_FLAGS! /quiet
 	del "CleanFlash_34.0.0.308_Installer.exe"
