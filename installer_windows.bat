@@ -193,8 +193,7 @@ echo:
 echo GoAnimate Kids Installer
 echo A project from VisualPlugin adapted by the GoAnimate Kids team
 echo:
-echo Enter 1 to install from the main branch
-echo Enter 2 to install from the beta branch
+echo Enter 1 to install
 echo Enter 0 to close the installer
 :wrapperidle
 echo:
