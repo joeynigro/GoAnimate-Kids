@@ -27,9 +27,6 @@ echo Doesn't seem like this script is in a Wrapper: Offline folder.
 pause && exit
 :noerror_location
 
-:: patch detection
-if exist "patch.jpg" goto patched
-
 :: Prevents CTRL+C cancelling (please close with 0) and keeps window open when crashing
 if "%~1" equ "point_insertion" goto point_insertion
 start "" /wait /B "%~F0" point_insertion
@@ -341,7 +338,6 @@ if /i "!exitchoice!"=="y" goto point_extraction
 if /i "!exitchoice!"=="yes" goto point_extraction
 if /i "!exitchoice!"=="n" goto wrapperstartedcls
 if /i "!exitchoice!"=="no" goto wrapperstartedcls
-if /i "!exitchoice!"=="with style" goto exitwithstyle
 echo You must answer Yes or No. && goto exitwrapperretry
 
 :point_extraction
@@ -365,39 +361,6 @@ if !INCLUDEDCHROMIUM!==y (
 echo Open start_wrapper.bat again to start W:O again.
 if !DRYRUN!==y ( echo Go wet your run next time. ) 
 pause & exit
-
-:exitwithstyle
-title Wrapper: Offline v!WRAPPER_VER! [Shutting down... WITH STYLE]
-echo SHUTTING DOWN THE WRAPPER OFFLINE
-PING -n 3 127.0.0.1>nul
-color 9b
-echo BEWEWEWEWWW PSSHHHH KSHHHHHHHHHHHHHH
-PING -n 3 127.0.0.1>nul
-TASKKILL /IM node.exe /F
-echo NODE DOT JS ANNIHILATED
-PING -n 3 127.0.0.1>nul
-echo TIME TO ELIMINATE WRAPPER OFFLINE
-PING -n 3 127.0.0.1>nul
-echo BOBOOBOBMWBOMBOM SOUND EFFECTSSSSS
-PING -n 3 127.0.0.1>nul
-echo WRAPPER OFFLINE ALSO ANNIHILA
-PING -n 2 127.0.0.1>nul
-exit
-
-:patched
-title candypaper nointernet PATCHED edition
-color 43
-echo OH MY GODDDDD
-PING -n 3 127.0.0.1>nul
-echo SWEETSSHEET LACKOFINTERNS PATCHED DETECTED^^!^^!^^!^^!^^!^^!^^!^^!^^!^^!^^!^^!
-PING -n 3 127.0.0.1>nul
-echo can never be use again...
-PING -n 4 127.0.0.1>nul
-echo whoever put patch.jpeg back, you are grounded grounded gorrudjnmed for 6000
-PING -n 3 127.0.0.1>nul
-:grr
-echo g r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r r 
-goto grr
 
 :configcopy
 if not exist utilities ( md utilities )
