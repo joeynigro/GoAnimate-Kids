@@ -7,25 +7,21 @@ title GoAnimate Kids Installer [Initializing...]
 :: Initialization ::
 ::::::::::::::::::::
 
-:: Stop commands from spamming stuff, cleans up the screen
 @echo off && cls
-
-:: Lets variables work or something idk im not a nerd
 SETLOCAL ENABLEDELAYEDEXPANSION
 
-::check for admin 
+:: Check for admin privileges
 fsutil dirty query !systemdrive! >NUL 2>&1
 if /i not !ERRORLEVEL!==0 (
-	echo You need to run this file with admin privelages.
+	echo You need to run this file with admin privileges.
 	echo Right click on this file, and click "Run as Administrator".
 	echo If you don't have this option, your current user account does not have admin privileges.
 	pause
 	exit
 )
 
-:: Make sure we're starting in the correct folder
+:: Start in correct folder
 pushd "%~dp0"
-:: Check *again* because it seems like sometimes it doesn't go into dp0 the first time???
 pushd "%~dp0"
 
 ::::::::::::::::::::::
@@ -36,7 +32,6 @@ title GoAnimate Kids Installer [Checking for dependencies...]
 echo Checking for dependencies...
 echo:
 
-:: Preload variables
 set DEPENDENCIES_NEEDED=n
 set GIT_DETECTED=n
 set NODE_DETECTED=n
@@ -46,7 +41,7 @@ set FLASH_DETECTED=n
 :: Git check
 echo Checking for Git installation...
 for /f "delims=" %%i in ('git --version 2^>nul') do set goutput=%%i
-IF "!goutput!" EQU "" (
+if "!goutput!"=="" (
 	echo Git could not be found.
 	set DEPENDENCIES_NEEDED=y
 ) else (
@@ -58,7 +53,7 @@ IF "!goutput!" EQU "" (
 :: Node.JS check
 echo Checking for Node.JS installation...
 for /f "delims=" %%i in ('node -v 2^>nul') do set noutput=%%i
-IF "!noutput!" EQU "" (
+if "!noutput!"=="" (
 	echo Node.JS could not be found.
 	set DEPENDENCIES_NEEDED=y
 ) else (
@@ -109,43 +104,32 @@ if !GIT_DETECTED!==n (
 	)
 	echo Proper Git installation doesn't seem possible to do automatically.
 	echo You can just keep clicking next until it finishes,
-	echo and the W:O installer will continue once it closes.
-	git_installer.exe
-	goto git_installed
-	
-	:git_installed
-	del git_installer.exe
+	echo and the GoAnimate Kids installer will continue once it closes.
+	start /wait "" "git_installer.exe"
+	del "git_installer.exe"
 	echo Git has been installed.
 )
 
-if !NODE_DETECTED!==n (	
+if !NODE_DETECTED!==n (
 	cls
 	echo Installing Node.js...
 	echo:
-	:: Install Node.js
 	if !CPU_ARCHITECTURE!==64 (
-		if !VERBOSEWRAPPER!==y ( echo 64-bit system detected, installing 64-bit Node.js. )
 		goto installnode64
 	)
 	if !CPU_ARCHITECTURE!==32 (
-		if !VERBOSEWRAPPER!==y ( echo 32-bit system detected, installing 32-bit Node.js. )
 		goto installnode32
 	)
 	if !CPU_ARCHITECTURE!==what (
 		echo:
-		echo Well, this is a little embarassing.
+		echo Well, this is a little embarrassing.
 		echo GoAnimate Kids can't tell if you're on a 32-bit or 64-bit system.
-		echo Which means it doesn't know which version of Node.js to install...
 		echo:
-		echo If you have no idea what that means, press 1 to just try anyway.
-		echo If you're in the future with newer architectures or something
-		echo and you know what you're doing, then press 3 to keep going.
-		echo:
+		echo Press 1 to try 32-bit installation or 3 to skip Node.js installation.
 		:architecture_ask
-		set /p CPUCHOICE= Response:
-		echo:
-		if "!cpuchoice!"=="1" echo Attempting 32-bit Node.js installation. && goto installnode32
-		if "!cpuchoice!"=="3" echo Node.js will not be installed. && goto after_nodejs_install
+		set /p CPUCHOICE=Response:
+		if "!CPUCHOICE!"=="1" goto installnode32
+		if "!CPUCHOICE!"=="3" goto after_nodejs_install
 		echo You must pick one or the other.&& goto architecture_ask
 	)
 
@@ -153,21 +137,16 @@ if !NODE_DETECTED!==n (
 	if not exist "node_installer_64.msi" (
 		powershell -Command "Invoke-WebRequest https://nodejs.org/dist/v17.8.0/node-v17.8.0-x64.msi -OutFile node_installer_64.msi"
 	)
-	echo Proper Node.js installation doesn't seem possible to do automatically.
-	echo You can just keep clicking next until it finishes, and GoAnimate Kids will continue once it closes.
-	msiexec /i "node_installer_64.msi" !INSTALL_FLAGS!
-	del node_installer_64.msi
+	start /wait msiexec /i "node_installer_64.msi" !INSTALL_FLAGS!
+	del "node_installer_64.msi"
 	goto nodejs_installed
 
 	:installnode32
 	if not exist "node_installer_32.msi" (
 		powershell -Command "Invoke-WebRequest https://nodejs.org/dist/v17.8.0/node-v17.8.0-x86.msi -OutFile node_installer_32.msi"
 	)
-	echo Proper Node.js installation doesn't seem possible to do automatically.
-	echo You can just keep clicking next until it finishes, and GoAnimate Kids will continue once it closes.
-	msiexec /i "node_installer_32.msi" !INSTALL_FLAGS!
-	del node_installer_32.msi
-	goto nodejs_installed
+	start /wait msiexec /i "node_installer_32.msi" !INSTALL_FLAGS!
+	del "node_installer_32.msi"
 
 	:nodejs_installed
 	echo Node.js has been installed.
@@ -177,45 +156,30 @@ if !NODE_DETECTED!==n (
 
 :: Flash Player
 if !FLASH_DETECTED!==n (
-	:start_flash_install
 	echo Installing Flash Player...
 	echo:
 
-	echo To install Flash Player, GoAnimate Kids must kill any currently running web browsers.
-	echo Please make sure any work in your browser is saved before proceeding.
-	echo GoAnimate Kids will not continue installation until you press a key.
-	echo:
+	echo GoAnimate Kids will now close all open web browsers.
+	echo Save your work and press any key to continue.
 	pause
 	echo:
 
-	:: Summon the Browser Slayer
-	echo Rip and tear, until it is done.
 	for %%i in (firefox,palemoon,iexplore,microsoftedge,chrome,chrome64,opera,brave) do (
-		if !VERBOSEWRAPPER!==y (
-			 taskkill /f /im %%i.exe /t
-			 wmic process where name="%%i.exe" call terminate
-		) else (
-			 taskkill /f /im %%i.exe /t >nul
-			 wmic process where name="%%i.exe" call terminate >nul
-		)
+		taskkill /f /im %%i.exe /t >nul
+		wmic process where name="%%i.exe" call terminate >nul
 	)
-	:lurebrowserslayer
-	cls
-	echo:
-	echo Starting Flash installer...
+
 	if not exist "CleanFlash_34.0.0.308_Installer.exe" (
 		powershell -Command "Invoke-WebRequest https://cdn.cleanflash.org/CleanFlash_34.0.0.308_Installer.exe -OutFile CleanFlash_34.0.0.308_Installer.exe"
 	)
-	msiexec /i "CleanFlash_34.0.0.308_Installer.exe" !INSTALL_FLAGS! /quiet
-
+	start /wait msiexec /i "CleanFlash_34.0.0.308_Installer.exe" !INSTALL_FLAGS! /quiet
+	del "CleanFlash_34.0.0.308_Installer.exe"
 	echo Flash has been installed.
-	del CleanFlash_34.0.0.308_Installer.exe	
-	echo:
 )
 
 if !DEPENDENCIES_NEEDED!==y (
-	echo Dependencies installed. 
-	start installer_windows.bat
+	echo Dependencies installed.
+	start "" "%~f0"
 	exit
 )
 
@@ -224,9 +188,7 @@ if !DEPENDENCIES_NEEDED!==y (
 :::::::::::::::::::::::::
 
 title GoAnimate Kids Installer
-:cls
 cls
-
 echo:
 echo GoAnimate Kids Installer
 echo A project from VisualPlugin adapted by the GoAnimate Kids team
@@ -237,16 +199,9 @@ echo Enter 0 to close the installer
 :wrapperidle
 echo:
 
-:::::::::::::
-:: Choices ::
-:::::::::::::
-
 set /p CHOICE=Choice:
-if "!choice!"=="0" goto exit
-if "!choice!"=="1" goto downloadmain
-if "!choice!"=="2" goto downloadbeta
-:: funni options
-if "!choice!"=="shut up" echo Nobody care and who aks && echo No cares
+if "!CHOICE!"=="0" goto exit
+if "!CHOICE!"=="1" goto downloadmain
 echo Time to choose. && goto wrapperidle
 
 :downloadmain
@@ -256,7 +211,7 @@ if not exist "GoAnimate-Kids" (
 	git clone https://github.com/GoAnimate-Kids/GoAnimate-Kids.git
 ) else (
 	echo You already have it installed apparently?
-	echo If you're trying to install a different version make sure you remove the old folder.
+	echo If you're trying to install a different version, remove the old folder.
 	pause
 )
 goto npminstall
@@ -268,14 +223,14 @@ if not exist "GoAnimate-Kids" (
 	git clone --single-branch --branch beta https://github.com/GoAnimate-Kids/GoAnimate-Kids.git
 ) else (
 	echo You already have it installed apparently?
-	echo If you're trying to install a different version make sure you remove the old folder.
+	echo If you're trying to install a different version, remove the old folder.
 	pause
 )
 goto npminstall
 
 :npminstall
 cls
-pushd GoAnimate-Kids\wrapper
+pushd "GoAnimate-Kids\wrapper"
 if not exist "package-lock.json" (
 	echo Installing Node.JS packages...
 	call npm install
@@ -296,14 +251,13 @@ if !errorlevel! == 0 (
 
 :certinstall
 cls
-pushd GoAnimate-Kids\server
+pushd "GoAnimate-Kids\server"
 echo Installing HTTPS certificate...
 echo:
 if not exist "the.crt" (
 	echo ...except it doesn't exist for some reason.
 	echo GoAnimate Kids requires this to run.
-	echo You should get a "the.crt" file from someone else, or redownload GoAnimate Kids.
-	echo Offline has nothing left to do since it can't launch without the.crt, so it will close.
+	echo Get a "the.crt" file or redownload the project.
 	pause
 	exit
 )
@@ -313,7 +267,7 @@ popd
 :finish
 cls
 echo:
-echo GoAnimate Kids has been installed^^! Would you like to start it now?
+echo GoAnimate Kids has been installed! Would you like to start it now?
 echo:
 echo Enter 1 to open GoAnimate Kids now.
 echo Enter 0 to just open the folder.
@@ -321,17 +275,4 @@ echo Enter 0 to just open the folder.
 echo:
 
 set /p CHOICE=Choice:
-if "!choice!"=="0" goto folder
-if "!choice!"=="1" goto start
-echo Time to choose. && goto finalidle
-
-:folder
-start "" "GoAnimate-Kids"
-pause & exit
-
-:start
-pushd GoAnimate-Kids
-start start_wrapper.bat
-
-:exit
-pause & exit
+if "!CHO
