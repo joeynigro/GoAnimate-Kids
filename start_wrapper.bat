@@ -183,10 +183,7 @@ if "!choice!"=="?" goto open_faq
 if /i "!choice!"=="clr" goto wrapperstartedcls
 if /i "!choice!"=="cls" goto wrapperstartedcls
 if /i "!choice!"=="clear" goto wrapperstartedcls
-:: funni options
-if "!choice!"=="43" echo OH MY GOD. FOURTY THREE CHARS. NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO & goto wrapperidle
 :: dev options
-if /i "!choice!"=="amnesia" goto wipe_save
 if /i "!choice!"=="restart" goto restart
 if /i "!choice!"=="folder" goto open_files
 echo Time to choose. && goto wrapperidle
