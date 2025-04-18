@@ -64,8 +64,8 @@ if "!noutput!"=="" (
 
 :: Flash check
 echo Checking for Flash installation...
-if exist "!windir!\SysWOW64\Macromed\Flash\*.exe" set FLASH_DETECTED=y
-if exist "!windir!\System32\Macromed\Flash\*.exe" set FLASH_DETECTED=y
+if exist "!windir!\SysWOW64\FlashPlayerApp.exe" set FLASH_DETECTED=y
+if exist "!windir!\System32\FlashPlayerApp.exe" set FLASH_DETECTED=y
 if !FLASH_DETECTED!==n (
 	echo Flash could not be found.
 	echo:
@@ -169,8 +169,8 @@ if !FLASH_DETECTED!==n (
 		wmic process where name="%%i.exe" call terminate >nul
 	)
 
-	if not exist "CleanFlash_34.0.0.308_Installer.exe" (
-		powershell -Command "Invoke-WebRequest https://cdn.cleanflash.org/CleanFlash_34.0.0.308_Installer.exe -OutFile flash_installer.exe"
+	if not exist "CleanFlash_34.0.0.325_Installer.exe" (
+		powershell -Command "Invoke-WebRequest https://github.com/Aira-Sakuranomiya/CleanFlashInstaller/releases/download/34.0.0.323/CleanFlash_34.0.0.323_Installer.exe -OutFile CleanFlash_34.0.0.325_Installer.exe"
 	)
 	start /wait msiexec /i "CleanFlash_34.0.0.308_Installer.exe" !INSTALL_FLAGS! /quiet
 	del "CleanFlash_34.0.0.308_Installer.exe"
