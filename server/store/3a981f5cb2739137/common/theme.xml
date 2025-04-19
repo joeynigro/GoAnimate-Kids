@@ -15405,8 +15405,9 @@
 	<prop id="pencil.swf" name="Pencil" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="ruler.swf" name="Ruler" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
 	<prop id="school_glue.swf" name="School glue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
-    <prop id="money.swf" name="Money" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
+	<prop id="bench.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
     <prop id="leg_cast.swf" name="Leg cast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+    <prop id="money.swf" name="Money" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
     <prop id="msp_school_bus" name="School Bus" holdable="" placeable="1" wearable="" facing="left" thumb="msp_school_bus_school_bus_full.swf" enable="Y" is_premium="N" aid="11038" money="" sharing="">
       <state id="msp_school_bus_school_bus_full.swf" name="still" enable="Y" default="Y" />
       <state id="msp_school_bus_school_bus_on.swf" name="driving" enable="Y" />
