@@ -1056,7 +1056,6 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
-			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_046" path="adam_046" name="adam_046" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
