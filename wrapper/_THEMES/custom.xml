@@ -4132,6 +4132,9 @@
   <char id="3013" name="Giggles the Clown" cc_theme_id="family" thumbnail_url="thumbnails/giggles.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
   </char>
+  <char id="3020" name="Magician" cc_theme_id="family" thumbnail_url="thumbnails/magician.png" copyable="Y">
+    <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
+  </char>
   <char id="3019" name="Cowboy" cc_theme_id="family" thumbnail_url="thumbnails/cowboy.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
   </char>
