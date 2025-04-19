@@ -13535,7 +13535,7 @@
 		<rotation>0.1</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_graveyard" name="Graveyard" enable="N" default="N" thumb="ncc_graveyard.jpg" display_order="601" is_premium="Y" money="0" sharing="0" aid="11320">
+	<compositebg id="cbg_ncc_graveyard" name="Graveyard" enable="Y" default="N" thumb="ncc_graveyard.jpg" display_order="601" is_premium="Y" money="0" sharing="0" aid="11320">
 	<bg id="cbg_ncc_graveyard_BG7" index="0">
 		<file>common.ncc_gradient.swf</file>
 		<color r="colorA">3623305</color>
