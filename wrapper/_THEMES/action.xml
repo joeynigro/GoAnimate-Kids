@@ -255,7 +255,13 @@
   <char id="4014" name="Kid" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_013.png" copyable="Y">
     <tags>cc2,_free,_cat:Kids</tags>
   </char>
+  <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="3006" name="Pirate" cc_theme_id="cc2" thumbnail_url="thumbnails/pirate.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="3022" name="Magician" cc_theme_id="cc2" thumbnail_url="thumbnails/magician_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
   </char>
   <char id="5010" name="Easter - Easter Bunny" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/easter/bunny.png" copyable="Y">
