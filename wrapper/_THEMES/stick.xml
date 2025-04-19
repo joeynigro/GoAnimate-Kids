@@ -1620,7 +1620,7 @@
 	<c_area>sfOtherProp</c_area>
 </c_parts>
 	</prop>
-	<prop id="bar.swf" name="bar" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="7700" money="0" sharing="0">
+	<prop id="bar.swf" name="bar" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="7700" money="0" sharing="0">
 		<colorset enable="Y" aid="7701">
 	<color r="sfOtherProp">0x000000</color>
 </colorset>
@@ -1636,7 +1636,7 @@
 	<c_area>sfOtherProp</c_area>
 </c_parts>
 	</prop>
-	<prop id="bottle.swf" name="bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="7704" money="0" sharing="0">
+	<prop id="bottle.swf" name="bottle" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="7704" money="0" sharing="0">
 		<colorset enable="Y" aid="7705">
 	<color r="sfOtherProp">0x000000</color>
 </colorset>
