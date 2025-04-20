@@ -1,4 +1,4 @@
-title Wrapper: Offline Settings Script
+title GoAnimate Kids Settings Script
 :: Interactive config.bat changer
 :: Author: benson#0411
 :: License: MIT
@@ -16,7 +16,7 @@ if not exist utilities\config.bat ( goto error_location )
 if not exist start_wrapper.bat ( goto error_location )
 goto noerror_location
 :error_location
-echo Doesn't seem like this script is in the Wrapper: Offline folder.
+echo Doesn't seem like this script is in the GoAnimate Kids folder.
 goto end
 :noerror_location
 
@@ -240,7 +240,7 @@ if "!choice!"=="?6" (
 	echo will auto-update to the newest commit on Github.
 	echo This may be annoying to developers making modifications to the program, 
 	echo as when this is done it resets uncommitted work.
-	echo Turning this off will stop Wrapper from auto-updating.
+	echo Turning this off will stop GoAnimate from auto-updating.
 	goto reaskoptionscreen
 )
 :: Waveforms
@@ -256,7 +256,7 @@ if "!choice!"=="8" goto rpcchange
 if "!choice!"=="?8" (
 	echo By default, Discord rich presence is enabled.
     echo:
-	echo It's used to show when you're using Wrapper: Offline in your "Playing A Game" status on Discord,
+	echo It's used to show when you're using GoAnimate Kids in your "Playing A Game" status on Discord,
     echo much like how lots of modern computer games will show on your Discord status when you're playing
     echo them. Turning this off will make Offline stop saying when you're using it on Discord.
 	goto reaskoptionscreen
@@ -265,7 +265,7 @@ if "!choice!"=="?8" (
 if exist "server\characters\characters.zip" (
 	if "!choice!"=="9" goto extractchars
 	if "!choice!"=="?9" (
-		echo When first getting Wrapper: Offline, all non-stock characters are put into a single zip file.
+		echo When first getting GoAnimate Kids, all non-stock characters are put into a single zip file.
 		echo This is because if they're all separate, extracting takes forever and is incredibly annoying.
 		echo If you wish to import characters made on the LVM when it was still up and hosted by Vyond,
 		echo you can extract them here. They will still be compressed, just in separate files to be usable.
