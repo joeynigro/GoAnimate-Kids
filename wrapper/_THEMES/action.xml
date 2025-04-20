@@ -255,6 +255,12 @@
   <char id="4014" name="Kid" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_013.png" copyable="Y">
     <tags>cc2,_free,_cat:Kids</tags>
   </char>
+  <char id="4025" name="Kid" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_024.png" copyable="Y">
+    <tags>cc2,_free,_cat:Kids</tags>
+  </char>
+  <char id="4026" name="Kid" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_025.png" copyable="Y">
+    <tags>cc2,_free,_cat:Kids</tags>
+  </char>
   <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
   </char>
