@@ -6204,6 +6204,11 @@
 	<component type="facedecoration" id="096" path="096" name="096" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="facedecoration" id="bunny_ears" path="bunny_ears" name="bunny_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
+	</component>
 	<component type="facedecoration" id="firefighter" path="firefighter" name="firefighter" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
