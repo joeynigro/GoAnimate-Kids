@@ -1147,8 +1147,8 @@
 		</prop>
 		<prop id="PROP8" index="11">
 			<file>custom.msp_dishes.msp_dishes_restaurant_int_food.swf</file>
-			<x>366.1</x>
-			<y>249.6</y>
+			<x>376.1</x>
+			<y>261.6</y>
 			<xscale>1</xscale>
 			<yscale>1</yscale>
 			<face>1</face>
@@ -1156,8 +1156,8 @@
 		</prop>
 		<prop id="PROP9" index="13">
 			<file>custom.msp_dishes.msp_dishes_restaurant_int_food.swf</file>
-			<x>258.1</x>
-			<y>248.6</y>
+			<x>248.1</x>
+			<y>261.6</y>
 			<xscale>1</xscale>
 			<yscale>1</yscale>
 			<face>-1</face>
