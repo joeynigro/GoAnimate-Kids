@@ -3020,7 +3020,7 @@
 		<state id="msp_bedroom_blanket_bedroom_blanket_2.swf" name="double" enable="Y"/>
 	</prop>
 	<prop id="bedroom_blanket_bed.swf" name="Bed" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="8936" money="0" sharing="0"/>
-	<prop id="bedroom_drawer02.swf" name="Drawer" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="9082" money="0" sharing="0"/>
+	<prop id="bedroom_drawer02.swf" name="Drawer" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="9082" money="0" sharing="0"/>
 	<prop id="bedroom_drawer.swf" name="Drawer" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="8937" money="0" sharing="0"/>
 	<prop id="kitchen_refig.swf" name="Refrigerator" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="8938" money="0" sharing="0"/>
 	<prop id="kitchen_cup.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="8939" money="0" sharing="0"/>
@@ -3905,7 +3905,7 @@
 		<state id="msp_living_rm_door_living_room_door_close.swf" name="Closed" enable="Y" default="Y"/>
 		<state id="msp_living_rm_door_living_room_door_open.swf" name="Open" enable="Y"/>
 	</prop>
-	<prop id="msp_TV_version" name="TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_TV_version_living_room_tv01.swf" enable="N" is_premium="N" aid="9798" money="0" sharing="0">
+	<prop id="msp_TV_version" name="TV" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_TV_version_living_room_tv01.swf" enable="Y" is_premium="N" aid="9798" money="0" sharing="0">
 		<state id="msp_TV_version_living_room_tv01.swf" name="flat screen" enable="Y" default="Y"/>
 		<state id="msp_TV_version_living_room_tv02.swf" name="old television" enable="Y"/>
 	</prop>
