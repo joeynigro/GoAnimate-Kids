@@ -276,13 +276,13 @@
 		<selection type="mouth" state_id="talk"/>
 	</facial>
 
-	<bodyshape id="human" name="Human" default_action="stand" default_motion="walk" action_thumb="stand" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y">
+	<bodyshape id="default" name="Default" default_action="stand" default_motion="walk" action_thumb="stand" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y">
 		<default_char>
 		<color r="ccSkinColor">0xF4B99F</color>
 		<color r="ccMouthLip">0xB7796A</color>
 		<color r="ccHairMajor">0x513220</color>
-		<component type="bodyshape" component_id="human" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
-		<component type="freeaction" component_id="human" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+		<component type="bodyshape" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
+		<component type="freeaction" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="hair" component_id="001" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="mouth" component_id="002" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="eye" component_id="male_squint" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
@@ -324,7 +324,7 @@
 
     <component type="GoHands" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <component type="GoFeet" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
-    <component type="freeaction" id="human" path="human" name="human" thumb="" money="0" sharing="0" enable="Y" />
+    <component type="freeaction" id="default" path="default" name="default" thumb="" money="0" sharing="0" enable="Y" />
   </bodyshape>
 	
   <component type="faceshape" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
