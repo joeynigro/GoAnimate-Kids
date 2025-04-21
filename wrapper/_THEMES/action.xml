@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<theme id="action" name="Lil' Peepz" cc_theme_id="cc2"><background id="ncc_floor.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="10673" money="0" sharing="0"/>
+<theme id="action" name="Lil' Peepz" cc_theme_id="cc2">
+	<background id="ncc_floor.swf" name="Floor" enable="Y" default="N" is_premium="N" aid="10673" money="0" sharing="0"/>
 	<background id="ncc_gradient.swf" name="Gradient" enable="Y" default="N" is_premium="N" aid="10674" money="0" sharing="0"/>
 	<background id="ncc_high.swf" name="High Horizon" enable="Y" default="N" is_premium="N" aid="10675" money="0" sharing="0"/>
 	<background id="ncc_interior_left.swf" name="Interior left" enable="Y" default="N" is_premium="N" aid="10676" money="0" sharing="0"/>

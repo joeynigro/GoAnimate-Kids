@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<cc_theme id="poptropica" name="Poptropica" xsi:noNamespaceSchemaLocation="http://alvin.goanimate.org/schema/cc_library_theme.xsd" version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<cc_theme id="poptropica" studio_theme_id="poptropica" name="Poptropica" xsi:noNamespaceSchemaLocation="http://alvin.goanimate.org/schema/cc_library_theme.xsd" version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<color r="ccSkinColor" component_type="bodyshape" enable="Y">
 		<choice>0xF4DCD8</choice>
 		<choice>0xF4B99F</choice>
@@ -279,7 +279,6 @@
 	<bodyshape id="default" name="Default" default_action="stand" default_motion="walk" action_thumb="stand" facial_thumb="head_neutral" thumb_path="thumbnail.swf" enable="Y">
 		<default_char>
 		<color r="ccSkinColor">0xF4B99F</color>
-		<color r="ccMouthLip">0xB7796A</color>
 		<color r="ccHairMajor">0x513220</color>
 		<component type="bodyshape" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="freeaction" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
