@@ -415,4 +415,7 @@
 	<component type="facedecoration" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 </cc_theme>
