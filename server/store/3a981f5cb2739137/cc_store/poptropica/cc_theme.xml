@@ -135,6 +135,34 @@
 		<choice>0x376041</choice>
 		<choice>0xCCCCCC</choice>
 	</color>
+	<color r="ccDecMajor" component_type="facedecoration" enable="Y">
+		<choice>0x000000</choice>
+		<choice>0x513220</choice>
+		<choice>0xF5C455</choice>
+		<choice>0xA0522D</choice>
+		<choice>0xB7A99A</choice>
+		<choice>0x2C2C2C</choice>
+		<choice>0x7A5230</choice>
+		<choice>0xE8C37C</choice>
+		<choice>0xD4A373</choice>
+		<choice>0xC0A06F</choice>
+		<choice>0x71655A</choice>
+		<choice>0xFFFFFF</choice>
+	</color>
+	<color r="ccDecMinor" component_type="facedecoration" enable="Y">
+		<choice>0x000000</choice>
+		<choice>0x513220</choice>
+		<choice>0xF5C455</choice>
+		<choice>0xA0522D</choice>
+		<choice>0xB7A99A</choice>
+		<choice>0x2C2C2C</choice>
+		<choice>0x7A5230</choice>
+		<choice>0xE8C37C</choice>
+		<choice>0xD4A373</choice>
+		<choice>0xC0A06F</choice>
+		<choice>0x71655A</choice>
+		<choice>0xFFFFFF</choice>
+	</color>
 	<facial id="head_neutral" name="Neutral" enable="Y">
 		<selection type="eye" state_id="default"/>
 		<selection type="facedecoration" state_id="default"/>
@@ -277,13 +305,23 @@
 		
     <component type="GoUpper" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<component type="GoUpper" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="003" path="003" name="003" thumb="003_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="004" path="004" name="004" thumb="004_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="005" path="005" name="005" thumb="005_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="006" path="006" name="006" thumb="006_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="007" path="007" name="007" thumb="007_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="009" path="009" name="009" thumb="009_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<component type="GoUpper" id="van_buren" path="van_buren" name="van_buren" thumb="van_buren_thumbnail.swf" money="0" sharing="0" enable="Y" />
 
     <component type="GoLower" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <component type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	
-    <component type="GoHair" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
-    <component type="GoHair" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
-		
+    <component type="GoHair" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
+    <component type="GoHair" id="002" path="002" name="002" thumb="" money="0" sharing="0" enable="Y" />
+	<component type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" />
+
     <component type="GoHands" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <component type="GoFeet" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <component type="freeaction" id="human" path="human" name="human" thumb="" money="0" sharing="0" enable="Y" />
@@ -293,7 +331,7 @@
     <state id="default" filename="default.swf" />
     <state id="sick" filename="sick.swf" />
   </component>
-  <component type="faceshape" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="faceshape" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
     <state id="sick" filename="sick.swf" />
   </component>
@@ -339,6 +377,9 @@
   <component type="hair" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="hair" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
@@ -365,4 +406,13 @@
     <state id="talk_happy" filename="talk_happy.swf" />
     <state id="talk_sad" filename="talk_sad.swf" />
   </component>
+	<component type="facedecoration" id="wrinkles" path="wrinkles" name="wrinkles" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="scar" path="scar" name="scar" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 </cc_theme>
