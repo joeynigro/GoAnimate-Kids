@@ -11,8 +11,8 @@
 	<theme id="stick" name="Stick Figure" col="2" cc_theme_id="stick" />
 	<theme id="animal" name="Animals" col="3" cc_theme_id="animal" />
 	<theme id="common" name="Common" />
-	<word>arse,arsehole,ass,asshole,ballsack,bastard,bitch,biatch,clit,cock,cum,cunt,dick,dildo,douche,fag,faggot,fuq,fuck,fucking,jerkoff,jizz,motherfucker,penis,piss,pussy,shit,shite,slut,vagina,wank</word>
-	<whiteword>assault,assist,pass,assistant,passenger,compass,passion,passive,class,classic,classroom,classmate,assignment,massive,brass,grass,glass,bypass,password,classicist,assistantship,asset,cocktail,peacock,cockatoo,cockerel,cockroach,cockpit,cockleshell,cumulative,cumulus,cumlaude,accumulate,accumulation,cumulative,succumb,documentary,encumber,recumbent</whiteword>
+	<word></word>
+	<whiteword />
 	<excludeAssetIDs />
 	<points money="0" sharing="0" />
 </list>
