@@ -10,10 +10,9 @@
 	<theme id="space" name="Space Peepz" col="3" cc_theme_id="space" />
 	<theme id="stick" name="Stick Figure" col="2" cc_theme_id="stick" />
 	<theme id="animal" name="Animals" col="3" cc_theme_id="animal" />
-	<!--- <theme id="poptropica" name="Poptropica" col="1" cc_theme_id="poptropica" /> --->
 	<theme id="common" name="Common" />
 	<word></word>
-	<whiteword />
+	<whiteword></whiteword>
 	<excludeAssetIDs />
 	<points money="0" sharing="0" />
 </list>
