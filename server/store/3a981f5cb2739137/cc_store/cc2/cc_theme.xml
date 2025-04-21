@@ -4471,7 +4471,7 @@
     <state id="default" filename="default.swf" />
     <tag>_userrole_admin</tag>
   </component>
-  <component type="hair" id="1006" path="1006" name="1006" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+  <component type="hair" id="1006" path="1006" name="1006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
     <tag>_userrole_admin</tag>
   </component>
