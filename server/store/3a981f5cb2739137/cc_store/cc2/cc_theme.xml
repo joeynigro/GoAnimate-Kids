@@ -22,7 +22,12 @@
     <choice>0xF2E784</choice>
     <choice>0xFFFFFF</choice>
     <choice>0x4B2E1A</choice>
+	<choice>0x7E4D1B</choice>
     <choice>0xA0522D</choice>
+	<choice>0x8B5E3C</choice>
+	<choice>0xEEDD82</choice>
+	<choice>0xA9A9A9</choice>
+	<choice>0xCCCCCC</choice>
     <choice>0x6C5E91</choice>
     <choice>0xC19A6B</choice>
     <choice>0xF2E784</choice>
@@ -103,7 +108,12 @@
     <choice>0xF2E784</choice>
     <choice>0xFFFFFF</choice>
     <choice>0x4B2E1A</choice>
+	<choice>0x7E4D1B</choice>
     <choice>0xA0522D</choice>
+	<choice>0x8B5E3C</choice>
+	<choice>0xEEDD82</choice>
+	<choice>0xA9A9A9</choice>
+	<choice>0xCCCCCC</choice>
     <choice>0x6C5E91</choice>
     <choice>0xC19A6B</choice>
     <choice>0xF2E784</choice>
