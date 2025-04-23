@@ -3834,9 +3834,6 @@
   <component type="facedecoration" id="deer_antlers" path="deer_antlers" name="deer_antlers" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="facedecoration" id="dog_ears" path="dog_ears" name="dog_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
-    <state id="default" filename="default.swf" />
-  </component>
   <component type="facedecoration" id="goanimatekids_alien_eye" path="goanimatekids_alien_eye" name="goanimatekids_alien_eye" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
