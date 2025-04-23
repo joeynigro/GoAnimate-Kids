@@ -1436,7 +1436,7 @@
 			<rotation>0</rotation>
 		</prop>
 	</compositebg>
-	<compositebg id="cbg_toilet" name="Toilet" enable="N" default="N" thumb="toilet.jpg" display_order="32" is_premium="N" money="0" sharing="0" aid="9616">
+	<compositebg id="cbg_toilet" name="Toilet" enable="Y" default="N" thumb="toilet.jpg" display_order="32" is_premium="N" money="0" sharing="0" aid="9616">
 		<bg id="cbg_toilet_BG2" index="0">
 			<file>custom.toilet_bg.swf</file>
 			<dcsn>9610</dcsn>

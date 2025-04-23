@@ -2928,7 +2928,7 @@
 		<color r="ccColorA">5186840</color>
 	</prop>
 </compositebg>
-	<compositebg id="cbg_ncc_toilet" name="Toilet" enable="N" default="N" thumb="ncc_toilet.jpg" display_order="108" is_premium="Y" money="0" sharing="0" aid="11779">
+	<compositebg id="cbg_ncc_toilet" name="Toilet" enable="Y" default="N" thumb="ncc_toilet.jpg" display_order="108" is_premium="Y" money="0" sharing="0" aid="11779">
 	<bg id="cbg_ncc_toilet_BG7" index="0">
 		<file>common.wall16.swf</file>
 	</bg>
@@ -16878,7 +16878,7 @@
 	</prop>
 	<prop id="ncc_tomirror.swf" name="Mirror" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="Y" aid="11756" money="0" sharing="0"/>
 	<prop id="ncc_tosink.swf" name="Sink" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11757" money="0" sharing="0"/>
-	<prop id="msp_totoilet" name="Toilet" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_totoilet_ncc_totoilet01.swf" enable="N" is_premium="Y" aid="11758" money="0" sharing="0">
+	<prop id="msp_totoilet" name="Toilet" holdable="0" placeable="1" wearable="0" facing="left" thumb="msp_totoilet_ncc_totoilet01.swf" enable="Y" is_premium="Y" aid="11758" money="0" sharing="0">
 		<state id="msp_totoilet_ncc_totoilet01.swf" name="front - closed" enable="Y" default="Y"/>
 		<state id="msp_totoilet_ncc_totoilet02.swf" name="front - opened" enable="Y"/>
 		<state id="msp_totoilet_ncc_totoilet01_side.swf" name="side - closed" enable="Y"/>

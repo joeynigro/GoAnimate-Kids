@@ -1397,7 +1397,7 @@
 	<background id="train_station.swf" name="Train Station" enable="Y" is_premium="N" aid="4871" money="0" sharing="0"/>
 	<background id="backyard.swf" name="Backyard" enable="Y" is_premium="N" aid="4870" money="0" sharing="0"/>
 	<background id="school_entrance_bg.swf" name="School Entrance" enable="Y" is_premium="N" aid="4869" money="0" sharing="0"/>
-	<background id="toilet_clean.swf" name="Toilet" enable="N" is_premium="N" aid="4861" money="0" sharing="0"/>
+	<background id="toilet_clean.swf" name="Toilet" enable="Y" is_premium="N" aid="4861" money="0" sharing="0"/>
 	<background id="color_bar.swf" name="Color Bar" enable="Y" is_premium="N" aid="4862" money="0" sharing="0"/>
 	<background id="tvsnowflask.swf" name="TV Noise" enable="Y" is_premium="N" aid="4863" money="0" sharing="0"/>
 	<background id="countdown.swf" name="Count Down" enable="Y" is_premium="N" aid="4864" money="0" sharing="0"/>
