@@ -83,6 +83,12 @@
   <char id="2001" name="Bear" cc_theme_id="cc2" thumbnail_url="thumbnails/bear_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2030" name="Beaver" cc_theme_id="cc2" thumbnail_url="thumbnails/beaver_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2029" name="Beaver" cc_theme_id="cc2" thumbnail_url="thumbnails/beaver_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2004" name="Bird" cc_theme_id="cc2" thumbnail_url="thumbnails/bird_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
