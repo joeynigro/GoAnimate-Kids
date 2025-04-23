@@ -2536,7 +2536,7 @@
     <library type="GoUpper" id="262" path="262" name="262" thumb="262_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="220" path="220" name="220" thumb="220_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="2003" path="2003" name="2003" thumb="2003_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="2004" path="2004" name="2004" thumb="2004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="2004" path="2004" name="2004" thumb="2004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="2005" path="2005" name="2005" thumb="2005_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="269" path="269" name="269" thumb="269_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="225" path="225" name="225" thumb="225_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -2644,8 +2644,8 @@
     <library type="GoUpper" id="133" path="133" name="133" thumb="133_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="134" path="134" name="134" thumb="134_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="136" path="136" name="136" thumb="136_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="132" path="132" name="132" thumb="132_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
-    <library type="GoUpper" id="135" path="135" name="135" thumb="135_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="132" path="132" name="132" thumb="132_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
+    <library type="GoUpper" id="135" path="135" name="135" thumb="135_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="137" path="137" name="137" thumb="137_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="142" path="142" name="142" thumb="142_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="141" path="141" name="141" thumb="141_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -2696,7 +2696,7 @@
     <library type="GoUpper" id="046" path="046" name="046" thumb="046_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="060" path="060" name="060" thumb="060_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="041" path="041" name="041" thumb="041_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="043" path="043" name="043" thumb="043_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="043" path="043" name="043" thumb="043_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="074" path="074" name="074" thumb="074_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="062" path="062" name="062" thumb="062_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="019" path="019" name="019" thumb="019_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -2717,19 +2717,19 @@
     <library type="GoUpper" id="057" path="057" name="057" thumb="057_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="058" path="058" name="058" thumb="058_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="027" path="027" name="027" thumb="027_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="061" path="061" name="061" thumb="061_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="061" path="061" name="061" thumb="061_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="065" path="065" name="065" thumb="065_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="068" path="068" name="068" thumb="068_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="044" path="044" name="044" thumb="044_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="045" path="045" name="045" thumb="045_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="047" path="047" name="047" thumb="047_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="047" path="047" name="047" thumb="047_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="036" path="036" name="036" thumb="036_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="037" path="037" name="037" thumb="037_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="038" path="038" name="038" thumb="038_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="048" path="048" name="048" thumb="048_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="049" path="049" name="049" thumb="049_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="050" path="050" name="050" thumb="050_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="051" path="051" name="051" thumb="051_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="051" path="051" name="051" thumb="051_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="003" path="003" name="003" thumb="003_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="004" path="004" name="004" thumb="004_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="025" path="025" name="025" thumb="025_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -2751,7 +2751,7 @@
     <library type="GoUpper" id="087" path="087" name="087" thumb="087_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="001" path="001" name="001" thumb="001_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="002" path="002" name="002" thumb="002_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="009" path="009" name="009" thumb="009_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="010" path="010" name="010" thumb="010_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="011" path="011" name="011" thumb="011_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -2769,10 +2769,10 @@
     <library type="GoUpper" id="052" path="052" name="052" thumb="052_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="053" path="053" name="053" thumb="053_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
     <!--DISABLED-->
-    <library type="GoUpper" id="054" path="054" name="054" thumb="054_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="054" path="054" name="054" thumb="054_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="063" path="063" name="063" thumb="063_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
-    <library type="GoUpper" id="066" path="066" name="066" thumb="066_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
-    <library type="GoUpper" id="069" path="069" name="069" thumb="069_thumbnail.swf" display_order="10" money="0" sharing="0" enable="N" />
+    <library type="GoUpper" id="066" path="066" name="066" thumb="066_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
+    <library type="GoUpper" id="069" path="069" name="069" thumb="069_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="070" path="070" name="070" thumb="070_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="139" path="139" name="139" thumb="139_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoUpper" id="140" path="140" name="140" thumb="140_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
