@@ -3222,7 +3222,7 @@
     <state id="wink" filename="wink.swf" />
     <tag>_userrole_admin</tag>
   </component>
-  <component type="eye" id="2007" path="2007" name="2007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="eye" id="2007" path="2007" name="2007" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="confused" filename="confused.swf" />
@@ -3243,7 +3243,7 @@
     <state id="wink" filename="wink.swf" />
     <tag>_userrole_admin</tag>
   </component>
-  <component type="eye" id="2008" path="2008" name="2008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="eye" id="2008" path="2008" name="2008" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="angry" filename="angry.swf" />
     <state id="closed_eye" filename="closed_eye.swf" />
     <state id="confused" filename="confused.swf" />
