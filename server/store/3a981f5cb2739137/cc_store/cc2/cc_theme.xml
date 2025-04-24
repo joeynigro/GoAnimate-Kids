@@ -2904,6 +2904,7 @@
     <library type="GoBehindBody" id="custom_cat_tail_striped" path="custom_cat_tail_striped" name="custom_cat_tail_striped" thumb="custom_cat_tail_striped_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="deer_tail" path="deer_tail" name="deer_tail" thumb="deer_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="dog_tail" path="dog_tail" name="dog_tail" thumb="dog_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
+    <library type="GoBehindBody" id="elephant_tail" path="elephant_tail" name="elephant_tail" thumb="elephant_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="fox_tail" path="fox_tail" name="fox_tail" thumb="fox_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="gerbil_tail" path="gerbil_tail" name="gerbil_tail" thumb="gerbil_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
     <library type="GoBehindBody" id="lemur_tail" path="lemur_tail" name="lemur_tail" thumb="lemur_tail_thumbnail.swf" display_order="10" money="0" sharing="0" enable="Y" />
@@ -4507,6 +4508,9 @@
     <tag>_userrole_admin</tag>
   </component>
   <!--PAGE 1-->
+  <component type="hair" id="elephant_ears" path="elephant_ears" name="elephant_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="hair" id="deer_ears" path="deer_ears" name="deer_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
@@ -5914,6 +5918,10 @@
     <tag>_userrole_admin</tag>
   </component>
   <component type="nose" id="fico" path="fico" name="fico" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+    <tag>_userrole_admin</tag>
+  </component>
+  <component type="nose" id="elephant" path="elephant" name="elephant" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
     <tag>_userrole_admin</tag>
   </component>

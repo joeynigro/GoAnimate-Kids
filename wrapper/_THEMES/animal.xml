@@ -113,6 +113,12 @@
   <char id="2009" name="Dog" cc_theme_id="cc2" thumbnail_url="thumbnails/dog_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2032" name="Elephant" cc_theme_id="cc2" thumbnail_url="thumbnails/elephant_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2031" name="Elephant" cc_theme_id="cc2" thumbnail_url="thumbnails/elephant_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2012" name="Fox" cc_theme_id="cc2" thumbnail_url="thumbnails/fox_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
