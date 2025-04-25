@@ -1152,6 +1152,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_a010" path="adam_a010" name="adam_a010" thumb="thumbnail.swf" display_order="110" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -1187,6 +1189,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_firefighter" path="adam_firefighter" name="adam_firefighter" thumb="thumbnail.swf" display_order="190" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
@@ -1198,6 +1202,8 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_005" path="adam_005" name="adam_005" thumb="thumbnail.swf" display_order="40" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -1906,6 +1912,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_girl1" path="adam_girl1" name="adam_girl1" thumb="thumbnail.swf" display_order="170" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -2022,6 +2030,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_a010" path="adam_a010" name="adam_a010" thumb="thumbnail.swf" display_order="120" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -2060,6 +2070,8 @@
 			<state id="talk_on_phone" filename="talk_on_phone.swf"/>
 			<state id="taunt" filename="taunt.swf"/>
 			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="upper_body" id="adam_a012" path="adam_a012" name="adam_a012" thumb="thumbnail.swf" display_order="230" money="0" sharing="0" enable="Y">
 			<state id="chuckle" filename="chuckle.swf"/>
@@ -6229,6 +6241,8 @@
 	</component>
 	<component type="facedecoration" id="075a" path="075a" name="075a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="092" path="092" name="092" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
@@ -6237,7 +6251,6 @@
 	</component>
 	<component type="facedecoration" id="093" path="093" name="093" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
-		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="096" path="096" name="096" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -6250,13 +6263,17 @@
 	</component>
 	<component type="facedecoration" id="firefighter" path="firefighter" name="firefighter" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
+	</component>
+	<component type="facedecoration" id="forehead_wrinkles" path="forehead_wrinkles" name="forehead_wrinkles" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="frankenstein" path="frankenstein" name="frankenstein" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="plain_headband" path="plain_headband" name="plain_headband" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
-		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
 	<component type="facedecoration" id="thief" path="thief" name="thief" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
