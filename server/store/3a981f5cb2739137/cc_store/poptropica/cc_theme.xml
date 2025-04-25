@@ -314,6 +314,8 @@
 	<component type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<component type="GoUpper" id="van_buren" path="van_buren" name="van_buren" thumb="van_buren_thumbnail.swf" money="0" sharing="0" enable="Y" />
 
+    <component type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	
     <component type="GoLower" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <component type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	
@@ -321,8 +323,8 @@
     <component type="GoHair" id="002" path="002" name="002" thumb="" money="0" sharing="0" enable="Y" />
 	<component type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" />
 
-    <component type="GoHands" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
-    <component type="GoFeet" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
+    <component type="GoHands" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <component type="GoFeet" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <component type="freeaction" id="default" path="default" name="default" thumb="" money="0" sharing="0" enable="Y" />
   </bodyshape>
 	
