@@ -331,7 +331,7 @@
   <char id="6003" name="Mermaid" cc_theme_id="cc2" thumbnail_url="thumbnails/mermaid.png" copyable="Y">
     <tags>cc2,_free,_cat:Fantasy Characters</tags>
   </char>
-  <char id="11001" name="Mona Lisa" cc_theme_id="cc2" thumbnail_url="thumbnails/art_001.png" copyable="Y">
+  <char id="11001" name="Mona Lisa" cc_theme_id="cc2" thumbnail_url="thumbnails/art/mona_lisa.png" copyable="Y">
     <tags>cc2,_free,_cat:Art Characters</tags>
   </char>
 </theme>
