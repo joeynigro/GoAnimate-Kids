@@ -4,9 +4,9 @@ GoAnimate Kids is the children's version of Wrapper: Offline.
 [Find more info in the wiki.](https://github.com/Wrapper-Offline/Wrapper-Offline/wiki)
 
 ## Running / Installation
-To start GoAnimate Kids on Windows, Download and run the installer [here]((https://goanimatekids.weebly.com/)) It'll automate just about everything for you and, well, start Wrapper: Offline.
+To start GoAnimate Kids on Windows, Download and run the installer [here]((https://goanimatekids.weebly.com/)) It'll automate just about everything for you and, well, start GoAnimate Kids.
 
-If you want to import videos and characters from the original Wrapper or any other clones of it, open its folder and drag the "_SAVED" folder into Wrapper: Offline's "wrapper" folder. If you have already made any videos or characters, this will not work. Please only import on a new install with no saved characters or videos, or take the "_SAVED" folder in Wrapper: Offline out before dragging the old one in. If you want to import character IDs from the original LVM, you can paste `&original_asset_id=[ID HERE]` at the end of the link for the matching character creator.
+If you want to import videos and characters from the original GoAnimate or any other clones of it, open its folder and drag the "_SAVED" folder into GoAnimate's "wrapper" folder. If you have already made any videos or characters, this will not work. Please only import on a new install with no saved characters or videos, or take the "_SAVED" folder in GoAnimate out before dragging the old one in. If you want to import character IDs from the original LVM, you can paste `&original_asset_id=[ID HERE]` at the end of the link for the matching character creator.
 
 ## Dependencies
 This program relies on Flash, Node.js and http-server to work properly. SilentCMD is also used to suppress all the extra logging noise you'd only need for troubleshooting and development. These all have been included with the project (utilities folder) to ensure full offline operation and will be installed if missing. The "wrapper" folder and http-server have their own dependencies, but they are included as well.
@@ -15,7 +15,7 @@ This program relies on Flash, Node.js and http-server to work properly. SilentCM
 Most of this project is free/libre software[1] under the MIT license. You have the freedom to run, change, and share this as much as you want.
 This includes:
   - Files in the "wrapper" folder
-  - Batch files made for Wrapper: Offline
+  - Batch files made for GoAnimate Kids
   - Node.js
   - http-server
   - SilentCMD
