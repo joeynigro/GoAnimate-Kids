@@ -143,6 +143,12 @@
   <char id="2017" name="Mouse" cc_theme_id="cc2" thumbnail_url="thumbnails/mouse_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2034" name="Pig" cc_theme_id="cc2" thumbnail_url="thumbnails/pig_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2033" name="Pig" cc_theme_id="cc2" thumbnail_url="thumbnails/pig_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2020" name="Rabbit" cc_theme_id="cc2" thumbnail_url="thumbnails/rabbit_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
