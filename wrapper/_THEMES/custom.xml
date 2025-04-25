@@ -4105,6 +4105,12 @@
   <char id="9031" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/adult_031.png" copyable="Y">
     <tags>family,_free,_cat:Casual Adults,_tag:male</tags>
   </char>
+  <char id="9032" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_001.png" copyable="Y">
+    <tags>family,_free,_cat:Casual Adults,_tag:male</tags>
+  </char>
+  <char id="9033" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/senior_002.png" copyable="Y">
+    <tags>family,_free,_cat:Casual Adults,_tag:male</tags>
+  </char>
   <char id="3005" name="Mr. Simpson" cc_theme_id="family" thumbnail_url="thumbnails/teacher.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
   </char>
