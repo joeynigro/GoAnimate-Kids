@@ -198,9 +198,13 @@ echo Enter 0 to close the installer
 :wrapperidle
 echo:
 
+:::::::::::::
+:: Choices ::
+:::::::::::::
+
 set /p CHOICE=Choice:
-if "!CHOICE!"=="0" goto exit
-if "!CHOICE!"=="1" goto downloadmain
+if "!choice!"=="0" goto exit
+if "!choice!"=="1" goto downloadmain
 echo Time to choose. && goto wrapperidle
 
 :downloadmain
@@ -274,4 +278,17 @@ echo Enter 0 to just open the folder.
 echo:
 
 set /p CHOICE=Choice:
-if "!CHO
+if "!choice!"=="0" goto folder
+if "!choice!"=="1" goto start
+echo Time to choose. && goto finalidle
+
+:folder
+start "" "GoAnimate-Kids"
+pause & exit
+
+:start
+pushd GoAnimate-Kids
+start start_wrapper.bat
+
+:exit
+pause & exit
