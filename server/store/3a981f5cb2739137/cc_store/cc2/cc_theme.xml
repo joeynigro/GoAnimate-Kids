@@ -1984,7 +1984,7 @@
       <action id="subtle_hot" name="Feeling Hot" loop="Y" totalframe="15" enable="Y" is_motion="N" category="Emotions">
         <selection type="facial" facial_id="head_sick" />
       </action>
-      <action id="subtle_ohcrap" name="Oh. man!" loop="Y" totalframe="40" enable="Y" is_motion="N" category="Emotions">
+      <action id="subtle_ohman" name="Oh. man!" loop="Y" totalframe="40" enable="Y" is_motion="N" category="Emotions">
         <selection type="facial" facial_id="head_sad" />
       </action>
       <action id="subtle_opps" name="Oops ..." loop="Y" totalframe="30" enable="Y" is_motion="N" category="Emotions">
