@@ -4120,6 +4120,10 @@
     <state id="default" filename="default.swf" />
   </component>
   <!-- FACES START HERE -->
+  <component type="faceshape" id="goanimatekids_art_char001" path="goanimatekids_art_char001" name="goanimatekids_art_char001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
+    <state id="default" filename="default.swf" />
+    <tag>_userrole_admin</tag>
+  </component>
   <component type="faceshape" id="1001" path="1001" name="1001" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="default" filename="default.swf" />
     <tag>_userrole_admin</tag>
