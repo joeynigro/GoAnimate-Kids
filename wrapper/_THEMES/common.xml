@@ -2811,7 +2811,7 @@
 	<prop id="PROP289" index="15">
 		<file>common.msp_plates_01.msp_plates_01_plate_side02.swf</file>
 		<x>394.1</x>
-		<y>241</y>
+		<y>255</y>
 		<xscale>1</xscale>
 		<yscale>1</yscale>
 		<face>-1</face>
@@ -2820,7 +2820,7 @@
 	<prop id="PROP290" index="14">
 		<file>common.msp_plates_01.msp_plates_01_plate_side02.swf</file>
 		<x>220.1</x>
-		<y>253</y>
+		<y>265</y>
 		<xscale>1</xscale>
 		<yscale>1</yscale>
 		<face>1</face>
@@ -12643,7 +12643,7 @@
 		<rotation>63.9</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="ncc_oldbridge" name="The Old North Bridge" enable="Y" default="N" thumb="ncc_old_northbridge.jpg" display_order="515" is_premium="Y" money="0" sharing="0" aid="12017">
+	<compositebg id="ncc_oldbridge" name="The Old North Bridge" enable="N" default="N" thumb="ncc_old_northbridge.jpg" display_order="515" is_premium="Y" money="0" sharing="0" aid="12017">
 	<bg id="ncc_oldbridge_BG7" index="0">
 		<file>common.ncc_warland.swf</file>
 	</bg>
@@ -15406,6 +15406,7 @@
 	<prop id="ruler.swf" name="Ruler" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="stick"/>
 	<prop id="school_glue.swf" name="School glue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
 	<prop id="bench.swf" name="Bench" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
+	<prop id="bandage.swf" name="Bandage" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
     <prop id="leg_cast.swf" name="Leg cast" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0"/>
     <prop id="money.swf" name="Money" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="11337" money="0" sharing="0" handstyle="flat"/>
     <prop id="msp_school_bus" name="School Bus" holdable="" placeable="1" wearable="" facing="left" thumb="msp_school_bus_school_bus_full.swf" enable="Y" is_premium="N" aid="11038" money="" sharing="">
