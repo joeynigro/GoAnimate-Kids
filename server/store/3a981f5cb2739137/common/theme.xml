@@ -2811,7 +2811,7 @@
 	<prop id="PROP289" index="15">
 		<file>common.msp_plates_01.msp_plates_01_plate_side02.swf</file>
 		<x>394.1</x>
-		<y>241</y>
+		<y>255</y>
 		<xscale>1</xscale>
 		<yscale>1</yscale>
 		<face>-1</face>
@@ -2820,7 +2820,7 @@
 	<prop id="PROP290" index="14">
 		<file>common.msp_plates_01.msp_plates_01_plate_side02.swf</file>
 		<x>220.1</x>
-		<y>253</y>
+		<y>265</y>
 		<xscale>1</xscale>
 		<yscale>1</yscale>
 		<face>1</face>
@@ -12643,7 +12643,7 @@
 		<rotation>63.9</rotation>
 	</prop>
 </compositebg>
-	<compositebg id="ncc_oldbridge" name="The Old North Bridge" enable="Y" default="N" thumb="ncc_old_northbridge.jpg" display_order="515" is_premium="Y" money="0" sharing="0" aid="12017">
+	<compositebg id="ncc_oldbridge" name="The Old North Bridge" enable="N" default="N" thumb="ncc_old_northbridge.jpg" display_order="515" is_premium="Y" money="0" sharing="0" aid="12017">
 	<bg id="ncc_oldbridge_BG7" index="0">
 		<file>common.ncc_warland.swf</file>
 	</bg>
