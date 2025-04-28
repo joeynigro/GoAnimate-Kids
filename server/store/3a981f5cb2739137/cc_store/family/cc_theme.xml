@@ -5658,6 +5658,14 @@
 		<tag>boy</tag>
 		<tag>girl</tag>
 	</component>
+	<component type="glasses" id="upper_frames" path="upper_frames" name="upper_frames" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+		<tag>boy</tag>
+		<tag>girl</tag>
+	</component>
+	<component type="glasses" id="lower_frames" path="lower_frames" name="lower_frames" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="hair" id="084" path="084" name="084" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 		<tag>girl</tag>
