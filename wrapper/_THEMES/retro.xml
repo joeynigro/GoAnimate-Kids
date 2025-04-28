@@ -506,8 +506,8 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="352"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="353"/>
 		<action id="hi5_A.swf" name="hi five" loop="Y" totalframe="100" enable="Y" aid="354"/>
-		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="Y" aid="355"/>
-		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="Y" aid="356"/>
+		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="355"/>
+		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="356"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="357"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="358"/>
 		<action id="wave_A.swf" name="wave to" loop="Y" totalframe="100" enable="Y" aid="359"/>
@@ -560,8 +560,8 @@
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="404"/>
 		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="405"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="406"/>
-		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="Y" aid="407"/>
-		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="Y" aid="408"/>
+		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="407"/>
+		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="408"/>
 		<action id="32_hug.swf" name="hug" loop="Y" totalframe="100" enable="Y" aid="409"/>
 		<action id="hi5_A.swf" name="hi five" loop="Y" totalframe="100" enable="Y" aid="410"/>
 		<action id="33_poke.swf" name="poke" loop="Y" totalframe="100" enable="Y" aid="411"/>
@@ -607,8 +607,8 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="449"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="450"/>
 		<action id="hi5_A.swf" name="hi five" loop="Y" totalframe="100" enable="Y" aid="451"/>
-		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="Y" aid="452"/>
-		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="Y" aid="453"/>
+		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="452"/>
+		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="453"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="454"/>
 		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="455"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="456"/>
@@ -656,8 +656,8 @@
 		<action id="20_danc.swf" name="dance with" loop="Y" totalframe="100" enable="Y" aid="496"/>
 		<action id="24_mus.swf" name="play music with" loop="Y" totalframe="100" enable="Y" aid="497"/>
 		<action id="hi5_A.swf" name="hi five" loop="Y" totalframe="100" enable="Y" aid="498"/>
-		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="Y" aid="499"/>
-		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="Y" aid="500"/>
+		<action id="beer_A.swf" name="give a beer to" loop="Y" totalframe="100" enable="N" aid="499"/>
+		<action id="beer_B.swf" name="get beer" loop="Y" totalframe="100" enable="N" aid="500"/>
 		<action id="10_thx.swf" name="thank" loop="Y" totalframe="100" enable="Y" aid="501"/>
 		<action id="13_bop.swf" name="hurt" loop="Y" totalframe="100" enable="Y" aid="502"/>
 		<action id="38_hurt.swf" name="get hurt by" loop="Y" totalframe="100" enable="Y" aid="503"/>
