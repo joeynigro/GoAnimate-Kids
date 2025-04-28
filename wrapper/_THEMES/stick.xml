@@ -1844,7 +1844,7 @@
 	<c_area oc="">sfOutline</c_area>
 </c_parts>
 	</prop>
-	<prop id="013.swf" name="Jason Mask" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="7530" money="0" sharing="0">
+	<prop id="013.swf" name="Jason Mask" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="N" is_premium="N" aid="7530" money="0" sharing="0">
 		<colorset enable="Y" aid="7531">
 	<color r="sfOutline">0x000000</color>
 	<color r="sfHeadProp">0xFFFFFF</color>
