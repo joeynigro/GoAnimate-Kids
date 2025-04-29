@@ -346,9 +346,11 @@
 			<action id="walk" name="Walk" loop="Y" totalframe="26" enable="Y" is_motion="Y" category="Daily life">
 				<selection type="facial" facial_id="head_neutral"/>
 			</action>
+		</actionpack>
+		<actionpack id="mobile_device" name="Mobile Devices" money="0" sharing="0" enable="Y">
 			<action id="talk_on_phone" name="Talk on Phone" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Mobile devices">
 				<selection type="facial" facial_id="head_talkneutral"/>
-				<prop id="cellphone.swf" theme="poptropica"/>
+				<prop id="cellphone.swf" theme="poptropica" />
 			</action>
 		</actionpack>
 		
