@@ -396,7 +396,7 @@
     <library type="GoLower" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="003" path="003" name="003" thumb="003_thumbnail.swf" money="0" sharing="0" enable="Y" />
-	<library type="GoLower" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="Y"/>
+	<library type="GoLower" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="N"/>
     <library type="GoLower" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoLower" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
