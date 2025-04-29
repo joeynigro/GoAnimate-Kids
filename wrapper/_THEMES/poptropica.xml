@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="poptropica" name="Poptropica" cc_theme_id="poptropica">
-  <prop id="cellphone.swf" name="Phone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" money="0" sharing="0"/>
+  <prop id="cellphone.swf" name="Phone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="10001" money="0" sharing="0"/>
   <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs Characters</tags>
   </char>
