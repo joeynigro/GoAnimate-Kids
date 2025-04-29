@@ -405,9 +405,6 @@
     <state id="scared" filename="scared.swf" />
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
-    <state id="talk_angry" filename="talk_angry.swf" />
-    <state id="talk_happy" filename="talk_happy.swf" />
-    <state id="talk_sad" filename="talk_sad.swf" />
   </component>
   <component type="mouth" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
@@ -418,9 +415,6 @@
     <state id="scared" filename="scared.swf" />
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
-    <state id="talk_angry" filename="talk_angry.swf" />
-    <state id="talk_happy" filename="talk_happy.swf" />
-    <state id="talk_sad" filename="talk_sad.swf" />
   </component>
 	<component type="facedecoration" id="wrinkles" path="wrinkles" name="wrinkles" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
