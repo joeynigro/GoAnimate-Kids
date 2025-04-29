@@ -168,16 +168,39 @@
 		<choice>0x000000</choice>
 		<choice>0x513220</choice>
 		<choice>0xF5C455</choice>
+		<choice>0xB93F0F</choice>
+		<choice>0xC0C0C0</choice>
+		<choice>0x4F4F4F</choice>
+		<choice>0x501B2E</choice>
+		<choice>0x26170D</choice>
+		<choice>0x4B3621</choice>
+		<choice>0x7E400A</choice>
+		<choice>0xFF6600</choice>
 		<choice>0xA0522D</choice>
-		<choice>0xB7A99A</choice>
-		<choice>0x2C2C2C</choice>
-		<choice>0x7A5230</choice>
-		<choice>0xE8C37C</choice>
-		<choice>0xD4A373</choice>
-		<choice>0xC0A06F</choice>
-		<choice>0x71655A</choice>
-		<choice>0xFFFFFF</choice>
+		<choice>0x967541</choice>
+		<choice>0xDEB887</choice>
+		<choice>0xFFFACD</choice>
 	</color>
+    <color r="ccBackMajor" component_type="GoBehindBody" enable="Y">
+		<choice>0xFFDAB9</choice>
+		<choice>0xB0E0E6</choice>
+		<choice>0x7CFC00</choice>
+		<choice>0xD2691E</choice>
+		<choice>0xFF69B4</choice>
+		<choice>0xC71585</choice>
+		<choice>0x20B2AA</choice>
+		<choice>0x708090</choice>
+    </color>
+    <color r="ccBackMinor" component_type="GoBehindBody" enable="Y">
+		<choice>0xE0FFFF</choice>
+		<choice>0xDA70D6</choice>
+		<choice>0xBC8F8F</choice>
+		<choice>0xF0FFF0</choice>
+		<choice>0xFFB6C1</choice>
+		<choice>0xF5FFFA</choice>
+		<choice>0xFFEFD5</choice>
+		<choice>0x2F4F4F</choice>
+    </color>
 	<facial id="head_neutral" name="Neutral" enable="Y">
 		<selection type="eye" state_id="default"/>
 		<selection type="facedecoration" state_id="default"/>
