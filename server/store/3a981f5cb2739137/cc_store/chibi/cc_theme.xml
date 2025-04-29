@@ -3557,6 +3557,9 @@
 	
 	<!-- HAIR START HERE -->
 	<!--PAGE 1 - first spot blank - 11 items on PAGE1 -->
+	<component type="hair" id="6047" path="6047" name="6047" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf" />
+	</component>
 	<component type="hair" id="6001" path="6001" name="6001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf" />
 	</component>
