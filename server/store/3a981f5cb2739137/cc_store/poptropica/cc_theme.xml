@@ -328,7 +328,7 @@
 		<library type="GoHands" component_id="001" theme_id="poptropica" gobucks="0" gopoints="0"/>
 		<library type="GoFeet" component_id="001" theme_id="poptropica" gobucks="0" gopoints="0"/>
 		<library type="GoLower" component_id="001" theme_id="poptropica" gobucks="10" gopoints="0"/>
-		<library type="GoUpper" component_id="001" theme_id="poptropica" gobucks="40" gopoints="0"/>
+		<library type="GoUpper" component_id="006" theme_id="poptropica" gobucks="40" gopoints="0"/>
 		</default_char>
 		
 		<actionpack id="standard" name="Standard" money="0" sharing="0" enable="Y">
@@ -340,6 +340,7 @@
 			</action>
 		</actionpack>
 		
+    <library type="GoUpper" id="bare" path="bare" name="bare" thumb="bare_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
     <library type="GoUpper" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="003" path="003" name="003" thumb="003_thumbnail.swf" money="0" sharing="0" enable="Y" />
@@ -349,9 +350,14 @@
 	<library type="GoUpper" id="007" path="007" name="007" thumb="007_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="008" path="008" name="008" thumb="008_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="009" path="009" name="009" thumb="009_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="010" path="010" name="010" thumb="010_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="011" path="011" name="011" thumb="011_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="012" path="012" name="012" thumb="012_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="013" path="013" name="013" thumb="013_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="goofy_mayor_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
-	<library type="GoUpper" id="van_buren" path="van_buren" name="van_buren" thumb="van_buren_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N"/>
+	<library type="GoUpper" id="van_buren" path="van_buren" name="van_buren" thumb="van_buren_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 
     <library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	
@@ -361,7 +367,8 @@
 	
     <library type="GoHair" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="002" path="002" name="002" thumb="" money="0" sharing="0" enable="Y" />
-	<library type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" random_able="N"/>
+	<library type="GoHair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 
     <library type="GoHands" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoFeet" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
@@ -423,6 +430,9 @@
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
   <component type="mouth" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -569,6 +579,9 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="scar" path="scar" name="scar" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="mustache001" path="mustache001" name="mustache001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="facedecoration" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">

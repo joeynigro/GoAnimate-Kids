@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="poptropica" name="Poptropica" cc_theme_id="poptropica">
+  <char id="10003" name="Silly Mayor" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mayor.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="10002" name="Halloween - Skeleton" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/skeleton.png" copyable="Y">
     <tags>poptropica,_free,_cat:Holidays</tags>
   </char>
