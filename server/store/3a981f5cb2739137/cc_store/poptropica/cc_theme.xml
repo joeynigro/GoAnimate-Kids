@@ -414,6 +414,30 @@
     <state id="default" filename="default.swf" />
     <state id="sick" filename="sick.swf" />
   </component>
+  <component type="faceshape" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+    <state id="sick" filename="sick.swf" />
+  </component>
+  <component type="faceshape" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+    <state id="sick" filename="sick.swf" />
+  </component>
+  <component type="faceshape" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+    <state id="sick" filename="sick.swf" />
+  </component>
+  <component type="faceshape" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+    <state id="sick" filename="sick.swf" />
+  </component>
+  <component type="faceshape" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+    <state id="sick" filename="sick.swf" />
+  </component>
+  <component type="faceshape" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+    <state id="sick" filename="sick.swf" />
+  </component>
   <component type="faceshape" id="skeleton" path="skeleton" name="skeleton" thumb="thumbnail.swf" money="0" sharing="0" enable="N">
     <state id="default" filename="default.swf" />
     <state id="sick" filename="sick.swf" />
@@ -621,7 +645,40 @@
 	<component type="facedecoration" id="mustache001" path="mustache001" name="mustache001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
+	<component type="facedecoration" id="mustache002" path="mustache002" name="mustache002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="mustache003" path="mustache003" name="mustache003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="mustache004" path="mustache004" name="mustache004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="mustache005" path="mustache005" name="mustache005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="mustache006" path="mustache006" name="mustache006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="facedecoration" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goatee001" path="goatee001" name="goatee001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goatee002" path="goatee002" name="goatee002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="goatee003" path="goatee003" name="goatee003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="chinbeard001" path="chinbeard001" name="chinbeard001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="chinbeard002" path="chinbeard002" name="chinbeard002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="facedecoration" id="long_beard" path="long_beard" name="long_beard" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
