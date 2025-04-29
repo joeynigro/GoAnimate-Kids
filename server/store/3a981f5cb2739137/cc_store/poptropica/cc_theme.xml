@@ -378,11 +378,14 @@
 	<library type="GoUpper" id="014" path="014" name="014" thumb="014_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="015" path="015" name="015" thumb="015_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="016" path="016" name="016" thumb="016_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="017" path="017" name="017" thumb="017_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="knight" path="knight" name="knight" thumb="knight_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 
 	<library type="GoUpper" id="amelia" path="amelia" name="amelia" thumb="amelia_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoUpper" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
+	<library type="GoUpper" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="goofy_mayor_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="van_buren" path="van_buren" name="van_buren" thumb="van_buren_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 
@@ -391,6 +394,8 @@
     <library type="GoLower" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="003" path="003" name="003" thumb="003_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
+    <library type="GoLower" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoLower" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 	
     <library type="GoHair" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
@@ -433,6 +438,9 @@
 	
 	<library type="GoHair" id="amelia" path="amelia" name="amelia" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="black_widow" path="black_widow" name="black_widow" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+    <library type="GoHair" id="oliver" path="oliver" name="oliver" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="jorge" path="jorge" name="jorge" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="mya" path="mya" name="mya" thumb="" money="0" sharing="0" enable="Y" />
 	<library type="GoHair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 
@@ -630,6 +638,15 @@
   <component type="hair" id="black_widow" path="black_widow" name="black_widow" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="hair" id="oliver" path="oliver" name="oliver" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="jorge" path="jorge" name="jorge" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="mya" path="mya" name="mya" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="hair" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
@@ -756,6 +773,16 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
+  <component type="mouth" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
   <component type="mouth" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
@@ -767,6 +794,16 @@
     <state id="talk" filename="talk.swf" />
   </component>
   <component type="mouth" id="102" path="102" name="102" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="103" path="103" name="103" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
     <state id="default" filename="default.swf" />

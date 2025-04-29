@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme id="poptropica" name="Poptropica" cc_theme_id="poptropica">
   <prop id="cellphone.swf" name="Phone" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="1000" money="0" sharing="0"/>
+  <char id="10005" name="Oliver" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/oliver.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
+  <char id="10006" name="Jorge" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/jorge.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
+  <char id="10007" name="Mya" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/mya.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Kids</tags>
+  </char>
   <char id="10004" name="Amelia Earhart" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/amelia.png" copyable="Y">
     <tags>poptropica,_free,_cat:Jobs Characters</tags>
   </char>
