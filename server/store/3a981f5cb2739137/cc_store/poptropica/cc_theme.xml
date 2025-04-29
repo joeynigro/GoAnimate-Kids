@@ -445,6 +445,126 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
+  <component type="mouth" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="101" path="101" name="101" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
+  <component type="mouth" id="102" path="102" name="102" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
 	<component type="facedecoration" id="wrinkles" path="wrinkles" name="wrinkles" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
