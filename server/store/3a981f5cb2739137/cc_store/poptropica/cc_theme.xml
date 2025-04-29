@@ -182,24 +182,24 @@
 		<choice>0xFFFACD</choice>
 	</color>
     <color r="ccBackMajor" component_type="GoBehindBody" enable="Y">
-		<choice>0xFFDAB9</choice>
-		<choice>0xB0E0E6</choice>
-		<choice>0x7CFC00</choice>
-		<choice>0xD2691E</choice>
-		<choice>0xFF69B4</choice>
-		<choice>0xC71585</choice>
-		<choice>0x20B2AA</choice>
-		<choice>0x708090</choice>
+        <choice>0xAE0057</choice>
+        <choice>0x53A8DF</choice>
+        <choice>0xEC9EC5</choice>
+        <choice>0x360202</choice>
+        <choice>0xC1BFB8</choice>
+        <choice>0x5F4929</choice>
+        <choice>0x4A6028</choice>
+        <choice>0x000000</choice>
     </color>
     <color r="ccBackMinor" component_type="GoBehindBody" enable="Y">
-		<choice>0xE0FFFF</choice>
-		<choice>0xDA70D6</choice>
-		<choice>0xBC8F8F</choice>
-		<choice>0xF0FFF0</choice>
-		<choice>0xFFB6C1</choice>
-		<choice>0xF5FFFA</choice>
-		<choice>0xFFEFD5</choice>
-		<choice>0x2F4F4F</choice>
+        <choice>0xFFFFFF</choice>
+        <choice>0x555555</choice>
+        <choice>0xBC6A70</choice>
+        <choice>0x360202</choice>
+        <choice>0xC1BFB8</choice>
+        <choice>0xFFCC00</choice>
+        <choice>0x640F0F</choice>
+        <choice>0x000000</choice>
     </color>
 	<facial id="head_neutral" name="Neutral" enable="Y">
 		<selection type="eye" state_id="default"/>
