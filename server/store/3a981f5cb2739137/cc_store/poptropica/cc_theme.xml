@@ -395,9 +395,44 @@
 	
     <library type="GoHair" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="002" path="002" name="002" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="003" path="003" name="003" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="004" path="004" name="004" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="005" path="005" name="005" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="006" path="006" name="006" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="007" path="007" name="007" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="008" path="008" name="008" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="009" path="009" name="009" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="010" path="010" name="010" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="011" path="011" name="011" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="012" path="012" name="012" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="013" path="013" name="013" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="014" path="014" name="014" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="015" path="015" name="015" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="016" path="016" name="016" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="017" path="017" name="017" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="018" path="018" name="018" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="019" path="019" name="019" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="020" path="020" name="020" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="021" path="021" name="021" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="022" path="022" name="022" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="023" path="023" name="023" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="024" path="024" name="024" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="025" path="025" name="025" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="026" path="026" name="026" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="027" path="027" name="027" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="028" path="028" name="028" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="afro001" path="afro001" name="afro001" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="afro002" path="afro002" name="afro002" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="afro003" path="afro003" name="afro003" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="afro004" path="afro004" name="afro004" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="afro005" path="afro005" name="afro005" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="dreads" path="dreads" name="dreads" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="knight" path="knight" name="knight" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="rocker_male" path="rocker_male" name="rocker_male" thumb="" money="0" sharing="0" enable="Y" />
+    <library type="GoHair" id="rocker_female" path="rocker_female" name="rocker_female" thumb="" money="0" sharing="0" enable="Y" />
 	
 	<library type="GoHair" id="amelia" path="amelia" name="amelia" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoHair" id="black_widow" path="black_widow" name="black_widow" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 
@@ -484,10 +519,115 @@
   <component type="hair" id="002" path="002" name="002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="hair" id="amelia" path="amelia" name="amelia" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="hair" id="003" path="003" name="003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="004" path="004" name="004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="006" path="006" name="006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="007" path="007" name="007" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="008" path="008" name="008" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="009" path="009" name="009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="010" path="010" name="010" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="011" path="011" name="011" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="012" path="012" name="012" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="013" path="013" name="013" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="014" path="014" name="014" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="015" path="015" name="015" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="016" path="016" name="016" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="017" path="017" name="017" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="018" path="018" name="018" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="019" path="019" name="019" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="020" path="020" name="020" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="021" path="021" name="021" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="022" path="022" name="022" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="023" path="023" name="023" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="024" path="024" name="024" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="025" path="025" name="025" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="026" path="026" name="026" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="027" path="027" name="027" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="028" path="028" name="028" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="afro001" path="afro001" name="afro001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="afro002" path="afro002" name="afro002" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="afro003" path="afro003" name="afro003" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="afro004" path="afro004" name="afro004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="afro005" path="afro005" name="afro005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="dreads" path="dreads" name="dreads" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="knight" path="knight" name="knight" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="rocker_male" path="rocker_male" name="rocker_male" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="rocker_female" path="rocker_female" name="rocker_female" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="amelia" path="amelia" name="amelia" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
+  <component type="hair" id="black_widow" path="black_widow" name="black_widow" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
@@ -636,6 +776,9 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
+	<component type="facedecoration" id="eyeshadow" path="eyeshadow" name="eyeshadow" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
 	<component type="facedecoration" id="wrinkles" path="wrinkles" name="wrinkles" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
