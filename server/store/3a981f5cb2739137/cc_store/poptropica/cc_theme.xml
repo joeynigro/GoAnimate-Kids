@@ -348,7 +348,7 @@
 			</action>
 		</actionpack>
 		<actionpack id="mobile_device" name="Mobile Devices" money="0" sharing="0" enable="Y">
-			<action id="talk_on_phone" name="Talk on Phone" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Mobile devices">
+			<action id="talk_on_phone" name="Talk on Phone" loop="Y" totalframe="20" enable="Y" is_motion="N" category="Mobile devices">
 				<selection type="facial" facial_id="head_talkneutral"/>
 			</action>
 		</actionpack>
