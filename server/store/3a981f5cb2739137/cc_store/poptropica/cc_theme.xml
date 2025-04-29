@@ -350,7 +350,6 @@
 		<actionpack id="mobile_device" name="Mobile Devices" money="0" sharing="0" enable="Y">
 			<action id="talk_on_phone" name="Talk on Phone" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Mobile devices">
 				<selection type="facial" facial_id="head_talkneutral"/>
-				<prop id="cellphone.swf" theme="poptropica" aid="10001"/>
 			</action>
 		</actionpack>
 		
