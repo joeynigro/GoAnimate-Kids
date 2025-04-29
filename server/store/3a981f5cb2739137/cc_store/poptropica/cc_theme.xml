@@ -249,6 +249,14 @@
 		<selection type="hair" state_id="default"/>
 		<selection type="mouth" state_id="scared"/>
 	</facial>
+	<facial id="head_scheme" name="Scheming" enable="Y">
+		<selection type="eye" state_id="angry"/>
+		<selection type="facedecoration" state_id="default"/>
+		<selection type="faceshape" state_id="default"/>
+		<selection type="glasses" state_id="default"/>
+		<selection type="hair" state_id="default"/>
+		<selection type="mouth" state_id="happy"/>
+	</facial>
 	<facial id="head_shock" name="Shocked" enable="Y">
 		<selection type="eye" state_id="shock"/>
 		<selection type="facedecoration" state_id="default"/>
@@ -334,6 +342,10 @@
 		<actionpack id="standard" name="Standard" money="0" sharing="0" enable="Y">
 			<action id="stand" name="Standing" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Poses">
 				<selection type="facial" facial_id="head_neutral"/>
+			</action>
+			<action id="talk_on_phone" name="Talk on Phone" loop="Y" totalframe="1" enable="Y" is_motion="N" category="Mobile devices">
+				<selection type="facial" facial_id="head_talkneutral"/>
+				<prop id="cellphone.swf" theme="poptropica"/>
 			</action>
 			<action id="walk" name="Walk" loop="Y" totalframe="26" enable="Y" is_motion="Y" category="Daily life">
 				<selection type="facial" facial_id="head_neutral"/>
