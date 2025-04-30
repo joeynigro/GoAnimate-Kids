@@ -22,6 +22,9 @@
   <char id="10008" name="Comic Nerd" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/superhero_nerd.png" copyable="Y">
     <tags>poptropica,_free,_cat:Superheroes</tags>
   </char>
+  <char id="10009" name="Dr. Hare" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/dr_hare.png" copyable="Y">
+    <tags>poptropica,_free,_cat:Villains</tags>
+  </char>
   <char id="10001" name="Myron Van Buren" cc_theme_id="poptropica" thumbnail_url="thumbnails/poptropica/van_buren.png" copyable="Y">
     <tags>poptropica,_free,_cat:Villains</tags>
   </char>

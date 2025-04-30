@@ -388,6 +388,7 @@
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 
 	<library type="GoUpper" id="amelia" path="amelia" name="amelia" thumb="amelia_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoUpper" id="dr_hare" path="dr_hare" name="dr_hare" thumb="dr_hare_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoUpper" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="Y"/>
 	<library type="GoUpper" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
 	<library type="GoUpper" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
@@ -396,6 +397,7 @@
 
     <library type="GoBehindBody" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoBehindBody" id="cape_animated" path="cape_animated" name="cape_animated" thumb="cape_animated_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoBehindBody" id="dr_hare" path="dr_hare" name="dr_hare" thumb="dr_hare_thumbnail.swf" money="0" sharing="0" enable="Y" />
 
     <library type="GoLower" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
@@ -409,7 +411,8 @@
     <library type="GoLower" id="belt003" path="belt003" name="belt003" thumb="belt003_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoLower" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 	
-	<library type="GoLower" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="N"/>
+    <library type="GoLower" id="dr_hare" path="dr_hare" name="dr_hare" thumb="dr_hare_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoLower" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	
@@ -452,6 +455,7 @@
     <library type="GoHair" id="rocker_female" path="rocker_female" name="rocker_female" thumb="" money="0" sharing="0" enable="Y" />
 	
 	<library type="GoHair" id="amelia" path="amelia" name="amelia" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoHair" id="dr_hare" path="dr_hare" name="dr_hare" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="" money="0" sharing="0" enable="Y"/>
 	<library type="GoHair" id="black_widow" path="black_widow" name="black_widow" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
 	<library type="GoHair" id="van_buren" path="van_buren" name="van_buren" thumb="" money="0" sharing="0" enable="Y" random_able="N" />
@@ -663,6 +667,9 @@
   <component type="hair" id="amelia" path="amelia" name="amelia" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="hair" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="hair" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
@@ -844,6 +851,16 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
+  <component type="mouth" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="angry" filename="angry.swf" />
+    <state id="cry" filename="cry.swf" />
+    <state id="default" filename="default.swf" />
+    <state id="happy" filename="happy.swf" />
+    <state id="sad" filename="sad.swf" />
+    <state id="scared" filename="scared.swf" />
+    <state id="sick" filename="sick.swf" />
+    <state id="talk" filename="talk.swf" />
+  </component>
 	<component type="facedecoration" id="eyeshadow" path="eyeshadow" name="eyeshadow" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
@@ -893,6 +910,9 @@
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+		<state id="default" filename="default.swf"/>
+	</component>
+	<component type="glasses" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
