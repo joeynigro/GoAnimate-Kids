@@ -334,6 +334,7 @@
 		<default_char>
 		<color r="ccSkinColor">0xF4B99F</color>
 		<color r="ccHairMajor">0x513220</color>
+		<color r="ccLowerMain">0x494949</color>
 		<component type="bodyshape" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="freeaction" component_id="default" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
 		<component type="hair" component_id="001" theme_id="poptropica" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0" gobucks="0" gopoints="0"/>
@@ -379,8 +380,11 @@
 	<library type="GoUpper" id="015" path="015" name="015" thumb="015_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="016" path="016" name="016" thumb="016_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="017" path="017" name="017" thumb="017_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="018" path="018" name="018" thumb="018_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoUpper" id="019" path="019" name="019" thumb="019_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="explorer" path="explorer" name="explorer" thumb="explorer_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="knight" path="knight" name="knight" thumb="knight_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
+	<library type="GoUpper" id="overalls" path="overalls" name="overalls" thumb="overalls_thumbnail.swf" money="0" sharing="0" enable="Y" />
 	<library type="GoUpper" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 
 	<library type="GoUpper" id="amelia" path="amelia" name="amelia" thumb="amelia_thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N" />
@@ -396,10 +400,18 @@
     <library type="GoLower" id="001" path="001" name="001" thumb="001_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="002" path="002" name="002" thumb="002_thumbnail.swf" money="0" sharing="0" enable="Y" />
     <library type="GoLower" id="003" path="003" name="003" thumb="003_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="004" path="004" name="004" thumb="004_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="005" path="005" name="005" thumb="005_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="006" path="006" name="006" thumb="006_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="007" path="007" name="007" thumb="007_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="belt001" path="belt001" name="belt001" thumb="belt001_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="belt002" path="belt002" name="belt002" thumb="belt002_thumbnail.swf" money="0" sharing="0" enable="Y" />
+    <library type="GoLower" id="belt003" path="belt003" name="belt003" thumb="belt003_thumbnail.swf" money="0" sharing="0" enable="Y" />
+	<library type="GoLower" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
+	
 	<library type="GoLower" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="ned_noodlehead_thumbnail.swf" money="0" sharing="0" enable="N"/>
     <library type="GoLower" id="jorge" path="jorge" name="jorge" thumb="jorge_thumbnail.swf" money="0" sharing="0" enable="N" />
     <library type="GoLower" id="mya" path="mya" name="mya" thumb="mya_thumbnail.swf" money="0" sharing="0" enable="Y" />
-	<library type="GoLower" id="skeleton" path="skeleton" name="skeleton" thumb="skeleton_thumbnail.swf" money="0" sharing="0" enable="N" />
 	
     <library type="GoHair" id="001" path="001" name="001" thumb="" money="0" sharing="0" enable="Y" />
     <library type="GoHair" id="002" path="002" name="002" thumb="" money="0" sharing="0" enable="Y" />
