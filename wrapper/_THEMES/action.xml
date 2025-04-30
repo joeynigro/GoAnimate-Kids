@@ -370,10 +370,10 @@
   <char id="5009" name="Halloween - Grim Reaper" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/grim_reaper.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
-  <char id="5013" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgivign/pilgrim_male.png" copyable="Y">
+  <char id="5013" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgiving/pilgrim_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
-  <char id="5014" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgivign/pilgrim_female.png" copyable="Y">
+  <char id="5014" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgiving/pilgrim_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="5001" name="Christmss - Santa Claus" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/santa_peepz.png" copyable="Y">
