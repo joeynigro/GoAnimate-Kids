@@ -4216,6 +4216,18 @@
   <char id="7025" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/girl_002.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:female</tags>
   </char>
+  <char id="7026" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/guy_006.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
+  <char id="7027" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/girl_003.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:female</tags>
+  </char>
+  <char id="7028" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/girl_004.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:female</tags>
+  </char>
+  <char id="7026" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/classics/guy_007.png" copyable="Y">
+    <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
+  </char>
   <char id="5002" name="Halloween - Frankenstein's Monster" cc_theme_id="family" thumbnail_url="thumbnails/holidays/halloween/frank_monster.png" copyable="Y">
     <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>
