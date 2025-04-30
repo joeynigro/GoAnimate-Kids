@@ -663,7 +663,7 @@
   <component type="hair" id="amelia" path="amelia" name="amelia" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="hair" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+  <component type="hair" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="black_widow" path="black_widow" name="black_widow" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
@@ -672,13 +672,13 @@
   <component type="hair" id="van_buren" path="van_buren" name="van_buren" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="hair" id="oliver" path="oliver" name="oliver" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+  <component type="hair" id="oliver" path="oliver" name="oliver" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="hair" id="jorge" path="jorge" name="jorge" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+  <component type="hair" id="jorge" path="jorge" name="jorge" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
-  <component type="hair" id="mya" path="mya" name="mya" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
+  <component type="hair" id="mya" path="mya" name="mya" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
   <component type="hair" id="goofy_mayor" path="goofy_mayor" name="goofy_mayor" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
