@@ -4162,6 +4162,15 @@
   <char id="3019" name="Cowboy" cc_theme_id="family" thumbnail_url="thumbnails/cowboy.png" copyable="Y">
     <tags>family,_free,_cat:Jobs Characters,_tag:male</tags>
   </char>
+  <char id="7030" name="Cheerleader" cc_theme_id="family" thumbnail_url="thumbnails/classics/cheerleader.png" copyable="Y">
+    <tags>family,_free,_cat:Sports Characters,_tag:female</tags>
+  </char>
+  <char id="7031" name="Basketball Player" cc_theme_id="family" thumbnail_url="thumbnails/classics/basketball_player.png" copyable="Y">
+    <tags>family,_free,_cat:Sports Characters,_tag:male</tags>
+  </char>
+  <char id="7032" name="Basketball Loser" cc_theme_id="family" thumbnail_url="thumbnails/classics/basketball_loser.png" copyable="Y">
+    <tags>family,_free,_cat:Sports Characters,_tag:male</tags>
+  </char>
   <char id="7001" name="Eric" cc_theme_id="family" thumbnail_url="thumbnails/classics/red_hoodie_guy.png" copyable="Y">
     <tags>family,_free,_cat:GoAnimate Classics,_tag:male</tags>
   </char>
