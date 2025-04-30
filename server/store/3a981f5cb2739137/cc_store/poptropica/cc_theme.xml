@@ -851,7 +851,7 @@
     <state id="sick" filename="sick.swf" />
     <state id="talk" filename="talk.swf" />
   </component>
-  <component type="mouth" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+  <component type="mouth" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
     <state id="angry" filename="angry.swf" />
     <state id="cry" filename="cry.swf" />
     <state id="default" filename="default.swf" />
@@ -912,7 +912,7 @@
 	<component type="glasses" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
 		<state id="default" filename="default.swf"/>
 	</component>
-	<component type="glasses" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+	<component type="glasses" id="dr_hare" path="dr_hare" name="dr_hare" thumb="thumbnail.swf" money="0" sharing="0" enable="Y" random_able="N">
 		<state id="default" filename="default.swf"/>
 	</component>
 	<component type="glasses" id="ned_noodlehead" path="ned_noodlehead" name="ned_noodlehead" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
