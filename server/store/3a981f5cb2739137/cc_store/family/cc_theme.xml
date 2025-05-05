@@ -1023,19 +1023,6 @@
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
 		</component>
-		<component type="lower_body" id="adam_019" path="adam_019" name="adam_019" thumb="thumbnail.swf" display_order="110" money="0" sharing="0" enable="Y">
-			<state id="dance" filename="dance.swf"/>
-			<state id="default" filename="default.swf"/>
-			<state id="excited" filename="excited.swf"/>
-			<state id="fearful" filename="fearful.swf"/>
-			<state id="kneel_down" filename="kneel_down.swf"/>
-			<state id="laugh" filename="laugh.swf"/>
-			<state id="run" filename="run.swf"/>
-			<state id="sit" filename="sit.swf"/>
-			<state id="walk" filename="walk.swf"/>
-			<tag>boy</tag>
-			<tag>girl</tag>
-		</component>
 		<component type="lower_body" id="adam_009" path="adam_009" name="adam_009" thumb="thumbnail.swf" display_order="120" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
 			<state id="default" filename="default.swf"/>
@@ -1070,6 +1057,19 @@
 			<state id="run" filename="run.swf"/>
 			<state id="sit" filename="sit.swf"/>
 			<state id="walk" filename="walk.swf"/>
+		</component>
+		<component type="lower_body" id="adam_019" path="adam_019" name="adam_019" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
+			<state id="dance" filename="dance.swf"/>
+			<state id="default" filename="default.swf"/>
+			<state id="excited" filename="excited.swf"/>
+			<state id="fearful" filename="fearful.swf"/>
+			<state id="kneel_down" filename="kneel_down.swf"/>
+			<state id="laugh" filename="laugh.swf"/>
+			<state id="run" filename="run.swf"/>
+			<state id="sit" filename="sit.swf"/>
+			<state id="walk" filename="walk.swf"/>
+			<tag>boy</tag>
+			<tag>girl</tag>
 		</component>
 		<component type="lower_body" id="adam_046" path="adam_046" name="adam_046" thumb="thumbnail.swf" display_order="140" money="0" sharing="0" enable="Y">
 			<state id="dance" filename="dance.swf"/>
