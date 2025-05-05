@@ -268,6 +268,9 @@
   <char id="4029" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_028.png" copyable="Y">
     <tags>cc2,_free,_cat:Kids</tags>
   </char>
+  <char id="4030" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/kid_029.png" copyable="Y">
+    <tags>cc2,_free,_cat:Kids</tags>
+  </char>
   <char id="9021" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_021.png" copyable="Y">
     <tags>cc2,_free,_cat:Casual Adults</tags>
   </char>
@@ -292,6 +295,15 @@
   <char id="9029" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_029.png" copyable="Y">
     <tags>cc2,_free,_cat:Casual Adults</tags>
   </char>
+  <char id="9034" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_032.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual Adults</tags>
+  </char>
+  <char id="9035" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_033.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual Adults</tags>
+  </char>
+  <char id="9036" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/adult_034.png" copyable="Y">
+    <tags>cc2,_free,_cat:Casual Adults</tags>
+  </char>
   <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
   </char>
@@ -300,6 +312,24 @@
   </char>
   <char id="3022" name="Magician" cc_theme_id="cc2" thumbnail_url="thumbnails/magician_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
+  </char>
+  <char id="14001" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_001.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14002" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_002.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14003" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_003.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14004" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_004.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14006" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_005.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14005" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/jogger.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
   </char>
   <char id="12001" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_001.png" copyable="Y">
     <tags>cc2,_free,_cat:GoAnimate Classics</tags>
@@ -368,6 +398,9 @@
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="5009" name="Halloween - Grim Reaper" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/grim_reaper.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5015" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgiving/pilgrim_male2.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="5013" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgiving/pilgrim_male.png" copyable="Y">
