@@ -1220,51 +1220,51 @@
 	<prop id="shop01_prop03.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17406" money="0" sharing="0"/>
 	<prop id="shop01_prop04.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="17407" money="0" sharing="0"/>
   <char id="13001" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_001.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13002" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_002.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13003" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_003.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13004" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_004.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13005" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_005.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13006" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_006.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13007" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_007.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13008" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_008.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13009" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_009.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13010" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_010.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13011" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_011.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13012" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_012.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13013" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_013.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13014" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_014.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13015" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_015.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
   <char id="13016" name="Untitled" cc_theme_id="anime" thumbnail_url="thumbnails/anime_016.png" copyable="Y">
-    <tags>anime</tags>
+    <tags>anime,_free</tags>
   </char>
 </theme>
