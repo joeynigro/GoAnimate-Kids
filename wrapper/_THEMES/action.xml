@@ -307,6 +307,9 @@
   <char id="3021" name="Police Officer" cc_theme_id="cc2" thumbnail_url="thumbnails/police_male_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
   </char>
+  <char id="3023" name="Scientist" cc_theme_id="cc2" thumbnail_url="thumbnails/scientist.png" copyable="Y">
+    <tags>cc2,_free,_cat:Jobs Characters</tags>
+  </char>
   <char id="3006" name="Pirate" cc_theme_id="cc2" thumbnail_url="thumbnails/pirate.png" copyable="Y">
     <tags>cc2,_free,_cat:Jobs Characters</tags>
   </char>
@@ -326,6 +329,30 @@
     <tags>cc2,_free,_cat:Sports Characters</tags>
   </char>
   <char id="14006" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_005.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14007" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_006.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14008" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_007.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14009" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_008.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14010" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_009.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14011" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_010.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14012" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_011.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14013" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_012.png" copyable="Y">
+    <tags>cc2,_free,_cat:Sports Characters</tags>
+  </char>
+  <char id="14014" name="Basketball Player" cc_theme_id="cc2" thumbnail_url="thumbnails/basketball_player_013.png" copyable="Y">
     <tags>cc2,_free,_cat:Sports Characters</tags>
   </char>
   <char id="14005" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/jogger.png" copyable="Y">
@@ -385,7 +412,28 @@
   <char id="12018" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_018.png" copyable="Y">
     <tags>cc2,_free,_cat:GoAnimate Classics</tags>
   </char>
+  <char id="12019" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_019.png" copyable="Y">
+    <tags>cc2,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="12020" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_020.png" copyable="Y">
+    <tags>cc2,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="12021" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_021.png" copyable="Y">
+    <tags>cc2,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="12022" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_022.png" copyable="Y">
+    <tags>cc2,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="12023" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_023.png" copyable="Y">
+    <tags>cc2,_free,_cat:GoAnimate Classics</tags>
+  </char>
+  <char id="12024" name="Untitled" cc_theme_id="cc2" thumbnail_url="thumbnails/classics/peepz_024.png" copyable="Y">
+    <tags>cc2,_free,_cat:GoAnimate Classics</tags>
+  </char>
   <char id="5010" name="Easter - Easter Bunny" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/easter/bunny.png" copyable="Y">
+    <tags>cc2,_free,_cat:Holidays</tags>
+  </char>
+  <char id="5016" name="Halloween - Frankenstein's Monster" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/frank_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="5004" name="Halloween - Skeleton" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/halloween/skeleton.png" copyable="Y">
