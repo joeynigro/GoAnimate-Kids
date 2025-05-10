@@ -457,10 +457,10 @@
   <char id="5014" name="Thanksgiving - Pilgrim" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/thanksgiving/pilgrim_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
-  <char id="5001" name="Christmss - Santa Claus" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/santa_peepz.png" copyable="Y">
+  <char id="5001" name="Christmas - Santa Claus" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/santa_peepz.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
-  <char id="5011" name="Christmss - Snowman" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/snowman.png" copyable="Y">
+  <char id="5011" name="Christmas - Snowman" cc_theme_id="cc2" thumbnail_url="thumbnails/holidays/xmas/snowman.png" copyable="Y">
     <tags>cc2,_free,_cat:Holidays</tags>
   </char>
   <char id="6001" name="SpongeBob SquarePants" cc_theme_id="cc2" thumbnail_url="thumbnails/spongebob.png" copyable="Y">
