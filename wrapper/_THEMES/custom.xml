@@ -4277,7 +4277,7 @@
     <tags>family,_free,_cat:Holidays,_tag:female</tags>
   </char>
   <char id="5012" name="Christmas - Santa Claus" cc_theme_id="family" thumbnail_url="thumbnails/holidays/xmas/santa.png" copyable="Y">
-    <tags>family,_free,_cat:Holidays</tags>
+    <tags>family,_free,_cat:Holidays,_tag:male</tags>
   </char>
   <char id="7008" name="Superhero" cc_theme_id="family" thumbnail_url="thumbnails/superhero_001.png" copyable="Y">
     <tags>family,_free,_cat:Superheroes,_tag:male</tags>
