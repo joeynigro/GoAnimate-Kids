@@ -4000,6 +4000,15 @@
   <char id="4027" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_026.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:female</tags>
   </char>
+  <char id="4031" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_030.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
+  <char id="4032" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_031.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:female</tags>
+  </char>
+  <char id="4033" name="Untitled" cc_theme_id="family" thumbnail_url="thumbnails/kid_032.png" copyable="Y">
+    <tags>family,_free,_cat:Kids,_tag:male</tags>
+  </char>
   <char id="4002" name="Bully" cc_theme_id="family" thumbnail_url="thumbnails/bully.png" copyable="Y">
     <tags>family,_free,_cat:Kids,_tag:male</tags>
   </char>
