@@ -765,7 +765,10 @@
   <char id="3025" name="Commander" cc_theme_id="cc2" thumbnail_url="thumbnails/commander_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Space Characters</tags>
   </char>
-  <char id="6002" name="Alien" cc_theme_id="cc2" thumbnail_url="thumbnails/alien.png" copyable="Y">
+  <char id="6002" name="Alien" cc_theme_id="cc2" thumbnail_url="thumbnails/alien_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Space Characters</tags>
+  </char>
+  <char id="6005" name="Alien" cc_theme_id="cc2" thumbnail_url="thumbnails/alien_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Space Characters</tags>
   </char>
 </theme>
