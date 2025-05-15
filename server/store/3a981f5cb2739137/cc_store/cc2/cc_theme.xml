@@ -4522,6 +4522,9 @@
   <component type="hair" id="droopy_dog_ears" path="droopy_dog_ears" name="droopy_dog_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>
+  <component type="hair" id="koala_ears" path="koala_ears" name="koala_ears" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+    <state id="default" filename="default.swf" />
+  </component>
   <component type="hair" id="lion" path="lion" name="lion" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
     <state id="default" filename="default.swf" />
   </component>

@@ -125,6 +125,12 @@
   <char id="2011" name="Fox" cc_theme_id="cc2" thumbnail_url="thumbnails/fox_female.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
+  <char id="2036" name="Koala" cc_theme_id="cc2" thumbnail_url="thumbnails/koala_male.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
+  <char id="2035" name="Koala" cc_theme_id="cc2" thumbnail_url="thumbnails/koala_female.png" copyable="Y">
+    <tags>cc2,_free,_cat:Animals</tags>
+  </char>
   <char id="2014" name="Lemur" cc_theme_id="cc2" thumbnail_url="thumbnails/lemur_male.png" copyable="Y">
     <tags>cc2,_free,_cat:Animals</tags>
   </char>
